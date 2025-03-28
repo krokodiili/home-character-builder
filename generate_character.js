@@ -9,11 +9,10 @@ async function generateCharacter(jsonPath) {
 
   const browser = await puppeteer.launch({
     args: ["--disable-web-security", "--allow-file-access-from-files"],
-    headless: false,
+    // headless: false,
   });
 
   const context = browser.defaultBrowserContext();
-  console.log(`file://${__dirname}/index.html`);
   await context
     .overridePermissions(`file://${__dirname}`, [
       "clipboard-write",
@@ -37,8 +36,6 @@ async function generateCharacter(jsonPath) {
   await page.evaluate(async (data) => {
     // Simulate clicking "Import from Clipboard" and providing JSON
     const importButton = document.querySelector("button.importFromClipboard");
-    console.log(importButton, "importButton");
-    console.log(data, "datis");
     await navigator.clipboard.writeText(data);
     await importButton.click();
   }, jsonData);
@@ -66,7 +63,7 @@ async function generateCharacter(jsonPath) {
 
   console.log(`Character PNG saved to: ${outputPath}`);
 
-  //  await browser.close();
+  await browser.close();
 }
 
 // CLI handling
