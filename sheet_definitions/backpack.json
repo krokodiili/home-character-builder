@@ -1,7 +1,10 @@
 {
   "name": "Backpack",
   "type_name": "backpack",
-  "tags": ["back", "backpack"],
+  "tags": [
+    "back",
+    "backpack"
+  ],
   "preview_row": 0,
   "layer_1": {
     "zPos": 110,
@@ -48,5 +51,26 @@
         "https://opengameart.org/content/lpc-backpacks"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "backpack-Backpack_black",
+    "blue": "backpack-Backpack_bluegray",
+    "forest": "backpack-Backpack_forest",
+    "gray": "backpack-Backpack_gray",
+    "green": "backpack-Backpack_green",
+    "lavender": "backpack-Backpack_lavender",
+    "leather": "backpack-Backpack_leather",
+    "maroon": "backpack-Backpack_maroon",
+    "navy": "backpack-Backpack_navy",
+    "orange": "backpack-Backpack_orange",
+    "pink": "backpack-Backpack_pink",
+    "purple": "backpack-Backpack_purple",
+    "red": "backpack-Backpack_red",
+    "sky": "backpack-Backpack_sky",
+    "tan": "backpack-Backpack_tan",
+    "teal": "backpack-Backpack_teal",
+    "walnut": "backpack-Backpack_walnut",
+    "white": "backpack-Backpack_white",
+    "yellow": "backpack-Backpack_yellow"
+  }
 }

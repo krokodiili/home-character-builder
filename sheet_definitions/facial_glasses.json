@@ -78,5 +78,38 @@
         "https://opengameart.org/content/lpc-expanded-sit-run-jump-more"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "facial_eyes-Glasses_black",
+    "blue": "facial_eyes-Glasses_bluegray",
+    "brown": "facial_eyes-Glasses_brown",
+    "charcoal": "facial_eyes-Glasses_charcoal",
+    "forest": "facial_eyes-Glasses_forest",
+    "gray": "facial_eyes-Glasses_gray",
+    "green": "facial_eyes-Glasses_green",
+    "lavender": "facial_eyes-Glasses_lavender",
+    "leather": "facial_eyes-Glasses_leather",
+    "maroon": "facial_eyes-Glasses_maroon",
+    "navy": "facial_eyes-Glasses_navy",
+    "orange": "facial_eyes-Glasses_orange",
+    "pink": "facial_eyes-Glasses_pink",
+    "purple": "facial_eyes-Glasses_purple",
+    "red": "facial_eyes-Glasses_red",
+    "rose": "facial_eyes-Glasses_rose",
+    "sky": "facial_eyes-Glasses_sky",
+    "slate": "facial_eyes-Glasses_slate",
+    "tan": "facial_eyes-Glasses_tan",
+    "teal": "facial_eyes-Glasses_teal",
+    "walnut": "facial_eyes-Glasses_walnut",
+    "white": "facial_eyes-Glasses_white",
+    "yellow": "facial_eyes-Glasses_yellow",
+    "steel": "facial_eyes-Glasses_steel",
+    "iron": "facial_eyes-Glasses_iron",
+    "ceramic": "facial_eyes-Glasses_ceramic",
+    "brass": "facial_eyes-Glasses_brass",
+    "copper": "facial_eyes-Glasses_copper",
+    "bronze": "facial_eyes-Glasses_bronze",
+    "silver": "facial_eyes-Glasses_silver",
+    "gold": "facial_eyes-Glasses_gold"
+  }
 }

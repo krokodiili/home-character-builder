@@ -66,5 +66,19 @@
         "https://opengameart.org/content/lpc-magic-staff"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "medium": "weapon-S_staff_medium",
+    "light": "weapon-S_staff_light",
+    "red": "weapon-S_staff_red",
+    "dark": "weapon-S_staff_dark",
+    "brass": "weapon-S_staff_brass",
+    "bronze": "weapon-S_staff_bronze",
+    "ceramic": "weapon-S_staff_ceramic",
+    "copper": "weapon-S_staff_copper",
+    "gold": "weapon-S_staff_gold",
+    "iron": "weapon-S_staff_iron",
+    "silver": "weapon-S_staff_silver",
+    "steel": "weapon-S_staff_steel"
+  }
 }

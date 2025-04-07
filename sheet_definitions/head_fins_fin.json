@@ -70,5 +70,23 @@
         "http://opengameart.org/content/lpc-clothing-updates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "fins-Fin_light",
+    "amber": "fins-Fin_amber",
+    "olive": "fins-Fin_olive",
+    "taupe": "fins-Fin_taupe",
+    "bronze": "fins-Fin_bronze",
+    "brown": "fins-Fin_fur_brown",
+    "black": "fins-Fin_fur_black",
+    "lavender": "fins-Fin_lavender",
+    "blue": "fins-Fin_blue",
+    "zombie_green": "fins-Fin_zombie_green",
+    "green": "fins-Fin_dark_green",
+    "fur_tan": "fins-Fin_fur_tan",
+    "fur_copper": "fins-Fin_fur_copper",
+    "fur_gold": "fins-Fin_fur_gold",
+    "fur_grey": "fins-Fin_fur_grey",
+    "fur_white": "fins-Fin_fur_white"
+  }
 }

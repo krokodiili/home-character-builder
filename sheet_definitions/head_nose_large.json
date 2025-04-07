@@ -68,5 +68,24 @@
         "https://opengameart.org/content/lpc-expanded-sit-run-jump-more"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "nose-Large_nose_light",
+    "amber": "nose-Large_nose_amber",
+    "olive": "nose-Large_nose_olive",
+    "taupe": "nose-Large_nose_taupe",
+    "bronze": "nose-Large_nose_bronze",
+    "brown": "nose-Large_nose_fur_brown",
+    "black": "nose-Large_nose_fur_black",
+    "lavender": "nose-Large_nose_lavender",
+    "blue": "nose-Large_nose_blue",
+    "zombie_green": "nose-Large_nose_zombie_green",
+    "green": "nose-Large_nose_dark_green",
+    "fur_tan": "nose-Large_nose_fur_tan",
+    "fur_copper": "nose-Large_nose_fur_copper",
+    "fur_gold": "nose-Large_nose_fur_gold",
+    "fur_grey": "nose-Large_nose_fur_grey",
+    "fur_white": "nose-Large_nose_fur_white",
+    "zombie": "nose-Large_nose_zombie"
+  }
 }

@@ -35,5 +35,14 @@
         "https://opengameart.org/content/lpc-pirates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "brown": "belt-Leather_Belt_brown",
+    "charcoal": "belt-Leather_Belt_charcoal",
+    "leather": "belt-Leather_Belt_leather",
+    "slate": "belt-Leather_Belt_slate",
+    "tan": "belt-Leather_Belt_tan",
+    "walnut": "belt-Leather_Belt_walnut",
+    "white": "belt-Leather_Belt_white"
+  }
 }

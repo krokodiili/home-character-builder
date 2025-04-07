@@ -33,5 +33,15 @@
         "https://opengameart.org/content/lpc-jewelry"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "steel": "necklace-Small_Beaded_Necklace_steel",
+    "iron": "necklace-Small_Beaded_Necklace_iron",
+    "ceramic": "necklace-Small_Beaded_Necklace_ceramic",
+    "brass": "necklace-Small_Beaded_Necklace_brass",
+    "copper": "necklace-Small_Beaded_Necklace_copper",
+    "bronze": "necklace-Small_Beaded_Necklace_bronze",
+    "silver": "necklace-Small_Beaded_Necklace_silver",
+    "gold": "necklace-Small_Beaded_Necklace_gold"
+  }
 }

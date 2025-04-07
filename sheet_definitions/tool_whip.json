@@ -42,5 +42,8 @@
         "https://opengameart.org/content/lpc-more-weapons"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "whip": "weapon-Whip_whip"
+  }
 }

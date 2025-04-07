@@ -65,5 +65,19 @@
         "https://opengameart.org/content/lpc-more-weapons"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "medium": "weapon-Loop_staff_medium",
+    "light": "weapon-Loop_staff_light",
+    "red": "weapon-Loop_staff_red",
+    "dark": "weapon-Loop_staff_dark",
+    "brass": "weapon-Loop_staff_brass",
+    "bronze": "weapon-Loop_staff_bronze",
+    "ceramic": "weapon-Loop_staff_ceramic",
+    "copper": "weapon-Loop_staff_copper",
+    "gold": "weapon-Loop_staff_gold",
+    "iron": "weapon-Loop_staff_iron",
+    "silver": "weapon-Loop_staff_silver",
+    "steel": "weapon-Loop_staff_steel"
+  }
 }

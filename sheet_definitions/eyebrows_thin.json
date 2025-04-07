@@ -72,5 +72,31 @@
         "https://opengameart.org/content/lpc-expanded-sit-run-jump-more"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "eyebrows-Thin_Eyebrows_blonde",
+    "ash": "eyebrows-Thin_Eyebrows_ash",
+    "sandy": "eyebrows-Thin_Eyebrows_sandy",
+    "platinum": "eyebrows-Thin_Eyebrows_platinum",
+    "strawberry": "eyebrows-Thin_Eyebrows_strawberry",
+    "redhead": "eyebrows-Thin_Eyebrows_redhead",
+    "ginger": "eyebrows-Thin_Eyebrows_ginger",
+    "carrot": "eyebrows-Thin_Eyebrows_carrot",
+    "chestnut": "eyebrows-Thin_Eyebrows_chestnut",
+    "undefined": "eyebrows-Thin_Eyebrows_dark_brown",
+    "black": "eyebrows-Thin_Eyebrows_black",
+    "raven": "eyebrows-Thin_Eyebrows_raven",
+    "gray": "eyebrows-Thin_Eyebrows_gray",
+    "white": "eyebrows-Thin_Eyebrows_white",
+    "red": "eyebrows-Thin_Eyebrows_red",
+    "orange": "eyebrows-Thin_Eyebrows_orange",
+    "gold": "eyebrows-Thin_Eyebrows_gold",
+    "green": "eyebrows-Thin_Eyebrows_green",
+    "blue": "eyebrows-Thin_Eyebrows_blue",
+    "navy": "eyebrows-Thin_Eyebrows_navy",
+    "violet": "eyebrows-Thin_Eyebrows_violet",
+    "purple": "eyebrows-Thin_Eyebrows_purple",
+    "pink": "eyebrows-Thin_Eyebrows_pink",
+    "rose": "eyebrows-Thin_Eyebrows_rose"
+  }
 }

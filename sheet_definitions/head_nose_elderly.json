@@ -67,5 +67,24 @@
         "https://opengameart.org/content/lpc-revised-elders"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "nose-Elderly_nose_light",
+    "amber": "nose-Elderly_nose_amber",
+    "olive": "nose-Elderly_nose_olive",
+    "taupe": "nose-Elderly_nose_taupe",
+    "bronze": "nose-Elderly_nose_bronze",
+    "brown": "nose-Elderly_nose_fur_brown",
+    "black": "nose-Elderly_nose_fur_black",
+    "lavender": "nose-Elderly_nose_lavender",
+    "blue": "nose-Elderly_nose_blue",
+    "zombie_green": "nose-Elderly_nose_zombie_green",
+    "green": "nose-Elderly_nose_dark_green",
+    "fur_tan": "nose-Elderly_nose_fur_tan",
+    "fur_copper": "nose-Elderly_nose_fur_copper",
+    "fur_gold": "nose-Elderly_nose_fur_gold",
+    "fur_grey": "nose-Elderly_nose_fur_grey",
+    "fur_white": "nose-Elderly_nose_fur_white",
+    "zombie": "nose-Elderly_nose_zombie"
+  }
 }

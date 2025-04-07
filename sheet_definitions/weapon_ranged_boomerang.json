@@ -32,5 +32,8 @@
         "https://opengameart.org/content/lpc-more-weapons"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "boomerang": "weapon-Boomerang_boomerang"
+  }
 }

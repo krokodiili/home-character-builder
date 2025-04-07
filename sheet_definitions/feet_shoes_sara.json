@@ -108,5 +108,39 @@
         "https://opengameart.org/content/lpc-expanded-socks-shoes"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "sara": "shoes-Sara_Shoes_sara",
+    "black": "shoes-Sara_Shoes_black",
+    "blue": "shoes-Sara_Shoes_bluegray",
+    "brown": "shoes-Sara_Shoes_brown",
+    "charcoal": "shoes-Sara_Shoes_charcoal",
+    "forest": "shoes-Sara_Shoes_forest",
+    "gray": "shoes-Sara_Shoes_gray",
+    "green": "shoes-Sara_Shoes_green",
+    "lavender": "shoes-Sara_Shoes_lavender",
+    "leather": "shoes-Sara_Shoes_leather",
+    "maroon": "shoes-Sara_Shoes_maroon",
+    "navy": "shoes-Sara_Shoes_navy",
+    "orange": "shoes-Sara_Shoes_orange",
+    "pink": "shoes-Sara_Shoes_pink",
+    "purple": "shoes-Sara_Shoes_purple",
+    "red": "shoes-Sara_Shoes_red",
+    "rose": "shoes-Sara_Shoes_rose",
+    "sky": "shoes-Sara_Shoes_sky",
+    "slate": "shoes-Sara_Shoes_slate",
+    "tan": "shoes-Sara_Shoes_tan",
+    "teal": "shoes-Sara_Shoes_teal",
+    "walnut": "shoes-Sara_Shoes_walnut",
+    "white": "shoes-Sara_Shoes_white",
+    "yellow": "shoes-Sara_Shoes_yellow",
+    "steel": "shoes-Sara_Shoes_steel",
+    "iron": "shoes-Sara_Shoes_iron",
+    "ceramic": "shoes-Sara_Shoes_ceramic",
+    "brass": "shoes-Sara_Shoes_brass",
+    "copper": "shoes-Sara_Shoes_copper",
+    "bronze": "shoes-Sara_Shoes_bronze",
+    "silver": "shoes-Sara_Shoes_silver",
+    "gold": "shoes-Sara_Shoes_gold"
+  }
 }

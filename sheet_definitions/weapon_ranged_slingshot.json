@@ -34,5 +34,8 @@
         "https://opengameart.org/content/lpc-more-weapons"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "slingshot": "weapon-Slingshot_slingshot"
+  }
 }

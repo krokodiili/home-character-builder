@@ -23,5 +23,8 @@
         "https://opengameart.org/content/lpc-gentleman"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "jacket-Iverness_cloak_black"
+  }
 }

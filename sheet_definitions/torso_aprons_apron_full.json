@@ -47,5 +47,30 @@
         "http://opengameart.org/content/lpc-clothing-updates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "apron-Apron_full_black",
+    "blue": "apron-Apron_full_bluegray",
+    "brown": "apron-Apron_full_brown",
+    "charcoal": "apron-Apron_full_charcoal",
+    "forest": "apron-Apron_full_forest",
+    "gray": "apron-Apron_full_gray",
+    "green": "apron-Apron_full_green",
+    "lavender": "apron-Apron_full_lavender",
+    "leather": "apron-Apron_full_leather",
+    "maroon": "apron-Apron_full_maroon",
+    "navy": "apron-Apron_full_navy",
+    "orange": "apron-Apron_full_orange",
+    "pink": "apron-Apron_full_pink",
+    "purple": "apron-Apron_full_purple",
+    "red": "apron-Apron_full_red",
+    "rose": "apron-Apron_full_rose",
+    "sky": "apron-Apron_full_sky",
+    "slate": "apron-Apron_full_slate",
+    "tan": "apron-Apron_full_tan",
+    "teal": "apron-Apron_full_teal",
+    "walnut": "apron-Apron_full_walnut",
+    "white": "apron-Apron_full_white",
+    "yellow": "apron-Apron_full_yellow"
+  }
 }

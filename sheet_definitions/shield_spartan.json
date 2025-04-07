@@ -33,5 +33,8 @@
         "https://opengameart.org/content/lpc-shields"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "spartan": "shield-Spartan_shield_spartan"
+  }
 }

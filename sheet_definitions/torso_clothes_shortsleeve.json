@@ -111,5 +111,30 @@
         "http://opengameart.org/content/lpc-clothing-updates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "clothes-Shortsleeve_black",
+    "blue": "clothes-Shortsleeve_bluegray",
+    "brown": "clothes-Shortsleeve_brown",
+    "charcoal": "clothes-Shortsleeve_charcoal",
+    "forest": "clothes-Shortsleeve_forest",
+    "gray": "clothes-Shortsleeve_gray",
+    "green": "clothes-Shortsleeve_green",
+    "lavender": "clothes-Shortsleeve_lavender",
+    "leather": "clothes-Shortsleeve_leather",
+    "maroon": "clothes-Shortsleeve_maroon",
+    "navy": "clothes-Shortsleeve_navy",
+    "orange": "clothes-Shortsleeve_orange",
+    "pink": "clothes-Shortsleeve_pink",
+    "purple": "clothes-Shortsleeve_purple",
+    "red": "clothes-Shortsleeve_red",
+    "rose": "clothes-Shortsleeve_rose",
+    "sky": "clothes-Shortsleeve_sky",
+    "slate": "clothes-Shortsleeve_slate",
+    "tan": "clothes-Shortsleeve_tan",
+    "teal": "clothes-Shortsleeve_teal",
+    "walnut": "clothes-Shortsleeve_walnut",
+    "white": "clothes-Shortsleeve_white",
+    "yellow": "clothes-Shortsleeve_yellow"
+  }
 }

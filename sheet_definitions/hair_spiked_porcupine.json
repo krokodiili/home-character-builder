@@ -53,5 +53,31 @@
         "https://opengameart.org/content/lpc-hair"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-Spiked_porcupine_blonde",
+    "ash": "hair-Spiked_porcupine_ash",
+    "sandy": "hair-Spiked_porcupine_sandy",
+    "platinum": "hair-Spiked_porcupine_platinum",
+    "strawberry": "hair-Spiked_porcupine_strawberry",
+    "redhead": "hair-Spiked_porcupine_redhead",
+    "ginger": "hair-Spiked_porcupine_ginger",
+    "carrot": "hair-Spiked_porcupine_carrot",
+    "chestnut": "hair-Spiked_porcupine_chestnut",
+    "undefined": "hair-Spiked_porcupine_dark_brown",
+    "black": "hair-Spiked_porcupine_black",
+    "raven": "hair-Spiked_porcupine_raven",
+    "gray": "hair-Spiked_porcupine_gray",
+    "white": "hair-Spiked_porcupine_white",
+    "red": "hair-Spiked_porcupine_red",
+    "orange": "hair-Spiked_porcupine_orange",
+    "gold": "hair-Spiked_porcupine_gold",
+    "green": "hair-Spiked_porcupine_green",
+    "blue": "hair-Spiked_porcupine_blue",
+    "navy": "hair-Spiked_porcupine_navy",
+    "violet": "hair-Spiked_porcupine_violet",
+    "purple": "hair-Spiked_porcupine_purple",
+    "pink": "hair-Spiked_porcupine_pink",
+    "rose": "hair-Spiked_porcupine_rose"
+  }
 }

@@ -57,5 +57,15 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "steel": "hat-Simple_sugarloaf_helm_steel",
+    "iron": "hat-Simple_sugarloaf_helm_iron",
+    "ceramic": "hat-Simple_sugarloaf_helm_ceramic",
+    "brass": "hat-Simple_sugarloaf_helm_brass",
+    "copper": "hat-Simple_sugarloaf_helm_copper",
+    "bronze": "hat-Simple_sugarloaf_helm_bronze",
+    "silver": "hat-Simple_sugarloaf_helm_silver",
+    "gold": "hat-Simple_sugarloaf_helm_gold"
+  }
 }

@@ -72,5 +72,31 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "base": "facial_eyes-Eyepatch_Right_base",
+    "black": "facial_eyes-Eyepatch_Right_black",
+    "blue": "facial_eyes-Eyepatch_Right_bluegray",
+    "brown": "facial_eyes-Eyepatch_Right_brown",
+    "charcoal": "facial_eyes-Eyepatch_Right_charcoal",
+    "forest": "facial_eyes-Eyepatch_Right_forest",
+    "gray": "facial_eyes-Eyepatch_Right_gray",
+    "green": "facial_eyes-Eyepatch_Right_green",
+    "lavender": "facial_eyes-Eyepatch_Right_lavender",
+    "leather": "facial_eyes-Eyepatch_Right_leather",
+    "maroon": "facial_eyes-Eyepatch_Right_maroon",
+    "navy": "facial_eyes-Eyepatch_Right_navy",
+    "orange": "facial_eyes-Eyepatch_Right_orange",
+    "pink": "facial_eyes-Eyepatch_Right_pink",
+    "purple": "facial_eyes-Eyepatch_Right_purple",
+    "red": "facial_eyes-Eyepatch_Right_red",
+    "rose": "facial_eyes-Eyepatch_Right_rose",
+    "sky": "facial_eyes-Eyepatch_Right_sky",
+    "slate": "facial_eyes-Eyepatch_Right_slate",
+    "tan": "facial_eyes-Eyepatch_Right_tan",
+    "teal": "facial_eyes-Eyepatch_Right_teal",
+    "walnut": "facial_eyes-Eyepatch_Right_walnut",
+    "white": "facial_eyes-Eyepatch_Right_white",
+    "yellow": "facial_eyes-Eyepatch_Right_yellow"
+  }
 }

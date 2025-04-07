@@ -70,5 +70,31 @@
         "https://opengameart.org/content/lpc-santa"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "beard-Winter_Beard_blonde",
+    "ash": "beard-Winter_Beard_ash",
+    "sandy": "beard-Winter_Beard_sandy",
+    "platinum": "beard-Winter_Beard_platinum",
+    "strawberry": "beard-Winter_Beard_strawberry",
+    "redhead": "beard-Winter_Beard_redhead",
+    "ginger": "beard-Winter_Beard_ginger",
+    "carrot": "beard-Winter_Beard_carrot",
+    "chestnut": "beard-Winter_Beard_chestnut",
+    "undefined": "beard-Winter_Beard_dark_brown",
+    "black": "beard-Winter_Beard_black",
+    "raven": "beard-Winter_Beard_raven",
+    "gray": "beard-Winter_Beard_gray",
+    "white": "beard-Winter_Beard_white",
+    "red": "beard-Winter_Beard_red",
+    "orange": "beard-Winter_Beard_orange",
+    "gold": "beard-Winter_Beard_gold",
+    "green": "beard-Winter_Beard_green",
+    "blue": "beard-Winter_Beard_blue",
+    "navy": "beard-Winter_Beard_navy",
+    "violet": "beard-Winter_Beard_violet",
+    "purple": "beard-Winter_Beard_purple",
+    "pink": "beard-Winter_Beard_pink",
+    "rose": "beard-Winter_Beard_rose"
+  }
 }

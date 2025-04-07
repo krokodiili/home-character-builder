@@ -83,5 +83,38 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "steel": "accessory-Upward_Horns_steel",
+    "iron": "accessory-Upward_Horns_iron",
+    "ceramic": "accessory-Upward_Horns_ceramic",
+    "brass": "accessory-Upward_Horns_brass",
+    "copper": "accessory-Upward_Horns_copper",
+    "bronze": "accessory-Upward_Horns_bronze",
+    "silver": "accessory-Upward_Horns_silver",
+    "gold": "accessory-Upward_Horns_gold",
+    "black": "accessory-Upward_Horns_black",
+    "blue": "accessory-Upward_Horns_bluegray",
+    "brown": "accessory-Upward_Horns_brown",
+    "charcoal": "accessory-Upward_Horns_charcoal",
+    "forest": "accessory-Upward_Horns_forest",
+    "gray": "accessory-Upward_Horns_gray",
+    "green": "accessory-Upward_Horns_green",
+    "lavender": "accessory-Upward_Horns_lavender",
+    "leather": "accessory-Upward_Horns_leather",
+    "maroon": "accessory-Upward_Horns_maroon",
+    "navy": "accessory-Upward_Horns_navy",
+    "orange": "accessory-Upward_Horns_orange",
+    "pink": "accessory-Upward_Horns_pink",
+    "purple": "accessory-Upward_Horns_purple",
+    "red": "accessory-Upward_Horns_red",
+    "rose": "accessory-Upward_Horns_rose",
+    "sky": "accessory-Upward_Horns_sky",
+    "slate": "accessory-Upward_Horns_slate",
+    "tan": "accessory-Upward_Horns_tan",
+    "teal": "accessory-Upward_Horns_teal",
+    "walnut": "accessory-Upward_Horns_walnut",
+    "white": "accessory-Upward_Horns_white",
+    "yellow": "accessory-Upward_Horns_yellow"
+  }
 }

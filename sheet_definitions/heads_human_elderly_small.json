@@ -1,7 +1,11 @@
 {
   "name": "Human elderly small",
   "type_name": "head",
-  "tags": ["human", "elderly", "small"],
+  "tags": [
+    "human",
+    "elderly",
+    "small"
+  ],
   "layer_1": {
     "zPos": 100,
     "male": "head/heads/human/elderly_small/",
@@ -68,5 +72,24 @@
       ],
       "urls": []
     }
-  ]
+  ],
+  "ids": {
+    "light": "head-Human_elderly_small_light",
+    "amber": "head-Human_elderly_small_amber",
+    "olive": "head-Human_elderly_small_olive",
+    "taupe": "head-Human_elderly_small_taupe",
+    "bronze": "head-Human_elderly_small_bronze",
+    "brown": "head-Human_elderly_small_fur_brown",
+    "black": "head-Human_elderly_small_fur_black",
+    "lavender": "head-Human_elderly_small_lavender",
+    "blue": "head-Human_elderly_small_blue",
+    "zombie_green": "head-Human_elderly_small_zombie_green",
+    "green": "head-Human_elderly_small_dark_green",
+    "zombie": "head-Human_elderly_small_zombie",
+    "fur_tan": "head-Human_elderly_small_fur_tan",
+    "fur_copper": "head-Human_elderly_small_fur_copper",
+    "fur_gold": "head-Human_elderly_small_fur_gold",
+    "fur_grey": "head-Human_elderly_small_fur_grey",
+    "fur_white": "head-Human_elderly_small_fur_white"
+  }
 }

@@ -57,5 +57,15 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "steel": "hat-Greathelm_steel",
+    "iron": "hat-Greathelm_iron",
+    "ceramic": "hat-Greathelm_ceramic",
+    "brass": "hat-Greathelm_brass",
+    "copper": "hat-Greathelm_copper",
+    "bronze": "hat-Greathelm_bronze",
+    "silver": "hat-Greathelm_silver",
+    "gold": "hat-Greathelm_gold"
+  }
 }

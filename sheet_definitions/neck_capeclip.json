@@ -53,5 +53,30 @@
         "http://opengameart.org/content/lpc-clothing-updates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "neck-Capeclip_black",
+    "blue": "neck-Capeclip_bluegray",
+    "brown": "neck-Capeclip_brown",
+    "charcoal": "neck-Capeclip_charcoal",
+    "forest": "neck-Capeclip_forest",
+    "gray": "neck-Capeclip_gray",
+    "green": "neck-Capeclip_green",
+    "lavender": "neck-Capeclip_lavender",
+    "leather": "neck-Capeclip_leather",
+    "maroon": "neck-Capeclip_maroon",
+    "navy": "neck-Capeclip_navy",
+    "orange": "neck-Capeclip_orange",
+    "pink": "neck-Capeclip_pink",
+    "purple": "neck-Capeclip_purple",
+    "red": "neck-Capeclip_red",
+    "rose": "neck-Capeclip_rose",
+    "sky": "neck-Capeclip_sky",
+    "slate": "neck-Capeclip_slate",
+    "tan": "neck-Capeclip_tan",
+    "teal": "neck-Capeclip_teal",
+    "walnut": "neck-Capeclip_walnut",
+    "white": "neck-Capeclip_white",
+    "yellow": "neck-Capeclip_yellow"
+  }
 }

@@ -57,5 +57,15 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "steel": "hat-Nasal_helm_steel",
+    "iron": "hat-Nasal_helm_iron",
+    "ceramic": "hat-Nasal_helm_ceramic",
+    "brass": "hat-Nasal_helm_brass",
+    "copper": "hat-Nasal_helm_copper",
+    "bronze": "hat-Nasal_helm_bronze",
+    "silver": "hat-Nasal_helm_silver",
+    "gold": "hat-Nasal_helm_gold"
+  }
 }

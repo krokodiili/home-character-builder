@@ -1,8 +1,13 @@
 {
   "name": "Straps",
   "type_name": "backpack_straps",
-  "tags": ["back", "backpack_straps"],
-  "required_tags": ["backpack"],
+  "tags": [
+    "back",
+    "backpack_straps"
+  ],
+  "required_tags": [
+    "backpack"
+  ],
   "layer_1": {
     "zPos": 110,
     "male": "backpack/straps/male/",
@@ -48,5 +53,26 @@
         "https://opengameart.org/content/lpc-backpacks"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "backpack_straps-Straps_black",
+    "blue": "backpack_straps-Straps_bluegray",
+    "forest": "backpack_straps-Straps_forest",
+    "gray": "backpack_straps-Straps_gray",
+    "green": "backpack_straps-Straps_green",
+    "lavender": "backpack_straps-Straps_lavender",
+    "leather": "backpack_straps-Straps_leather",
+    "maroon": "backpack_straps-Straps_maroon",
+    "navy": "backpack_straps-Straps_navy",
+    "orange": "backpack_straps-Straps_orange",
+    "pink": "backpack_straps-Straps_pink",
+    "purple": "backpack_straps-Straps_purple",
+    "red": "backpack_straps-Straps_red",
+    "sky": "backpack_straps-Straps_sky",
+    "tan": "backpack_straps-Straps_tan",
+    "teal": "backpack_straps-Straps_teal",
+    "walnut": "backpack_straps-Straps_walnut",
+    "white": "backpack_straps-Straps_white",
+    "yellow": "backpack_straps-Straps_yellow"
+  }
 }

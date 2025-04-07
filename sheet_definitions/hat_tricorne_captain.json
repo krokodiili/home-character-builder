@@ -1,7 +1,10 @@
 {
   "name": "Tricorne Captain",
   "type_name": "hat",
-  "tags": ["tricorne", "captain"],
+  "tags": [
+    "tricorne",
+    "captain"
+  ],
   "layer_1": {
     "zPos": 130,
     "male": "hat/pirate/tricorne/captain/adult/",
@@ -70,5 +73,30 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "hat-Tricorne_Captain_black",
+    "blue": "hat-Tricorne_Captain_bluegray",
+    "brown": "hat-Tricorne_Captain_brown",
+    "charcoal": "hat-Tricorne_Captain_charcoal",
+    "forest": "hat-Tricorne_Captain_forest",
+    "gray": "hat-Tricorne_Captain_gray",
+    "green": "hat-Tricorne_Captain_green",
+    "lavender": "hat-Tricorne_Captain_lavender",
+    "leather": "hat-Tricorne_Captain_leather",
+    "maroon": "hat-Tricorne_Captain_maroon",
+    "navy": "hat-Tricorne_Captain_navy",
+    "orange": "hat-Tricorne_Captain_orange",
+    "pink": "hat-Tricorne_Captain_pink",
+    "purple": "hat-Tricorne_Captain_purple",
+    "red": "hat-Tricorne_Captain_red",
+    "rose": "hat-Tricorne_Captain_rose",
+    "sky": "hat-Tricorne_Captain_sky",
+    "slate": "hat-Tricorne_Captain_slate",
+    "tan": "hat-Tricorne_Captain_tan",
+    "teal": "hat-Tricorne_Captain_teal",
+    "walnut": "hat-Tricorne_Captain_walnut",
+    "white": "hat-Tricorne_Captain_white",
+    "yellow": "hat-Tricorne_Captain_yellow"
+  }
 }

@@ -73,5 +73,19 @@
         "https://opengameart.org/content/lpc-walk-animations-for-bows"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "weapon-Normal_light",
+    "medium": "weapon-Normal_medium",
+    "red": "weapon-Normal_red",
+    "dark": "weapon-Normal_dark",
+    "brass": "weapon-Normal_brass",
+    "bronze": "weapon-Normal_bronze",
+    "ceramic": "weapon-Normal_ceramic",
+    "copper": "weapon-Normal_copper",
+    "gold": "weapon-Normal_gold",
+    "iron": "weapon-Normal_iron",
+    "silver": "weapon-Normal_silver",
+    "steel": "weapon-Normal_steel"
+  }
 }

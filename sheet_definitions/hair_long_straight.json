@@ -39,5 +39,18 @@
         "https://opengameart.org/content/lpc-hair"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "ashblonde": "hair-Long_straight_ashblonde",
+    "ashplatinum": "hair-Long_straight_ashplatinum",
+    "black": "hair-Long_straight_black",
+    "blonde": "hair-Long_straight_blonde",
+    "blue": "hair-Long_straight_blue",
+    "brown": "hair-Long_straight_brown2",
+    "green": "hair-Long_straight_green",
+    "orange": "hair-Long_straight_orange",
+    "pink": "hair-Long_straight_pink",
+    "purple": "hair-Long_straight_purple",
+    "red": "hair-Long_straight_red"
+  }
 }

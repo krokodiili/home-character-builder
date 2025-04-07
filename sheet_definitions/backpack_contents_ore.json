@@ -1,8 +1,13 @@
 {
   "name": "Ore",
   "type_name": "cargo",
-  "tags": ["back", "basket_contents"],
-  "required_tags": ["basket"],
+  "tags": [
+    "back",
+    "basket_contents"
+  ],
+  "required_tags": [
+    "basket"
+  ],
   "layer_1": {
     "zPos": 140,
     "male": "backpack/basket_contents/ore/fg/",
@@ -41,5 +46,15 @@
         "https://opengameart.org/content/lpc-more-backpacks"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "coal": "cargo-Ore_coal",
+    "iron": "cargo-Ore_iron",
+    "steel": "cargo-Ore_steel",
+    "tin": "cargo-Ore_tin",
+    "copper": "cargo-Ore_copper",
+    "bronze": "cargo-Ore_bronze",
+    "silver": "cargo-Ore_silver",
+    "gold": "cargo-Ore_gold"
+  }
 }

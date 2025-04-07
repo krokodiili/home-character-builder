@@ -84,5 +84,38 @@
         "https://opengameart.org/content/lpc-expanded-socks-shoes"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "shoes-Sandals_black",
+    "blue": "shoes-Sandals_bluegray",
+    "brown": "shoes-Sandals_brown",
+    "charcoal": "shoes-Sandals_charcoal",
+    "forest": "shoes-Sandals_forest",
+    "gray": "shoes-Sandals_gray",
+    "green": "shoes-Sandals_green",
+    "lavender": "shoes-Sandals_lavender",
+    "leather": "shoes-Sandals_leather",
+    "maroon": "shoes-Sandals_maroon",
+    "navy": "shoes-Sandals_navy",
+    "orange": "shoes-Sandals_orange",
+    "pink": "shoes-Sandals_pink",
+    "purple": "shoes-Sandals_purple",
+    "red": "shoes-Sandals_red",
+    "rose": "shoes-Sandals_rose",
+    "sky": "shoes-Sandals_sky",
+    "slate": "shoes-Sandals_slate",
+    "tan": "shoes-Sandals_tan",
+    "teal": "shoes-Sandals_teal",
+    "walnut": "shoes-Sandals_walnut",
+    "white": "shoes-Sandals_white",
+    "yellow": "shoes-Sandals_yellow",
+    "steel": "shoes-Sandals_steel",
+    "iron": "shoes-Sandals_iron",
+    "ceramic": "shoes-Sandals_ceramic",
+    "brass": "shoes-Sandals_brass",
+    "copper": "shoes-Sandals_copper",
+    "bronze": "shoes-Sandals_bronze",
+    "silver": "shoes-Sandals_silver",
+    "gold": "shoes-Sandals_gold"
+  }
 }

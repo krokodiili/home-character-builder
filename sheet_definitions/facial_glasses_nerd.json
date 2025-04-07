@@ -80,5 +80,38 @@
         "https://opengameart.org/content/lpc-base-character-expressions"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "facial_eyes-Nerd_Glasses_black",
+    "blue": "facial_eyes-Nerd_Glasses_bluegray",
+    "brown": "facial_eyes-Nerd_Glasses_brown",
+    "charcoal": "facial_eyes-Nerd_Glasses_charcoal",
+    "forest": "facial_eyes-Nerd_Glasses_forest",
+    "gray": "facial_eyes-Nerd_Glasses_gray",
+    "green": "facial_eyes-Nerd_Glasses_green",
+    "lavender": "facial_eyes-Nerd_Glasses_lavender",
+    "leather": "facial_eyes-Nerd_Glasses_leather",
+    "maroon": "facial_eyes-Nerd_Glasses_maroon",
+    "navy": "facial_eyes-Nerd_Glasses_navy",
+    "orange": "facial_eyes-Nerd_Glasses_orange",
+    "pink": "facial_eyes-Nerd_Glasses_pink",
+    "purple": "facial_eyes-Nerd_Glasses_purple",
+    "red": "facial_eyes-Nerd_Glasses_red",
+    "rose": "facial_eyes-Nerd_Glasses_rose",
+    "sky": "facial_eyes-Nerd_Glasses_sky",
+    "slate": "facial_eyes-Nerd_Glasses_slate",
+    "tan": "facial_eyes-Nerd_Glasses_tan",
+    "teal": "facial_eyes-Nerd_Glasses_teal",
+    "walnut": "facial_eyes-Nerd_Glasses_walnut",
+    "white": "facial_eyes-Nerd_Glasses_white",
+    "yellow": "facial_eyes-Nerd_Glasses_yellow",
+    "steel": "facial_eyes-Nerd_Glasses_steel",
+    "iron": "facial_eyes-Nerd_Glasses_iron",
+    "ceramic": "facial_eyes-Nerd_Glasses_ceramic",
+    "brass": "facial_eyes-Nerd_Glasses_brass",
+    "copper": "facial_eyes-Nerd_Glasses_copper",
+    "bronze": "facial_eyes-Nerd_Glasses_bronze",
+    "silver": "facial_eyes-Nerd_Glasses_silver",
+    "gold": "facial_eyes-Nerd_Glasses_gold"
+  }
 }

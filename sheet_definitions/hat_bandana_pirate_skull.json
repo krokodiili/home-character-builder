@@ -71,5 +71,30 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "white": "bandana_overlay-Skull_Bandana_Overlay_white",
+    "black": "bandana_overlay-Skull_Bandana_Overlay_black",
+    "blue": "bandana_overlay-Skull_Bandana_Overlay_bluegray",
+    "brown": "bandana_overlay-Skull_Bandana_Overlay_brown",
+    "charcoal": "bandana_overlay-Skull_Bandana_Overlay_charcoal",
+    "forest": "bandana_overlay-Skull_Bandana_Overlay_forest",
+    "gray": "bandana_overlay-Skull_Bandana_Overlay_gray",
+    "green": "bandana_overlay-Skull_Bandana_Overlay_green",
+    "lavender": "bandana_overlay-Skull_Bandana_Overlay_lavender",
+    "leather": "bandana_overlay-Skull_Bandana_Overlay_leather",
+    "maroon": "bandana_overlay-Skull_Bandana_Overlay_maroon",
+    "navy": "bandana_overlay-Skull_Bandana_Overlay_navy",
+    "orange": "bandana_overlay-Skull_Bandana_Overlay_orange",
+    "pink": "bandana_overlay-Skull_Bandana_Overlay_pink",
+    "purple": "bandana_overlay-Skull_Bandana_Overlay_purple",
+    "red": "bandana_overlay-Skull_Bandana_Overlay_red",
+    "rose": "bandana_overlay-Skull_Bandana_Overlay_rose",
+    "sky": "bandana_overlay-Skull_Bandana_Overlay_sky",
+    "slate": "bandana_overlay-Skull_Bandana_Overlay_slate",
+    "tan": "bandana_overlay-Skull_Bandana_Overlay_tan",
+    "teal": "bandana_overlay-Skull_Bandana_Overlay_teal",
+    "walnut": "bandana_overlay-Skull_Bandana_Overlay_walnut",
+    "yellow": "bandana_overlay-Skull_Bandana_Overlay_yellow"
+  }
 }

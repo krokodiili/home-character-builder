@@ -31,5 +31,8 @@
         "https://opengameart.org/content/lpc-character-bases"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "skeleton": "head-Skeleton_skeleton"
+  }
 }

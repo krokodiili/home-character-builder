@@ -1,7 +1,9 @@
 {
   "name": "Bat Wings",
   "type_name": "wings",
-  "tags": ["wings"],
+  "tags": [
+    "wings"
+  ],
   "layer_1": {
     "zPos": 105,
     "male": "body/wings/bat/adult/fg/",
@@ -98,5 +100,40 @@
         "https://opengameart.org/content/lpc-wings-new-animations"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "wings-Bat_Wings_blonde",
+    "ash": "wings-Bat_Wings_ash",
+    "sandy": "wings-Bat_Wings_sandy",
+    "platinum": "wings-Bat_Wings_platinum",
+    "strawberry": "wings-Bat_Wings_strawberry",
+    "redhead": "wings-Bat_Wings_redhead",
+    "ginger": "wings-Bat_Wings_ginger",
+    "carrot": "wings-Bat_Wings_carrot",
+    "chestnut": "wings-Bat_Wings_chestnut",
+    "light": "wings-Bat_Wings_light",
+    "brown": "wings-Bat_Wings_fur_brown",
+    "black": "wings-Bat_Wings_fur_black",
+    "raven": "wings-Bat_Wings_raven",
+    "gray": "wings-Bat_Wings_gray",
+    "white": "wings-Bat_Wings_fur_white",
+    "red": "wings-Bat_Wings_red",
+    "orange": "wings-Bat_Wings_orange",
+    "gold": "wings-Bat_Wings_fur_gold",
+    "green": "wings-Bat_Wings_dark_green",
+    "blue": "wings-Bat_Wings_blue",
+    "navy": "wings-Bat_Wings_navy",
+    "violet": "wings-Bat_Wings_violet",
+    "purple": "wings-Bat_Wings_purple",
+    "pink": "wings-Bat_Wings_pink",
+    "rose": "wings-Bat_Wings_rose",
+    "amber": "wings-Bat_Wings_amber",
+    "olive": "wings-Bat_Wings_olive",
+    "taupe": "wings-Bat_Wings_taupe",
+    "bronze": "wings-Bat_Wings_bronze",
+    "lavender": "wings-Bat_Wings_lavender",
+    "fur_tan": "wings-Bat_Wings_fur_tan",
+    "fur_copper": "wings-Bat_Wings_fur_copper",
+    "fur_grey": "wings-Bat_Wings_fur_grey"
+  }
 }

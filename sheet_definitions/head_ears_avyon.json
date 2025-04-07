@@ -80,5 +80,35 @@
         "https://opengameart.org/content/lpc-furry-ears-tails-for-rpg-sprites"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "ears-Feather_Ears_blonde",
+    "ash": "ears-Feather_Ears_ash",
+    "sandy": "ears-Feather_Ears_sandy",
+    "platinum": "ears-Feather_Ears_platinum",
+    "strawberry": "ears-Feather_Ears_strawberry",
+    "redhead": "ears-Feather_Ears_redhead",
+    "ginger": "ears-Feather_Ears_ginger",
+    "carrot": "ears-Feather_Ears_carrot",
+    "chestnut": "ears-Feather_Ears_chestnut",
+    "undefined": "ears-Feather_Ears_dark_brown",
+    "black": "ears-Feather_Ears_fur_black",
+    "raven": "ears-Feather_Ears_raven",
+    "gray": "ears-Feather_Ears_gray",
+    "white": "ears-Feather_Ears_fur_white",
+    "red": "ears-Feather_Ears_red",
+    "orange": "ears-Feather_Ears_orange",
+    "gold": "ears-Feather_Ears_fur_gold",
+    "green": "ears-Feather_Ears_green",
+    "blue": "ears-Feather_Ears_blue",
+    "navy": "ears-Feather_Ears_navy",
+    "violet": "ears-Feather_Ears_violet",
+    "purple": "ears-Feather_Ears_purple",
+    "pink": "ears-Feather_Ears_pink",
+    "rose": "ears-Feather_Ears_rose",
+    "fur_brown": "ears-Feather_Ears_fur_brown",
+    "fur_tan": "ears-Feather_Ears_fur_tan",
+    "fur_copper": "ears-Feather_Ears_fur_copper",
+    "fur_grey": "ears-Feather_Ears_fur_grey"
+  }
 }

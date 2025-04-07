@@ -73,5 +73,31 @@
         "https://opengameart.org/content/lpc-base-character-expressions"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "mustache-Big_Mustache_blonde",
+    "ash": "mustache-Big_Mustache_ash",
+    "sandy": "mustache-Big_Mustache_sandy",
+    "platinum": "mustache-Big_Mustache_platinum",
+    "strawberry": "mustache-Big_Mustache_strawberry",
+    "redhead": "mustache-Big_Mustache_redhead",
+    "ginger": "mustache-Big_Mustache_ginger",
+    "carrot": "mustache-Big_Mustache_carrot",
+    "chestnut": "mustache-Big_Mustache_chestnut",
+    "undefined": "mustache-Big_Mustache_dark_brown",
+    "black": "mustache-Big_Mustache_black",
+    "raven": "mustache-Big_Mustache_raven",
+    "gray": "mustache-Big_Mustache_gray",
+    "white": "mustache-Big_Mustache_white",
+    "red": "mustache-Big_Mustache_red",
+    "orange": "mustache-Big_Mustache_orange",
+    "gold": "mustache-Big_Mustache_gold",
+    "green": "mustache-Big_Mustache_green",
+    "blue": "mustache-Big_Mustache_blue",
+    "navy": "mustache-Big_Mustache_navy",
+    "violet": "mustache-Big_Mustache_violet",
+    "purple": "mustache-Big_Mustache_purple",
+    "pink": "mustache-Big_Mustache_pink",
+    "rose": "mustache-Big_Mustache_rose"
+  }
 }

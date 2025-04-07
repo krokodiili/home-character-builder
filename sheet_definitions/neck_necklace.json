@@ -37,5 +37,16 @@
         "http://opengameart.org/content/lpc-clothing-updates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "steel": "necklace-Necklace_steel",
+    "iron": "necklace-Necklace_iron",
+    "ceramic": "necklace-Necklace_ceramic",
+    "brass": "necklace-Necklace_brass",
+    "copper": "necklace-Necklace_copper",
+    "bronze": "necklace-Necklace_bronze",
+    "silver": "necklace-Necklace_silver",
+    "gold": "necklace-Necklace_gold",
+    "pirate": "necklace-Necklace_pirate"
+  }
 }

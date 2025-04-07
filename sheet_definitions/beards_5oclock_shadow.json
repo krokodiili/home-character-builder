@@ -73,5 +73,31 @@
         "https://opengameart.org/content/lpc-base-character-expressions"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "beard-5_O'clock_Shadow_blonde",
+    "ash": "beard-5_O'clock_Shadow_ash",
+    "sandy": "beard-5_O'clock_Shadow_sandy",
+    "platinum": "beard-5_O'clock_Shadow_platinum",
+    "strawberry": "beard-5_O'clock_Shadow_strawberry",
+    "redhead": "beard-5_O'clock_Shadow_redhead",
+    "ginger": "beard-5_O'clock_Shadow_ginger",
+    "carrot": "beard-5_O'clock_Shadow_carrot",
+    "chestnut": "beard-5_O'clock_Shadow_chestnut",
+    "undefined": "beard-5_O'clock_Shadow_dark_brown",
+    "black": "beard-5_O'clock_Shadow_black",
+    "raven": "beard-5_O'clock_Shadow_raven",
+    "gray": "beard-5_O'clock_Shadow_gray",
+    "white": "beard-5_O'clock_Shadow_white",
+    "red": "beard-5_O'clock_Shadow_red",
+    "orange": "beard-5_O'clock_Shadow_orange",
+    "gold": "beard-5_O'clock_Shadow_gold",
+    "green": "beard-5_O'clock_Shadow_green",
+    "blue": "beard-5_O'clock_Shadow_blue",
+    "navy": "beard-5_O'clock_Shadow_navy",
+    "violet": "beard-5_O'clock_Shadow_violet",
+    "purple": "beard-5_O'clock_Shadow_purple",
+    "pink": "beard-5_O'clock_Shadow_pink",
+    "rose": "beard-5_O'clock_Shadow_rose"
+  }
 }

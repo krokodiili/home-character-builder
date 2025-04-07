@@ -28,5 +28,8 @@
         "https://opengameart.org/content/lpc-2-characters"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "white": "clothes-Striped_Collared/Formal_Longsleeve_white"
+  }
 }

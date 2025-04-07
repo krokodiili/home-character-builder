@@ -50,5 +50,26 @@
         "http://opengameart.org/content/lpc-clothing-updates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "legs-Pregnancy_pants_black",
+    "blue": "legs-Pregnancy_pants_blue",
+    "forest": "legs-Pregnancy_pants_forest",
+    "gray": "legs-Pregnancy_pants_gray",
+    "green": "legs-Pregnancy_pants_green",
+    "lavender": "legs-Pregnancy_pants_lavender",
+    "leather": "legs-Pregnancy_pants_leather",
+    "maroon": "legs-Pregnancy_pants_maroon",
+    "navy": "legs-Pregnancy_pants_navy",
+    "orange": "legs-Pregnancy_pants_orange",
+    "pink": "legs-Pregnancy_pants_pink",
+    "purple": "legs-Pregnancy_pants_purple",
+    "red": "legs-Pregnancy_pants_red",
+    "sky": "legs-Pregnancy_pants_sky",
+    "tan": "legs-Pregnancy_pants_tan",
+    "teal": "legs-Pregnancy_pants_teal",
+    "walnut": "legs-Pregnancy_pants_walnut",
+    "white": "legs-Pregnancy_pants_white",
+    "yellow": "legs-Pregnancy_pants_yellow"
+  }
 }

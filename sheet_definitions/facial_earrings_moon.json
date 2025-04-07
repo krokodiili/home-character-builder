@@ -33,5 +33,15 @@
         "https://opengameart.org/content/lpc-jewelry"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "steel": "earrings-Moon_earrings_steel",
+    "iron": "earrings-Moon_earrings_iron",
+    "ceramic": "earrings-Moon_earrings_ceramic",
+    "brass": "earrings-Moon_earrings_brass",
+    "copper": "earrings-Moon_earrings_copper",
+    "bronze": "earrings-Moon_earrings_bronze",
+    "silver": "earrings-Moon_earrings_silver",
+    "gold": "earrings-Moon_earrings_gold"
+  }
 }

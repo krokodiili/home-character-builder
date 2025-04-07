@@ -47,5 +47,30 @@
         "https://opengameart.org/content/lpc-santa"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "jacket-Santa_coat_black",
+    "blue": "jacket-Santa_coat_bluegray",
+    "brown": "jacket-Santa_coat_brown",
+    "charcoal": "jacket-Santa_coat_charcoal",
+    "forest": "jacket-Santa_coat_forest",
+    "gray": "jacket-Santa_coat_gray",
+    "green": "jacket-Santa_coat_green",
+    "lavender": "jacket-Santa_coat_lavender",
+    "leather": "jacket-Santa_coat_leather",
+    "maroon": "jacket-Santa_coat_maroon",
+    "navy": "jacket-Santa_coat_navy",
+    "orange": "jacket-Santa_coat_orange",
+    "pink": "jacket-Santa_coat_pink",
+    "purple": "jacket-Santa_coat_purple",
+    "red": "jacket-Santa_coat_red",
+    "rose": "jacket-Santa_coat_rose",
+    "sky": "jacket-Santa_coat_sky",
+    "slate": "jacket-Santa_coat_slate",
+    "tan": "jacket-Santa_coat_tan",
+    "teal": "jacket-Santa_coat_teal",
+    "walnut": "jacket-Santa_coat_walnut",
+    "white": "jacket-Santa_coat_white",
+    "yellow": "jacket-Santa_coat_yellow"
+  }
 }

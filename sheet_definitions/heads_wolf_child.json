@@ -1,7 +1,10 @@
 {
   "name": "Wolf child",
   "type_name": "head",
-  "tags": ["animal", "child"],
+  "tags": [
+    "animal",
+    "child"
+  ],
   "layer_1": {
     "zPos": 100,
     "child": "head/heads/wolf/child/"
@@ -72,5 +75,26 @@
         "https://opengameart.org/content/lpc-character-bases"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "fur_black": "head-Wolf_child_fur_black",
+    "fur_brown": "head-Wolf_child_fur_brown",
+    "fur_tan": "head-Wolf_child_fur_tan",
+    "fur_copper": "head-Wolf_child_fur_copper",
+    "fur_gold": "head-Wolf_child_fur_gold",
+    "fur_grey": "head-Wolf_child_fur_grey",
+    "fur_white": "head-Wolf_child_fur_white",
+    "light": "head-Wolf_child_light",
+    "amber": "head-Wolf_child_amber",
+    "olive": "head-Wolf_child_olive",
+    "taupe": "head-Wolf_child_taupe",
+    "bronze": "head-Wolf_child_bronze",
+    "brown": "head-Wolf_child_brown",
+    "black": "head-Wolf_child_black",
+    "lavender": "head-Wolf_child_lavender",
+    "blue": "head-Wolf_child_blue",
+    "zombie_green": "head-Wolf_child_zombie_green",
+    "green": "head-Wolf_child_dark_green",
+    "zombie": "head-Wolf_child_zombie"
+  }
 }

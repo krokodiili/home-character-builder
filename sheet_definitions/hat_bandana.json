@@ -77,5 +77,33 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "bandana_gray": "bandana-Bandana_bandana_gray",
+    "bandana_red": "bandana-Bandana_bandana_red",
+    "bandana_white": "bandana-Bandana_bandana_white",
+    "black": "bandana-Bandana_black",
+    "blue": "bandana-Bandana_bluegray",
+    "brown": "bandana-Bandana_brown",
+    "charcoal": "bandana-Bandana_charcoal",
+    "forest": "bandana-Bandana_forest",
+    "gray": "bandana-Bandana_gray",
+    "green": "bandana-Bandana_green",
+    "lavender": "bandana-Bandana_lavender",
+    "leather": "bandana-Bandana_leather",
+    "maroon": "bandana-Bandana_maroon",
+    "navy": "bandana-Bandana_navy",
+    "orange": "bandana-Bandana_orange",
+    "pink": "bandana-Bandana_pink",
+    "purple": "bandana-Bandana_purple",
+    "red": "bandana-Bandana_red",
+    "rose": "bandana-Bandana_rose",
+    "sky": "bandana-Bandana_sky",
+    "slate": "bandana-Bandana_slate",
+    "tan": "bandana-Bandana_tan",
+    "teal": "bandana-Bandana_teal",
+    "walnut": "bandana-Bandana_walnut",
+    "white": "bandana-Bandana_white",
+    "yellow": "bandana-Bandana_yellow"
+  }
 }

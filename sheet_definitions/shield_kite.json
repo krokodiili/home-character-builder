@@ -39,5 +39,8 @@
         "https://opengameart.org/content/lpc-shields-pack"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "undefined": "shield-Kite_kite_red_gray"
+  }
 }

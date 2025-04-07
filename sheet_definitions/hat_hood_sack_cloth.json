@@ -73,5 +73,31 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "base": "hat-Sack_Cloth_Hood_base",
+    "black": "hat-Sack_Cloth_Hood_black",
+    "blue": "hat-Sack_Cloth_Hood_bluegray",
+    "brown": "hat-Sack_Cloth_Hood_brown",
+    "charcoal": "hat-Sack_Cloth_Hood_charcoal",
+    "forest": "hat-Sack_Cloth_Hood_forest",
+    "gray": "hat-Sack_Cloth_Hood_gray",
+    "green": "hat-Sack_Cloth_Hood_green",
+    "lavender": "hat-Sack_Cloth_Hood_lavender",
+    "leather": "hat-Sack_Cloth_Hood_leather",
+    "maroon": "hat-Sack_Cloth_Hood_maroon",
+    "navy": "hat-Sack_Cloth_Hood_navy",
+    "orange": "hat-Sack_Cloth_Hood_orange",
+    "pink": "hat-Sack_Cloth_Hood_pink",
+    "purple": "hat-Sack_Cloth_Hood_purple",
+    "red": "hat-Sack_Cloth_Hood_red",
+    "rose": "hat-Sack_Cloth_Hood_rose",
+    "sky": "hat-Sack_Cloth_Hood_sky",
+    "slate": "hat-Sack_Cloth_Hood_slate",
+    "tan": "hat-Sack_Cloth_Hood_tan",
+    "teal": "hat-Sack_Cloth_Hood_teal",
+    "walnut": "hat-Sack_Cloth_Hood_walnut",
+    "white": "hat-Sack_Cloth_Hood_white",
+    "yellow": "hat-Sack_Cloth_Hood_yellow"
+  }
 }

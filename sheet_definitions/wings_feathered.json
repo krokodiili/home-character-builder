@@ -1,7 +1,9 @@
 {
   "name": "Feathered Wings",
   "type_name": "wings",
-  "tags": ["wings"],
+  "tags": [
+    "wings"
+  ],
   "layer_1": {
     "zPos": 105,
     "male": "body/wings/feathered/adult/fg/",
@@ -88,5 +90,21 @@
         "https://opengameart.org/content/lpc-wings-new-animations"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "wings-Feathered_Wings_blonde",
+    "ash": "wings-Feathered_Wings_ash",
+    "sandy": "wings-Feathered_Wings_sandy",
+    "platinum": "wings-Feathered_Wings_platinum",
+    "strawberry": "wings-Feathered_Wings_strawberry",
+    "redhead": "wings-Feathered_Wings_redhead",
+    "ginger": "wings-Feathered_Wings_ginger",
+    "carrot": "wings-Feathered_Wings_carrot",
+    "chestnut": "wings-Feathered_Wings_chestnut",
+    "red": "wings-Feathered_Wings_fur_grey",
+    "black": "wings-Feathered_Wings_fur_black",
+    "raven": "wings-Feathered_Wings_raven",
+    "gray": "wings-Feathered_Wings_gray",
+    "white": "wings-Feathered_Wings_fur_white"
+  }
 }

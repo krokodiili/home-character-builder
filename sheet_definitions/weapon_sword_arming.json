@@ -115,5 +115,15 @@
         "https://opengameart.org/content/lpc-expanded-sit-run-jump-more"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "brass": "weapon-Arming_Sword_brass",
+    "bronze": "weapon-Arming_Sword_bronze",
+    "ceramic": "weapon-Arming_Sword_ceramic",
+    "copper": "weapon-Arming_Sword_copper",
+    "gold": "weapon-Arming_Sword_gold",
+    "iron": "weapon-Arming_Sword_iron",
+    "silver": "weapon-Arming_Sword_silver",
+    "steel": "weapon-Arming_Sword_steel"
+  }
 }

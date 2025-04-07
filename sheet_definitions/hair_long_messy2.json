@@ -54,5 +54,31 @@
         "https://opengameart.org/content/lpc-hair"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-Long_messy2_blonde",
+    "ash": "hair-Long_messy2_ash",
+    "sandy": "hair-Long_messy2_sandy",
+    "platinum": "hair-Long_messy2_platinum",
+    "strawberry": "hair-Long_messy2_strawberry",
+    "redhead": "hair-Long_messy2_redhead",
+    "ginger": "hair-Long_messy2_ginger",
+    "carrot": "hair-Long_messy2_carrot",
+    "chestnut": "hair-Long_messy2_chestnut",
+    "undefined": "hair-Long_messy2_dark_brown",
+    "black": "hair-Long_messy2_black",
+    "raven": "hair-Long_messy2_raven",
+    "gray": "hair-Long_messy2_gray",
+    "white": "hair-Long_messy2_white",
+    "red": "hair-Long_messy2_red",
+    "orange": "hair-Long_messy2_orange",
+    "gold": "hair-Long_messy2_gold",
+    "green": "hair-Long_messy2_green",
+    "blue": "hair-Long_messy2_blue",
+    "navy": "hair-Long_messy2_navy",
+    "violet": "hair-Long_messy2_violet",
+    "purple": "hair-Long_messy2_purple",
+    "pink": "hair-Long_messy2_pink",
+    "rose": "hair-Long_messy2_rose"
+  }
 }

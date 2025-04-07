@@ -1,8 +1,12 @@
 {
   "name": "Blush",
   "type_name": "expression",
-  "tags": ["expression"],
-  "required_tags": ["human"],
+  "tags": [
+    "expression"
+  ],
+  "required_tags": [
+    "human"
+  ],
   "replace_in_path": {
     "head": {
       "Human_male": "male",
@@ -133,5 +137,24 @@
         "https://opengameart.org/content/ulpc-expanded-expressions"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "expression-Blush_light",
+    "amber": "expression-Blush_amber",
+    "olive": "expression-Blush_olive",
+    "taupe": "expression-Blush_taupe",
+    "bronze": "expression-Blush_bronze",
+    "brown": "expression-Blush_fur_brown",
+    "black": "expression-Blush_fur_black",
+    "lavender": "expression-Blush_lavender",
+    "blue": "expression-Blush_blue",
+    "zombie_green": "expression-Blush_zombie_green",
+    "green": "expression-Blush_dark_green",
+    "fur_tan": "expression-Blush_fur_tan",
+    "fur_copper": "expression-Blush_fur_copper",
+    "fur_gold": "expression-Blush_fur_gold",
+    "fur_grey": "expression-Blush_fur_grey",
+    "fur_white": "expression-Blush_fur_white",
+    "zombie": "expression-Blush_zombie"
+  }
 }

@@ -40,5 +40,8 @@
         "https://opengameart.org/content/lpc-more-weapons"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "club": "weapon-Club_club"
+  }
 }

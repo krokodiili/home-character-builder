@@ -1,7 +1,9 @@
 {
   "name": "Dragonfly Wings",
   "type_name": "wings",
-  "tags": ["wings"],
+  "tags": [
+    "wings"
+  ],
   "layer_1": {
     "zPos": 105,
     "male": "body/wings/dragonfly/solid/fg/",
@@ -66,5 +68,33 @@
         "https://opengameart.org/content/lpc-fairy-wings-pack-2"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "dragonfly": "wings-Dragonfly_Wings_dragonfly",
+    "amber": "wings-Dragonfly_Wings_amber",
+    "black": "wings-Dragonfly_Wings_black",
+    "blue": "wings-Dragonfly_Wings_bluegray",
+    "bright_green": "wings-Dragonfly_Wings_bright_green",
+    "bronze": "wings-Dragonfly_Wings_bronze",
+    "brown": "wings-Dragonfly_Wings_brown",
+    "ceramic": "wings-Dragonfly_Wings_ceramic",
+    "forest": "wings-Dragonfly_Wings_forest",
+    "gold": "wings-Dragonfly_Wings_gold",
+    "green": "wings-Dragonfly_Wings_zombie_green",
+    "iron": "wings-Dragonfly_Wings_iron",
+    "lavender": "wings-Dragonfly_Wings_lavender",
+    "light": "wings-Dragonfly_Wings_light",
+    "maroon": "wings-Dragonfly_Wings_maroon",
+    "navy": "wings-Dragonfly_Wings_navy",
+    "orange": "wings-Dragonfly_Wings_orange",
+    "pink": "wings-Dragonfly_Wings_pink",
+    "purple": "wings-Dragonfly_Wings_purple",
+    "red": "wings-Dragonfly_Wings_red",
+    "rose": "wings-Dragonfly_Wings_rose",
+    "silver": "wings-Dragonfly_Wings_silver",
+    "sky": "wings-Dragonfly_Wings_sky",
+    "teal": "wings-Dragonfly_Wings_teal",
+    "white": "wings-Dragonfly_Wings_white",
+    "yellow": "wings-Dragonfly_Wings_yellow"
+  }
 }

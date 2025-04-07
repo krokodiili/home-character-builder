@@ -28,5 +28,8 @@
         "https://opengameart.org/content/lpc-zombie"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "arm": "wound_arm-Arm_arm"
+  }
 }

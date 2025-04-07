@@ -33,5 +33,15 @@
         "https://opengameart.org/content/lpc-jewelry"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "steel": "necklace-Chain_Necklace_steel",
+    "iron": "necklace-Chain_Necklace_iron",
+    "ceramic": "necklace-Chain_Necklace_ceramic",
+    "brass": "necklace-Chain_Necklace_brass",
+    "copper": "necklace-Chain_Necklace_copper",
+    "bronze": "necklace-Chain_Necklace_bronze",
+    "silver": "necklace-Chain_Necklace_silver",
+    "gold": "necklace-Chain_Necklace_gold"
+  }
 }

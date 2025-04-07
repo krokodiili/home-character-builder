@@ -36,5 +36,16 @@
         "https://opengameart.org/content/lpc-clothes-for-children"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "clothes-Child_shirts_black",
+    "blue": "clothes-Child_shirts_lightblue",
+    "brown": "clothes-Child_shirts_brown",
+    "gray": "clothes-Child_shirts_gray",
+    "green": "clothes-Child_shirts_green",
+    "lavender": "clothes-Child_shirts_lavender",
+    "pink": "clothes-Child_shirts_pink",
+    "red": "clothes-Child_shirts_red",
+    "white": "clothes-Child_shirts_white"
+  }
 }

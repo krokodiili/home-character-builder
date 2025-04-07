@@ -1,7 +1,11 @@
 {
   "name": "Boarman child",
   "type_name": "head",
-  "tags": ["animal", "boarman", "child"],
+  "tags": [
+    "animal",
+    "boarman",
+    "child"
+  ],
   "layer_1": {
     "zPos": 100,
     "child": "head/heads/boarman/child/"
@@ -70,5 +74,26 @@
         "https://opengameart.org/content/lpc-character-bases"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "fur_black": "head-Boarman_child_fur_black",
+    "fur_brown": "head-Boarman_child_fur_brown",
+    "fur_tan": "head-Boarman_child_fur_tan",
+    "fur_copper": "head-Boarman_child_fur_copper",
+    "fur_gold": "head-Boarman_child_fur_gold",
+    "fur_grey": "head-Boarman_child_fur_grey",
+    "fur_white": "head-Boarman_child_fur_white",
+    "light": "head-Boarman_child_light",
+    "amber": "head-Boarman_child_amber",
+    "olive": "head-Boarman_child_olive",
+    "taupe": "head-Boarman_child_taupe",
+    "bronze": "head-Boarman_child_bronze",
+    "brown": "head-Boarman_child_brown",
+    "black": "head-Boarman_child_black",
+    "lavender": "head-Boarman_child_lavender",
+    "blue": "head-Boarman_child_blue",
+    "zombie_green": "head-Boarman_child_zombie_green",
+    "green": "head-Boarman_child_dark_green",
+    "zombie": "head-Boarman_child_zombie"
+  }
 }

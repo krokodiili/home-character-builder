@@ -1,7 +1,10 @@
 {
   "name": "Frankenstein",
   "type_name": "head",
-  "tags": ["monster", "frankenstein"],
+  "tags": [
+    "monster",
+    "frankenstein"
+  ],
   "layer_1": {
     "zPos": 100,
     "male": "head/heads/frankenstein/adult/",
@@ -72,5 +75,24 @@
         "https://opengameart.org/content/lpc-folk"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "head-Frankenstein_light",
+    "amber": "head-Frankenstein_amber",
+    "olive": "head-Frankenstein_olive",
+    "taupe": "head-Frankenstein_taupe",
+    "bronze": "head-Frankenstein_bronze",
+    "brown": "head-Frankenstein_fur_brown",
+    "black": "head-Frankenstein_fur_black",
+    "lavender": "head-Frankenstein_lavender",
+    "blue": "head-Frankenstein_blue",
+    "zombie_green": "head-Frankenstein_zombie_green",
+    "green": "head-Frankenstein_dark_green",
+    "zombie": "head-Frankenstein_zombie",
+    "fur_tan": "head-Frankenstein_fur_tan",
+    "fur_copper": "head-Frankenstein_fur_copper",
+    "fur_gold": "head-Frankenstein_fur_gold",
+    "fur_grey": "head-Frankenstein_fur_grey",
+    "fur_white": "head-Frankenstein_fur_white"
+  }
 }

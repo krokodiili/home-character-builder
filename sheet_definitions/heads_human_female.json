@@ -1,7 +1,11 @@
 {
   "name": "Human female",
   "type_name": "head",
-  "tags": ["human", "adult", "small"],
+  "tags": [
+    "human",
+    "adult",
+    "small"
+  ],
   "layer_1": {
     "zPos": 100,
     "male": "head/heads/human/female/",
@@ -73,5 +77,24 @@
         "https://opengameart.org/content/lpc-character-bases"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "head-Human_female_light",
+    "amber": "head-Human_female_amber",
+    "olive": "head-Human_female_olive",
+    "taupe": "head-Human_female_taupe",
+    "bronze": "head-Human_female_bronze",
+    "brown": "head-Human_female_fur_brown",
+    "black": "head-Human_female_fur_black",
+    "lavender": "head-Human_female_lavender",
+    "blue": "head-Human_female_blue",
+    "zombie_green": "head-Human_female_zombie_green",
+    "green": "head-Human_female_dark_green",
+    "zombie": "head-Human_female_zombie",
+    "fur_tan": "head-Human_female_fur_tan",
+    "fur_copper": "head-Human_female_fur_copper",
+    "fur_gold": "head-Human_female_fur_gold",
+    "fur_grey": "head-Human_female_fur_grey",
+    "fur_white": "head-Human_female_fur_white"
+  }
 }

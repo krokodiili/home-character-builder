@@ -31,5 +31,13 @@
         "https://opengameart.org/content/lpc-jewelry"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blue": "charm-Trilliant_cut_Gem_blue",
+    "green": "charm-Trilliant_cut_Gem_green",
+    "orange": "charm-Trilliant_cut_Gem_orange",
+    "purple": "charm-Trilliant_cut_Gem_purple",
+    "red": "charm-Trilliant_cut_Gem_red",
+    "yellow": "charm-Trilliant_cut_Gem_yellow"
+  }
 }

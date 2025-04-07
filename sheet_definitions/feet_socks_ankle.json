@@ -89,5 +89,30 @@
         "https://opengameart.org/content/lpc-expanded-socks-shoes"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "leather": "socks-Ankle_Socks_leather",
+    "black": "socks-Ankle_Socks_black",
+    "blue": "socks-Ankle_Socks_bluegray",
+    "brown": "socks-Ankle_Socks_brown",
+    "charcoal": "socks-Ankle_Socks_charcoal",
+    "forest": "socks-Ankle_Socks_forest",
+    "gray": "socks-Ankle_Socks_gray",
+    "green": "socks-Ankle_Socks_green",
+    "lavender": "socks-Ankle_Socks_lavender",
+    "maroon": "socks-Ankle_Socks_maroon",
+    "navy": "socks-Ankle_Socks_navy",
+    "orange": "socks-Ankle_Socks_orange",
+    "pink": "socks-Ankle_Socks_pink",
+    "purple": "socks-Ankle_Socks_purple",
+    "red": "socks-Ankle_Socks_red",
+    "rose": "socks-Ankle_Socks_rose",
+    "sky": "socks-Ankle_Socks_sky",
+    "slate": "socks-Ankle_Socks_slate",
+    "tan": "socks-Ankle_Socks_tan",
+    "teal": "socks-Ankle_Socks_teal",
+    "walnut": "socks-Ankle_Socks_walnut",
+    "white": "socks-Ankle_Socks_white",
+    "yellow": "socks-Ankle_Socks_yellow"
+  }
 }

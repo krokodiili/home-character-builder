@@ -70,5 +70,30 @@
         "https://opengameart.org/content/lpc-expanded-sit-run-jump-more"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "clothes-TShirt_Scoop_black",
+    "blue": "clothes-TShirt_Scoop_bluegray",
+    "brown": "clothes-TShirt_Scoop_brown",
+    "charcoal": "clothes-TShirt_Scoop_charcoal",
+    "forest": "clothes-TShirt_Scoop_forest",
+    "gray": "clothes-TShirt_Scoop_gray",
+    "green": "clothes-TShirt_Scoop_green",
+    "lavender": "clothes-TShirt_Scoop_lavender",
+    "leather": "clothes-TShirt_Scoop_leather",
+    "maroon": "clothes-TShirt_Scoop_maroon",
+    "navy": "clothes-TShirt_Scoop_navy",
+    "orange": "clothes-TShirt_Scoop_orange",
+    "pink": "clothes-TShirt_Scoop_pink",
+    "purple": "clothes-TShirt_Scoop_purple",
+    "red": "clothes-TShirt_Scoop_red",
+    "rose": "clothes-TShirt_Scoop_rose",
+    "sky": "clothes-TShirt_Scoop_sky",
+    "slate": "clothes-TShirt_Scoop_slate",
+    "tan": "clothes-TShirt_Scoop_tan",
+    "teal": "clothes-TShirt_Scoop_teal",
+    "walnut": "clothes-TShirt_Scoop_walnut",
+    "white": "clothes-TShirt_Scoop_white",
+    "yellow": "clothes-TShirt_Scoop_yellow"
+  }
 }

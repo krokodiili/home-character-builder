@@ -50,5 +50,30 @@
         "https://opengameart.org/content/lpc-pirates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "vest-Vest_open_black",
+    "blue": "vest-Vest_open_bluegray",
+    "brown": "vest-Vest_open_brown",
+    "charcoal": "vest-Vest_open_charcoal",
+    "forest": "vest-Vest_open_forest",
+    "gray": "vest-Vest_open_gray",
+    "green": "vest-Vest_open_green",
+    "lavender": "vest-Vest_open_lavender",
+    "leather": "vest-Vest_open_leather",
+    "maroon": "vest-Vest_open_maroon",
+    "navy": "vest-Vest_open_navy",
+    "orange": "vest-Vest_open_orange",
+    "pink": "vest-Vest_open_pink",
+    "purple": "vest-Vest_open_purple",
+    "red": "vest-Vest_open_red",
+    "rose": "vest-Vest_open_rose",
+    "sky": "vest-Vest_open_sky",
+    "slate": "vest-Vest_open_slate",
+    "tan": "vest-Vest_open_tan",
+    "teal": "vest-Vest_open_teal",
+    "walnut": "vest-Vest_open_walnut",
+    "white": "vest-Vest_open_white",
+    "yellow": "vest-Vest_open_yellow"
+  }
 }

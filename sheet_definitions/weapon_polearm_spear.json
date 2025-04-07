@@ -55,5 +55,19 @@
         "https://opengameart.org/content/lpc-spear-and-shovel-reworked"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "medium": "weapon-Spear_medium",
+    "light": "weapon-Spear_light",
+    "red": "weapon-Spear_red",
+    "dark": "weapon-Spear_dark",
+    "brass": "weapon-Spear_brass",
+    "bronze": "weapon-Spear_bronze",
+    "ceramic": "weapon-Spear_ceramic",
+    "copper": "weapon-Spear_copper",
+    "gold": "weapon-Spear_gold",
+    "iron": "weapon-Spear_iron",
+    "silver": "weapon-Spear_silver",
+    "steel": "weapon-Spear_steel"
+  }
 }

@@ -86,5 +86,38 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "steel": "accessory-Helmet_wings_steel",
+    "iron": "accessory-Helmet_wings_iron",
+    "ceramic": "accessory-Helmet_wings_ceramic",
+    "brass": "accessory-Helmet_wings_brass",
+    "copper": "accessory-Helmet_wings_copper",
+    "bronze": "accessory-Helmet_wings_bronze",
+    "silver": "accessory-Helmet_wings_silver",
+    "gold": "accessory-Helmet_wings_gold",
+    "black": "accessory-Helmet_wings_black",
+    "blue": "accessory-Helmet_wings_bluegray",
+    "brown": "accessory-Helmet_wings_brown",
+    "charcoal": "accessory-Helmet_wings_charcoal",
+    "forest": "accessory-Helmet_wings_forest",
+    "gray": "accessory-Helmet_wings_gray",
+    "green": "accessory-Helmet_wings_green",
+    "lavender": "accessory-Helmet_wings_lavender",
+    "leather": "accessory-Helmet_wings_leather",
+    "maroon": "accessory-Helmet_wings_maroon",
+    "navy": "accessory-Helmet_wings_navy",
+    "orange": "accessory-Helmet_wings_orange",
+    "pink": "accessory-Helmet_wings_pink",
+    "purple": "accessory-Helmet_wings_purple",
+    "red": "accessory-Helmet_wings_red",
+    "rose": "accessory-Helmet_wings_rose",
+    "sky": "accessory-Helmet_wings_sky",
+    "slate": "accessory-Helmet_wings_slate",
+    "tan": "accessory-Helmet_wings_tan",
+    "teal": "accessory-Helmet_wings_teal",
+    "walnut": "accessory-Helmet_wings_walnut",
+    "white": "accessory-Helmet_wings_white",
+    "yellow": "accessory-Helmet_wings_yellow"
+  }
 }

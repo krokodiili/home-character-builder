@@ -1,7 +1,11 @@
 {
   "name": "Bicorne Athwart Admiral",
   "type_name": "hat",
-  "tags": ["bicorne", "athwart", "athwart_admiral"],
+  "tags": [
+    "bicorne",
+    "athwart",
+    "athwart_admiral"
+  ],
   "layer_1": {
     "zPos": 130,
     "male": "hat/pirate/bicorne/athwart/admiral/adult/",
@@ -71,5 +75,30 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "hat-Bicorne_Athwart_Admiral_black",
+    "blue": "hat-Bicorne_Athwart_Admiral_bluegray",
+    "brown": "hat-Bicorne_Athwart_Admiral_brown",
+    "charcoal": "hat-Bicorne_Athwart_Admiral_charcoal",
+    "forest": "hat-Bicorne_Athwart_Admiral_forest",
+    "gray": "hat-Bicorne_Athwart_Admiral_gray",
+    "green": "hat-Bicorne_Athwart_Admiral_green",
+    "lavender": "hat-Bicorne_Athwart_Admiral_lavender",
+    "leather": "hat-Bicorne_Athwart_Admiral_leather",
+    "maroon": "hat-Bicorne_Athwart_Admiral_maroon",
+    "navy": "hat-Bicorne_Athwart_Admiral_navy",
+    "orange": "hat-Bicorne_Athwart_Admiral_orange",
+    "pink": "hat-Bicorne_Athwart_Admiral_pink",
+    "purple": "hat-Bicorne_Athwart_Admiral_purple",
+    "red": "hat-Bicorne_Athwart_Admiral_red",
+    "rose": "hat-Bicorne_Athwart_Admiral_rose",
+    "sky": "hat-Bicorne_Athwart_Admiral_sky",
+    "slate": "hat-Bicorne_Athwart_Admiral_slate",
+    "tan": "hat-Bicorne_Athwart_Admiral_tan",
+    "teal": "hat-Bicorne_Athwart_Admiral_teal",
+    "walnut": "hat-Bicorne_Athwart_Admiral_walnut",
+    "white": "hat-Bicorne_Athwart_Admiral_white",
+    "yellow": "hat-Bicorne_Athwart_Admiral_yellow"
+  }
 }

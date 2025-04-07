@@ -48,5 +48,8 @@
         "https://opengameart.org/content/lpc-zombie"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "eye_left": "wound_eye_left-Left_Eye_eye_left"
+  }
 }

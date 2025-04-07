@@ -1,8 +1,13 @@
 {
   "name": "Kimono Oversized Sleeves Trim",
   "type_name": "dress_sleeves_trim",
-  "tags": ["arms", "sleeves_trim"],
-  "required_tags": ["kimono_over_sleeves"],
+  "tags": [
+    "arms",
+    "sleeves_trim"
+  ],
+  "required_tags": [
+    "kimono_over_sleeves"
+  ],
   "layer_1": {
     "zPos": 32,
     "female": "dress/kimono/sleeves_oversize/trim/universal/female/",
@@ -57,5 +62,30 @@
         "https://opengameart.org/content/lpc-kimono-relm"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "dress_sleeves_trim-Kimono_Oversized_Sleeves_Trim_black",
+    "blue": "dress_sleeves_trim-Kimono_Oversized_Sleeves_Trim_bluegray",
+    "brown": "dress_sleeves_trim-Kimono_Oversized_Sleeves_Trim_brown",
+    "charcoal": "dress_sleeves_trim-Kimono_Oversized_Sleeves_Trim_charcoal",
+    "forest": "dress_sleeves_trim-Kimono_Oversized_Sleeves_Trim_forest",
+    "gray": "dress_sleeves_trim-Kimono_Oversized_Sleeves_Trim_gray",
+    "green": "dress_sleeves_trim-Kimono_Oversized_Sleeves_Trim_green",
+    "lavender": "dress_sleeves_trim-Kimono_Oversized_Sleeves_Trim_lavender",
+    "leather": "dress_sleeves_trim-Kimono_Oversized_Sleeves_Trim_leather",
+    "maroon": "dress_sleeves_trim-Kimono_Oversized_Sleeves_Trim_maroon",
+    "navy": "dress_sleeves_trim-Kimono_Oversized_Sleeves_Trim_navy",
+    "orange": "dress_sleeves_trim-Kimono_Oversized_Sleeves_Trim_orange",
+    "pink": "dress_sleeves_trim-Kimono_Oversized_Sleeves_Trim_pink",
+    "purple": "dress_sleeves_trim-Kimono_Oversized_Sleeves_Trim_purple",
+    "red": "dress_sleeves_trim-Kimono_Oversized_Sleeves_Trim_red",
+    "rose": "dress_sleeves_trim-Kimono_Oversized_Sleeves_Trim_rose",
+    "sky": "dress_sleeves_trim-Kimono_Oversized_Sleeves_Trim_sky",
+    "slate": "dress_sleeves_trim-Kimono_Oversized_Sleeves_Trim_slate",
+    "tan": "dress_sleeves_trim-Kimono_Oversized_Sleeves_Trim_tan",
+    "teal": "dress_sleeves_trim-Kimono_Oversized_Sleeves_Trim_teal",
+    "walnut": "dress_sleeves_trim-Kimono_Oversized_Sleeves_Trim_walnut",
+    "white": "dress_sleeves_trim-Kimono_Oversized_Sleeves_Trim_white",
+    "yellow": "dress_sleeves_trim-Kimono_Oversized_Sleeves_Trim_yellow"
+  }
 }

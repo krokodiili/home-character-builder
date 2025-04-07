@@ -75,5 +75,30 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "white": "headcover-Kerchief_white",
+    "black": "headcover-Kerchief_black",
+    "blue": "headcover-Kerchief_bluegray",
+    "brown": "headcover-Kerchief_brown",
+    "charcoal": "headcover-Kerchief_charcoal",
+    "forest": "headcover-Kerchief_forest",
+    "gray": "headcover-Kerchief_gray",
+    "green": "headcover-Kerchief_green",
+    "lavender": "headcover-Kerchief_lavender",
+    "leather": "headcover-Kerchief_leather",
+    "maroon": "headcover-Kerchief_maroon",
+    "navy": "headcover-Kerchief_navy",
+    "orange": "headcover-Kerchief_orange",
+    "pink": "headcover-Kerchief_pink",
+    "purple": "headcover-Kerchief_purple",
+    "red": "headcover-Kerchief_red",
+    "rose": "headcover-Kerchief_rose",
+    "sky": "headcover-Kerchief_sky",
+    "slate": "headcover-Kerchief_slate",
+    "tan": "headcover-Kerchief_tan",
+    "teal": "headcover-Kerchief_teal",
+    "walnut": "headcover-Kerchief_walnut",
+    "yellow": "headcover-Kerchief_yellow"
+  }
 }

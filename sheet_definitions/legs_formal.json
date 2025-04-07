@@ -102,5 +102,31 @@
         "https://opengameart.org/content/lpc-expanded-pants"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "base": "legs-Formal_Pants_base",
+    "black": "legs-Formal_Pants_black",
+    "blue": "legs-Formal_Pants_bluegray",
+    "brown": "legs-Formal_Pants_brown",
+    "charcoal": "legs-Formal_Pants_charcoal",
+    "forest": "legs-Formal_Pants_forest",
+    "gray": "legs-Formal_Pants_gray",
+    "green": "legs-Formal_Pants_green",
+    "lavender": "legs-Formal_Pants_lavender",
+    "leather": "legs-Formal_Pants_leather",
+    "maroon": "legs-Formal_Pants_maroon",
+    "navy": "legs-Formal_Pants_navy",
+    "orange": "legs-Formal_Pants_orange",
+    "pink": "legs-Formal_Pants_pink",
+    "purple": "legs-Formal_Pants_purple",
+    "red": "legs-Formal_Pants_red",
+    "rose": "legs-Formal_Pants_rose",
+    "sky": "legs-Formal_Pants_sky",
+    "slate": "legs-Formal_Pants_slate",
+    "tan": "legs-Formal_Pants_tan",
+    "teal": "legs-Formal_Pants_teal",
+    "walnut": "legs-Formal_Pants_walnut",
+    "white": "legs-Formal_Pants_white",
+    "yellow": "legs-Formal_Pants_yellow"
+  }
 }

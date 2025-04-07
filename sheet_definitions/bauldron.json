@@ -35,5 +35,14 @@
         "https://opengameart.org/content/more-lpc-clothes-and-hair"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "brown": "bauldron-Bauldron_brown",
+    "charcoal": "bauldron-Bauldron_charcoal",
+    "leather": "bauldron-Bauldron_leather",
+    "slate": "bauldron-Bauldron_slate",
+    "tan": "bauldron-Bauldron_tan",
+    "walnut": "bauldron-Bauldron_walnut",
+    "white": "bauldron-Bauldron_white"
+  }
 }

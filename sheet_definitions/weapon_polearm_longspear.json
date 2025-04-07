@@ -71,5 +71,19 @@
         "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "medium": "weapon-Long_spear_medium",
+    "light": "weapon-Long_spear_light",
+    "red": "weapon-Long_spear_red",
+    "dark": "weapon-Long_spear_dark",
+    "brass": "weapon-Long_spear_brass",
+    "bronze": "weapon-Long_spear_bronze",
+    "ceramic": "weapon-Long_spear_ceramic",
+    "copper": "weapon-Long_spear_copper",
+    "gold": "weapon-Long_spear_gold",
+    "iron": "weapon-Long_spear_iron",
+    "silver": "weapon-Long_spear_silver",
+    "steel": "weapon-Long_spear_steel"
+  }
 }

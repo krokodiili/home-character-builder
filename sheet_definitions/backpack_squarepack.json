@@ -1,7 +1,9 @@
 {
   "name": "Square pack",
   "type_name": "backpack",
-  "tags": ["backpack"],
+  "tags": [
+    "backpack"
+  ],
   "preview_row": 0,
   "layer_1": {
     "zPos": 110,
@@ -48,5 +50,26 @@
         "https://opengameart.org/content/lpc-backpacks"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "backpack-Square_pack_black",
+    "blue": "backpack-Square_pack_bluegray",
+    "forest": "backpack-Square_pack_forest",
+    "gray": "backpack-Square_pack_gray",
+    "green": "backpack-Square_pack_green",
+    "lavender": "backpack-Square_pack_lavender",
+    "leather": "backpack-Square_pack_leather",
+    "maroon": "backpack-Square_pack_maroon",
+    "navy": "backpack-Square_pack_navy",
+    "orange": "backpack-Square_pack_orange",
+    "pink": "backpack-Square_pack_pink",
+    "purple": "backpack-Square_pack_purple",
+    "red": "backpack-Square_pack_red",
+    "sky": "backpack-Square_pack_sky",
+    "tan": "backpack-Square_pack_tan",
+    "teal": "backpack-Square_pack_teal",
+    "walnut": "backpack-Square_pack_walnut",
+    "white": "backpack-Square_pack_white",
+    "yellow": "backpack-Square_pack_yellow"
+  }
 }

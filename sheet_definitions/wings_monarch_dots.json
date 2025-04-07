@@ -1,8 +1,12 @@
 {
   "name": "Monarch Wings Dots",
   "type_name": "wings_dots",
-  "tags": ["wings"],
-  "required_tags": ["monarch"],
+  "tags": [
+    "wings"
+  ],
+  "required_tags": [
+    "monarch"
+  ],
   "layer_1": {
     "zPos": 106,
     "male": "body/wings/monarch/dots/fg/",
@@ -66,5 +70,32 @@
         "https://opengameart.org/content/lpc-fairy-wings"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "amber": "wings_dots-Monarch_Wings_Dots_amber",
+    "black": "wings_dots-Monarch_Wings_Dots_black",
+    "blue": "wings_dots-Monarch_Wings_Dots_bluegray",
+    "bright_green": "wings_dots-Monarch_Wings_Dots_bright_green",
+    "bronze": "wings_dots-Monarch_Wings_Dots_bronze",
+    "brown": "wings_dots-Monarch_Wings_Dots_brown",
+    "ceramic": "wings_dots-Monarch_Wings_Dots_ceramic",
+    "forest": "wings_dots-Monarch_Wings_Dots_forest",
+    "gold": "wings_dots-Monarch_Wings_Dots_gold",
+    "green": "wings_dots-Monarch_Wings_Dots_zombie_green",
+    "iron": "wings_dots-Monarch_Wings_Dots_iron",
+    "lavender": "wings_dots-Monarch_Wings_Dots_lavender",
+    "light": "wings_dots-Monarch_Wings_Dots_light",
+    "maroon": "wings_dots-Monarch_Wings_Dots_maroon",
+    "navy": "wings_dots-Monarch_Wings_Dots_navy",
+    "orange": "wings_dots-Monarch_Wings_Dots_orange",
+    "pink": "wings_dots-Monarch_Wings_Dots_pink",
+    "purple": "wings_dots-Monarch_Wings_Dots_purple",
+    "red": "wings_dots-Monarch_Wings_Dots_red",
+    "rose": "wings_dots-Monarch_Wings_Dots_rose",
+    "silver": "wings_dots-Monarch_Wings_Dots_silver",
+    "sky": "wings_dots-Monarch_Wings_Dots_sky",
+    "teal": "wings_dots-Monarch_Wings_Dots_teal",
+    "white": "wings_dots-Monarch_Wings_Dots_white",
+    "yellow": "wings_dots-Monarch_Wings_Dots_yellow"
+  }
 }

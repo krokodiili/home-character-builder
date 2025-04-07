@@ -50,5 +50,30 @@
         "https://opengameart.org/content/lpc-aprons"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "leather": "apron-Apron_leather",
+    "black": "apron-Apron_black",
+    "blue": "apron-Apron_bluegray",
+    "brown": "apron-Apron_brown",
+    "charcoal": "apron-Apron_charcoal",
+    "forest": "apron-Apron_forest",
+    "gray": "apron-Apron_gray",
+    "green": "apron-Apron_green",
+    "lavender": "apron-Apron_lavender",
+    "maroon": "apron-Apron_maroon",
+    "navy": "apron-Apron_navy",
+    "orange": "apron-Apron_orange",
+    "pink": "apron-Apron_pink",
+    "purple": "apron-Apron_purple",
+    "red": "apron-Apron_red",
+    "rose": "apron-Apron_rose",
+    "sky": "apron-Apron_sky",
+    "slate": "apron-Apron_slate",
+    "tan": "apron-Apron_tan",
+    "teal": "apron-Apron_teal",
+    "walnut": "apron-Apron_walnut",
+    "white": "apron-Apron_white",
+    "yellow": "apron-Apron_yellow"
+  }
 }

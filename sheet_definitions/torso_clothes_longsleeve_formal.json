@@ -29,5 +29,8 @@
         "https://opengameart.org/content/lpc-gentleman"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "white": "clothes-Collared/Formal_Longsleeve_white"
+  }
 }

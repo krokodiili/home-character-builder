@@ -55,5 +55,31 @@
         "https://github.com/jrconway3/Universal-LPC-spritesheet/commit/46ddcf05a0e43e7aa6ffd47d350eef0eb529ac24"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-Parted_blonde",
+    "ash": "hair-Parted_ash",
+    "sandy": "hair-Parted_sandy",
+    "platinum": "hair-Parted_platinum",
+    "strawberry": "hair-Parted_strawberry",
+    "redhead": "hair-Parted_redhead",
+    "ginger": "hair-Parted_ginger",
+    "carrot": "hair-Parted_carrot",
+    "chestnut": "hair-Parted_chestnut",
+    "undefined": "hair-Parted_dark_brown",
+    "black": "hair-Parted_black",
+    "raven": "hair-Parted_raven",
+    "gray": "hair-Parted_gray",
+    "white": "hair-Parted_white",
+    "red": "hair-Parted_red",
+    "orange": "hair-Parted_orange",
+    "gold": "hair-Parted_gold",
+    "green": "hair-Parted_green",
+    "blue": "hair-Parted_blue",
+    "navy": "hair-Parted_navy",
+    "violet": "hair-Parted_violet",
+    "purple": "hair-Parted_purple",
+    "pink": "hair-Parted_pink",
+    "rose": "hair-Parted_rose"
+  }
 }

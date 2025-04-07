@@ -102,5 +102,38 @@
         "http://opengameart.org/content/lpc-clothing-updates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "brass": "gloves-Gloves_brass",
+    "bronze": "gloves-Gloves_bronze",
+    "ceramic": "gloves-Gloves_ceramic",
+    "copper": "gloves-Gloves_copper",
+    "gold": "gloves-Gloves_gold",
+    "iron": "gloves-Gloves_iron",
+    "silver": "gloves-Gloves_silver",
+    "steel": "gloves-Gloves_steel",
+    "black": "gloves-Gloves_black",
+    "blue": "gloves-Gloves_bluegray",
+    "brown": "gloves-Gloves_brown",
+    "charcoal": "gloves-Gloves_charcoal",
+    "forest": "gloves-Gloves_forest",
+    "gray": "gloves-Gloves_gray",
+    "green": "gloves-Gloves_green",
+    "lavender": "gloves-Gloves_lavender",
+    "leather": "gloves-Gloves_leather",
+    "maroon": "gloves-Gloves_maroon",
+    "navy": "gloves-Gloves_navy",
+    "orange": "gloves-Gloves_orange",
+    "pink": "gloves-Gloves_pink",
+    "purple": "gloves-Gloves_purple",
+    "red": "gloves-Gloves_red",
+    "rose": "gloves-Gloves_rose",
+    "sky": "gloves-Gloves_sky",
+    "slate": "gloves-Gloves_slate",
+    "tan": "gloves-Gloves_tan",
+    "teal": "gloves-Gloves_teal",
+    "walnut": "gloves-Gloves_walnut",
+    "white": "gloves-Gloves_white",
+    "yellow": "gloves-Gloves_yellow"
+  }
 }

@@ -32,5 +32,8 @@
         "https://opengameart.org/content/lpc-wands"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "wand": "weapon-Wand_wand"
+  }
 }

@@ -55,5 +55,15 @@
         "https://opengameart.org/content/lpc-expanded-socks-shoes"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "steel": "shoes_toe-Plated_Toe_steel",
+    "iron": "shoes_toe-Plated_Toe_iron",
+    "ceramic": "shoes_toe-Plated_Toe_ceramic",
+    "brass": "shoes_toe-Plated_Toe_brass",
+    "copper": "shoes_toe-Plated_Toe_copper",
+    "bronze": "shoes_toe-Plated_Toe_bronze",
+    "silver": "shoes_toe-Plated_Toe_silver",
+    "gold": "shoes_toe-Plated_Toe_gold"
+  }
 }

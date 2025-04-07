@@ -1,7 +1,10 @@
 {
   "name": "Tattered",
   "type_name": "cape",
-  "tags": ["back", "cape"],
+  "tags": [
+    "back",
+    "cape"
+  ],
   "layer_1": {
     "zPos": 85,
     "male": "cape/tattered/female/",
@@ -79,5 +82,22 @@
         "https://opengameart.org/content/lpc-roman-armor"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "cape-Tattered_black",
+    "blue": "cape-Tattered_bluegray",
+    "brown": "cape-Tattered_brown",
+    "charcoal": "cape-Tattered_charcoal",
+    "forest": "cape-Tattered_forest",
+    "gray": "cape-Tattered_gray",
+    "green": "cape-Tattered_green",
+    "lavender": "cape-Tattered_lavender",
+    "leather": "cape-Tattered_leather",
+    "maroon": "cape-Tattered_maroon",
+    "navy": "cape-Tattered_navy",
+    "orange": "cape-Tattered_orange",
+    "pink": "cape-Tattered_pink",
+    "purple": "cape-Tattered_purple",
+    "red": "cape-Tattered_yellow"
+  }
 }

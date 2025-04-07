@@ -70,5 +70,30 @@
         "https://opengameart.org/content/lpc-expanded-sit-run-jump-more"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "clothes-Sleeveless_2_Polo_black",
+    "blue": "clothes-Sleeveless_2_Polo_bluegray",
+    "brown": "clothes-Sleeveless_2_Polo_brown",
+    "charcoal": "clothes-Sleeveless_2_Polo_charcoal",
+    "forest": "clothes-Sleeveless_2_Polo_forest",
+    "gray": "clothes-Sleeveless_2_Polo_gray",
+    "green": "clothes-Sleeveless_2_Polo_green",
+    "lavender": "clothes-Sleeveless_2_Polo_lavender",
+    "leather": "clothes-Sleeveless_2_Polo_leather",
+    "maroon": "clothes-Sleeveless_2_Polo_maroon",
+    "navy": "clothes-Sleeveless_2_Polo_navy",
+    "orange": "clothes-Sleeveless_2_Polo_orange",
+    "pink": "clothes-Sleeveless_2_Polo_pink",
+    "purple": "clothes-Sleeveless_2_Polo_purple",
+    "red": "clothes-Sleeveless_2_Polo_red",
+    "rose": "clothes-Sleeveless_2_Polo_rose",
+    "sky": "clothes-Sleeveless_2_Polo_sky",
+    "slate": "clothes-Sleeveless_2_Polo_slate",
+    "tan": "clothes-Sleeveless_2_Polo_tan",
+    "teal": "clothes-Sleeveless_2_Polo_teal",
+    "walnut": "clothes-Sleeveless_2_Polo_walnut",
+    "white": "clothes-Sleeveless_2_Polo_white",
+    "yellow": "clothes-Sleeveless_2_Polo_yellow"
+  }
 }

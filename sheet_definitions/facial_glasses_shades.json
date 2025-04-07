@@ -81,5 +81,39 @@
         "https://opengameart.org/content/lpc-base-character-expressions"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "base": "facial_eyes-Shades_base",
+    "black": "facial_eyes-Shades_black",
+    "blue": "facial_eyes-Shades_bluegray",
+    "brown": "facial_eyes-Shades_brown",
+    "charcoal": "facial_eyes-Shades_charcoal",
+    "forest": "facial_eyes-Shades_forest",
+    "gray": "facial_eyes-Shades_gray",
+    "green": "facial_eyes-Shades_green",
+    "lavender": "facial_eyes-Shades_lavender",
+    "leather": "facial_eyes-Shades_leather",
+    "maroon": "facial_eyes-Shades_maroon",
+    "navy": "facial_eyes-Shades_navy",
+    "orange": "facial_eyes-Shades_orange",
+    "pink": "facial_eyes-Shades_pink",
+    "purple": "facial_eyes-Shades_purple",
+    "red": "facial_eyes-Shades_red",
+    "rose": "facial_eyes-Shades_rose",
+    "sky": "facial_eyes-Shades_sky",
+    "slate": "facial_eyes-Shades_slate",
+    "tan": "facial_eyes-Shades_tan",
+    "teal": "facial_eyes-Shades_teal",
+    "walnut": "facial_eyes-Shades_walnut",
+    "white": "facial_eyes-Shades_white",
+    "yellow": "facial_eyes-Shades_yellow",
+    "steel": "facial_eyes-Shades_steel",
+    "iron": "facial_eyes-Shades_iron",
+    "ceramic": "facial_eyes-Shades_ceramic",
+    "brass": "facial_eyes-Shades_brass",
+    "copper": "facial_eyes-Shades_copper",
+    "bronze": "facial_eyes-Shades_bronze",
+    "silver": "facial_eyes-Shades_silver",
+    "gold": "facial_eyes-Shades_gold"
+  }
 }

@@ -56,5 +56,30 @@
         "https://opengameart.org/content/lpc-pirates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "clothes-Sleeveless_striped_black",
+    "blue": "clothes-Sleeveless_striped_bluegray",
+    "brown": "clothes-Sleeveless_striped_brown",
+    "charcoal": "clothes-Sleeveless_striped_charcoal",
+    "forest": "clothes-Sleeveless_striped_forest",
+    "gray": "clothes-Sleeveless_striped_gray",
+    "green": "clothes-Sleeveless_striped_green",
+    "lavender": "clothes-Sleeveless_striped_lavender",
+    "leather": "clothes-Sleeveless_striped_leather",
+    "maroon": "clothes-Sleeveless_striped_maroon",
+    "navy": "clothes-Sleeveless_striped_navy",
+    "orange": "clothes-Sleeveless_striped_orange",
+    "pink": "clothes-Sleeveless_striped_pink",
+    "purple": "clothes-Sleeveless_striped_purple",
+    "red": "clothes-Sleeveless_striped_red",
+    "rose": "clothes-Sleeveless_striped_rose",
+    "sky": "clothes-Sleeveless_striped_sky",
+    "slate": "clothes-Sleeveless_striped_slate",
+    "tan": "clothes-Sleeveless_striped_tan",
+    "teal": "clothes-Sleeveless_striped_teal",
+    "walnut": "clothes-Sleeveless_striped_walnut",
+    "white": "clothes-Sleeveless_striped_white",
+    "yellow": "clothes-Sleeveless_striped_yellow"
+  }
 }

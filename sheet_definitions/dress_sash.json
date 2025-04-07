@@ -49,5 +49,30 @@
         "https://opengameart.org/content/lpc-2-characters"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "dress-Sash_dress_black",
+    "blue": "dress-Sash_dress_bluegray",
+    "brown": "dress-Sash_dress_brown",
+    "charcoal": "dress-Sash_dress_charcoal",
+    "forest": "dress-Sash_dress_forest",
+    "gray": "dress-Sash_dress_gray",
+    "green": "dress-Sash_dress_green",
+    "lavender": "dress-Sash_dress_lavender",
+    "leather": "dress-Sash_dress_leather",
+    "maroon": "dress-Sash_dress_maroon",
+    "navy": "dress-Sash_dress_navy",
+    "orange": "dress-Sash_dress_orange",
+    "pink": "dress-Sash_dress_pink",
+    "purple": "dress-Sash_dress_purple",
+    "red": "dress-Sash_dress_red",
+    "rose": "dress-Sash_dress_rose",
+    "sky": "dress-Sash_dress_sky",
+    "slate": "dress-Sash_dress_slate",
+    "tan": "dress-Sash_dress_tan",
+    "teal": "dress-Sash_dress_teal",
+    "walnut": "dress-Sash_dress_walnut",
+    "white": "dress-Sash_dress_white",
+    "yellow": "dress-Sash_dress_yellow"
+  }
 }

@@ -70,5 +70,30 @@
         "https://opengameart.org/content/lpc-expanded-sit-run-jump-more"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "clothes-Shortsleeve_Polo_black",
+    "blue": "clothes-Shortsleeve_Polo_bluegray",
+    "brown": "clothes-Shortsleeve_Polo_brown",
+    "charcoal": "clothes-Shortsleeve_Polo_charcoal",
+    "forest": "clothes-Shortsleeve_Polo_forest",
+    "gray": "clothes-Shortsleeve_Polo_gray",
+    "green": "clothes-Shortsleeve_Polo_green",
+    "lavender": "clothes-Shortsleeve_Polo_lavender",
+    "leather": "clothes-Shortsleeve_Polo_leather",
+    "maroon": "clothes-Shortsleeve_Polo_maroon",
+    "navy": "clothes-Shortsleeve_Polo_navy",
+    "orange": "clothes-Shortsleeve_Polo_orange",
+    "pink": "clothes-Shortsleeve_Polo_pink",
+    "purple": "clothes-Shortsleeve_Polo_purple",
+    "red": "clothes-Shortsleeve_Polo_red",
+    "rose": "clothes-Shortsleeve_Polo_rose",
+    "sky": "clothes-Shortsleeve_Polo_sky",
+    "slate": "clothes-Shortsleeve_Polo_slate",
+    "tan": "clothes-Shortsleeve_Polo_tan",
+    "teal": "clothes-Shortsleeve_Polo_teal",
+    "walnut": "clothes-Shortsleeve_Polo_walnut",
+    "white": "clothes-Shortsleeve_Polo_white",
+    "yellow": "clothes-Shortsleeve_Polo_yellow"
+  }
 }

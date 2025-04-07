@@ -48,5 +48,30 @@
         "https://opengameart.org/content/lpc-pirates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "neck-Jabot_black",
+    "blue": "neck-Jabot_bluegray",
+    "brown": "neck-Jabot_brown",
+    "charcoal": "neck-Jabot_charcoal",
+    "forest": "neck-Jabot_forest",
+    "gray": "neck-Jabot_gray",
+    "green": "neck-Jabot_green",
+    "lavender": "neck-Jabot_lavender",
+    "leather": "neck-Jabot_leather",
+    "maroon": "neck-Jabot_maroon",
+    "navy": "neck-Jabot_navy",
+    "orange": "neck-Jabot_orange",
+    "pink": "neck-Jabot_pink",
+    "purple": "neck-Jabot_purple",
+    "red": "neck-Jabot_red",
+    "rose": "neck-Jabot_rose",
+    "sky": "neck-Jabot_sky",
+    "slate": "neck-Jabot_slate",
+    "tan": "neck-Jabot_tan",
+    "teal": "neck-Jabot_teal",
+    "walnut": "neck-Jabot_walnut",
+    "white": "neck-Jabot_white",
+    "yellow": "neck-Jabot_yellow"
+  }
 }

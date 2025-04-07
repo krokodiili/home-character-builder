@@ -65,5 +65,19 @@
         "https://opengameart.org/content/lpc-more-weapons"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "medium": "weapon-Diamond_staff_medium",
+    "light": "weapon-Diamond_staff_light",
+    "red": "weapon-Diamond_staff_red",
+    "dark": "weapon-Diamond_staff_dark",
+    "brass": "weapon-Diamond_staff_brass",
+    "bronze": "weapon-Diamond_staff_bronze",
+    "ceramic": "weapon-Diamond_staff_ceramic",
+    "copper": "weapon-Diamond_staff_copper",
+    "gold": "weapon-Diamond_staff_gold",
+    "iron": "weapon-Diamond_staff_iron",
+    "silver": "weapon-Diamond_staff_silver",
+    "steel": "weapon-Diamond_staff_steel"
+  }
 }

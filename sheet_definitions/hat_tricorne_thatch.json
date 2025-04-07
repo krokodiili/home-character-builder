@@ -1,8 +1,14 @@
 {
   "name": "Tricorne Thatching",
   "type_name": "hat_trim",
-  "tags": ["tricorne", "hat_trim", "thatching"],
-  "required_tags": ["tricorne_basic"],
+  "tags": [
+    "tricorne",
+    "hat_trim",
+    "thatching"
+  ],
+  "required_tags": [
+    "tricorne_basic"
+  ],
   "layer_1": {
     "zPos": 131,
     "male": "hat/pirate/tricorne/basic/thatching/adult/",
@@ -71,5 +77,30 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "hat_trim-Tricorne_Thatching_black",
+    "blue": "hat_trim-Tricorne_Thatching_bluegray",
+    "brown": "hat_trim-Tricorne_Thatching_brown",
+    "charcoal": "hat_trim-Tricorne_Thatching_charcoal",
+    "forest": "hat_trim-Tricorne_Thatching_forest",
+    "gray": "hat_trim-Tricorne_Thatching_gray",
+    "green": "hat_trim-Tricorne_Thatching_green",
+    "lavender": "hat_trim-Tricorne_Thatching_lavender",
+    "leather": "hat_trim-Tricorne_Thatching_leather",
+    "maroon": "hat_trim-Tricorne_Thatching_maroon",
+    "navy": "hat_trim-Tricorne_Thatching_navy",
+    "orange": "hat_trim-Tricorne_Thatching_orange",
+    "pink": "hat_trim-Tricorne_Thatching_pink",
+    "purple": "hat_trim-Tricorne_Thatching_purple",
+    "red": "hat_trim-Tricorne_Thatching_red",
+    "rose": "hat_trim-Tricorne_Thatching_rose",
+    "sky": "hat_trim-Tricorne_Thatching_sky",
+    "slate": "hat_trim-Tricorne_Thatching_slate",
+    "tan": "hat_trim-Tricorne_Thatching_tan",
+    "teal": "hat_trim-Tricorne_Thatching_teal",
+    "walnut": "hat_trim-Tricorne_Thatching_walnut",
+    "white": "hat_trim-Tricorne_Thatching_white",
+    "yellow": "hat_trim-Tricorne_Thatching_yellow"
+  }
 }

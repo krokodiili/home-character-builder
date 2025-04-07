@@ -71,5 +71,31 @@
         "https://opengameart.org/content/lpc-expanded-sit-run-jump-more"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "beard-Trimmed_Beard_blonde",
+    "ash": "beard-Trimmed_Beard_ash",
+    "sandy": "beard-Trimmed_Beard_sandy",
+    "platinum": "beard-Trimmed_Beard_platinum",
+    "strawberry": "beard-Trimmed_Beard_strawberry",
+    "redhead": "beard-Trimmed_Beard_redhead",
+    "ginger": "beard-Trimmed_Beard_ginger",
+    "carrot": "beard-Trimmed_Beard_carrot",
+    "chestnut": "beard-Trimmed_Beard_chestnut",
+    "undefined": "beard-Trimmed_Beard_dark_brown",
+    "black": "beard-Trimmed_Beard_black",
+    "raven": "beard-Trimmed_Beard_raven",
+    "gray": "beard-Trimmed_Beard_gray",
+    "white": "beard-Trimmed_Beard_white",
+    "red": "beard-Trimmed_Beard_red",
+    "orange": "beard-Trimmed_Beard_orange",
+    "gold": "beard-Trimmed_Beard_gold",
+    "green": "beard-Trimmed_Beard_green",
+    "blue": "beard-Trimmed_Beard_blue",
+    "navy": "beard-Trimmed_Beard_navy",
+    "violet": "beard-Trimmed_Beard_violet",
+    "purple": "beard-Trimmed_Beard_purple",
+    "pink": "beard-Trimmed_Beard_pink",
+    "rose": "beard-Trimmed_Beard_rose"
+  }
 }

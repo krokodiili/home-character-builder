@@ -32,5 +32,14 @@
         "https://opengameart.org/content/female-mage-clothing-set"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "clothes-Robe_black",
+    "blue": "clothes-Robe_blue",
+    "brown": "clothes-Robe_dark_brown",
+    "undefined": "clothes-Robe_light_gray",
+    "purple": "clothes-Robe_purple",
+    "red": "clothes-Robe_red",
+    "white": "clothes-Robe_white"
+  }
 }

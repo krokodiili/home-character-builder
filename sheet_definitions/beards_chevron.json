@@ -71,5 +71,31 @@
         "https://opengameart.org/content/lpc-expanded-sit-run-jump-more"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "mustache-Chevron_Mustache_blonde",
+    "ash": "mustache-Chevron_Mustache_ash",
+    "sandy": "mustache-Chevron_Mustache_sandy",
+    "platinum": "mustache-Chevron_Mustache_platinum",
+    "strawberry": "mustache-Chevron_Mustache_strawberry",
+    "redhead": "mustache-Chevron_Mustache_redhead",
+    "ginger": "mustache-Chevron_Mustache_ginger",
+    "carrot": "mustache-Chevron_Mustache_carrot",
+    "chestnut": "mustache-Chevron_Mustache_chestnut",
+    "undefined": "mustache-Chevron_Mustache_dark_brown",
+    "black": "mustache-Chevron_Mustache_black",
+    "raven": "mustache-Chevron_Mustache_raven",
+    "gray": "mustache-Chevron_Mustache_gray",
+    "white": "mustache-Chevron_Mustache_white",
+    "red": "mustache-Chevron_Mustache_red",
+    "orange": "mustache-Chevron_Mustache_orange",
+    "gold": "mustache-Chevron_Mustache_gold",
+    "green": "mustache-Chevron_Mustache_green",
+    "blue": "mustache-Chevron_Mustache_blue",
+    "navy": "mustache-Chevron_Mustache_navy",
+    "violet": "mustache-Chevron_Mustache_violet",
+    "purple": "mustache-Chevron_Mustache_purple",
+    "pink": "mustache-Chevron_Mustache_pink",
+    "rose": "mustache-Chevron_Mustache_rose"
+  }
 }

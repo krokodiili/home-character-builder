@@ -1,8 +1,12 @@
 {
   "name": "Shame",
   "type_name": "expression",
-  "tags": ["expression"],
-  "required_tags": ["human"],
+  "tags": [
+    "expression"
+  ],
+  "required_tags": [
+    "human"
+  ],
   "layer_1": {
     "zPos": 101,
     "male": "head/faces/${head}/shame/",
@@ -120,5 +124,24 @@
         "https://opengameart.org/content/ulpc-expanded-expressions"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "expression-Shame_light",
+    "amber": "expression-Shame_amber",
+    "olive": "expression-Shame_olive",
+    "taupe": "expression-Shame_taupe",
+    "bronze": "expression-Shame_bronze",
+    "brown": "expression-Shame_fur_brown",
+    "black": "expression-Shame_fur_black",
+    "lavender": "expression-Shame_lavender",
+    "blue": "expression-Shame_blue",
+    "zombie_green": "expression-Shame_zombie_green",
+    "green": "expression-Shame_dark_green",
+    "fur_tan": "expression-Shame_fur_tan",
+    "fur_copper": "expression-Shame_fur_copper",
+    "fur_gold": "expression-Shame_fur_gold",
+    "fur_grey": "expression-Shame_fur_grey",
+    "fur_white": "expression-Shame_fur_white",
+    "zombie": "expression-Shame_zombie"
+  }
 }

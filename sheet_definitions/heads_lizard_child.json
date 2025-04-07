@@ -1,7 +1,10 @@
 {
   "name": "Lizard child",
   "type_name": "head",
-  "tags": ["lizard", "child"],
+  "tags": [
+    "lizard",
+    "child"
+  ],
   "layer_1": {
     "zPos": 100,
     "child": "head/heads/lizard/child/"
@@ -61,5 +64,18 @@
         "https://opengameart.org/content/lpc-character-bases"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "head-Lizard_child_light",
+    "amber": "head-Lizard_child_amber",
+    "olive": "head-Lizard_child_olive",
+    "taupe": "head-Lizard_child_taupe",
+    "bronze": "head-Lizard_child_bronze",
+    "brown": "head-Lizard_child_brown",
+    "black": "head-Lizard_child_black",
+    "lavender": "head-Lizard_child_lavender",
+    "blue": "head-Lizard_child_blue",
+    "zombie_green": "head-Lizard_child_zombie_green",
+    "green": "head-Lizard_child_dark_green"
+  }
 }

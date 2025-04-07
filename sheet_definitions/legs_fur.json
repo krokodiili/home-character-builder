@@ -107,5 +107,38 @@
         "https://opengameart.org/content/lpc-expanded-pants"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "base": "legs-Fur_Pants_base",
+    "fur_black": "legs-Fur_Pants_fur_black",
+    "fur_brown": "legs-Fur_Pants_fur_brown",
+    "fur_tan": "legs-Fur_Pants_fur_tan",
+    "fur_copper": "legs-Fur_Pants_fur_copper",
+    "fur_gold": "legs-Fur_Pants_fur_gold",
+    "fur_grey": "legs-Fur_Pants_fur_grey",
+    "fur_white": "legs-Fur_Pants_fur_white",
+    "black": "legs-Fur_Pants_black",
+    "blue": "legs-Fur_Pants_bluegray",
+    "brown": "legs-Fur_Pants_brown",
+    "charcoal": "legs-Fur_Pants_charcoal",
+    "forest": "legs-Fur_Pants_forest",
+    "gray": "legs-Fur_Pants_gray",
+    "green": "legs-Fur_Pants_green",
+    "lavender": "legs-Fur_Pants_lavender",
+    "leather": "legs-Fur_Pants_leather",
+    "maroon": "legs-Fur_Pants_maroon",
+    "navy": "legs-Fur_Pants_navy",
+    "orange": "legs-Fur_Pants_orange",
+    "pink": "legs-Fur_Pants_pink",
+    "purple": "legs-Fur_Pants_purple",
+    "red": "legs-Fur_Pants_red",
+    "rose": "legs-Fur_Pants_rose",
+    "sky": "legs-Fur_Pants_sky",
+    "slate": "legs-Fur_Pants_slate",
+    "tan": "legs-Fur_Pants_tan",
+    "teal": "legs-Fur_Pants_teal",
+    "walnut": "legs-Fur_Pants_walnut",
+    "white": "legs-Fur_Pants_white",
+    "yellow": "legs-Fur_Pants_yellow"
+  }
 }

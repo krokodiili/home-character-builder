@@ -27,5 +27,8 @@
         "https://opengameart.org/content/lpc-bandages"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "white": "bandages-Bandages_white"
+  }
 }

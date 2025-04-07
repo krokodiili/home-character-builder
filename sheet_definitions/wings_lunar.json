@@ -1,7 +1,9 @@
 {
   "name": "Lunar Wings",
   "type_name": "wings",
-  "tags": ["wings"],
+  "tags": [
+    "wings"
+  ],
   "layer_1": {
     "zPos": 105,
     "male": "body/wings/lunar/fg/",
@@ -66,5 +68,33 @@
         "https://opengameart.org/content/lpc-fairy-wings-pack-2"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "lunar": "wings-Lunar_Wings_lunar",
+    "amber": "wings-Lunar_Wings_amber",
+    "black": "wings-Lunar_Wings_black",
+    "blue": "wings-Lunar_Wings_bluegray",
+    "bright_green": "wings-Lunar_Wings_bright_green",
+    "bronze": "wings-Lunar_Wings_bronze",
+    "brown": "wings-Lunar_Wings_brown",
+    "ceramic": "wings-Lunar_Wings_ceramic",
+    "forest": "wings-Lunar_Wings_forest",
+    "gold": "wings-Lunar_Wings_gold",
+    "green": "wings-Lunar_Wings_zombie_green",
+    "iron": "wings-Lunar_Wings_iron",
+    "lavender": "wings-Lunar_Wings_lavender",
+    "light": "wings-Lunar_Wings_light",
+    "maroon": "wings-Lunar_Wings_maroon",
+    "navy": "wings-Lunar_Wings_navy",
+    "orange": "wings-Lunar_Wings_orange",
+    "pink": "wings-Lunar_Wings_pink",
+    "purple": "wings-Lunar_Wings_purple",
+    "red": "wings-Lunar_Wings_red",
+    "rose": "wings-Lunar_Wings_rose",
+    "silver": "wings-Lunar_Wings_silver",
+    "sky": "wings-Lunar_Wings_sky",
+    "teal": "wings-Lunar_Wings_teal",
+    "white": "wings-Lunar_Wings_white",
+    "yellow": "wings-Lunar_Wings_yellow"
+  }
 }

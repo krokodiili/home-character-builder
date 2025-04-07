@@ -65,5 +65,24 @@
       ],
       "urls": []
     }
-  ]
+  ],
+  "ids": {
+    "light": "wrinkes-Wrinkles_light",
+    "amber": "wrinkes-Wrinkles_amber",
+    "olive": "wrinkes-Wrinkles_olive",
+    "taupe": "wrinkes-Wrinkles_taupe",
+    "bronze": "wrinkes-Wrinkles_bronze",
+    "brown": "wrinkes-Wrinkles_fur_brown",
+    "black": "wrinkes-Wrinkles_fur_black",
+    "lavender": "wrinkes-Wrinkles_lavender",
+    "blue": "wrinkes-Wrinkles_blue",
+    "zombie_green": "wrinkes-Wrinkles_zombie_green",
+    "green": "wrinkes-Wrinkles_dark_green",
+    "fur_tan": "wrinkes-Wrinkles_fur_tan",
+    "fur_copper": "wrinkes-Wrinkles_fur_copper",
+    "fur_gold": "wrinkes-Wrinkles_fur_gold",
+    "fur_grey": "wrinkes-Wrinkles_fur_grey",
+    "fur_white": "wrinkes-Wrinkles_fur_white",
+    "zombie": "wrinkes-Wrinkles_zombie"
+  }
 }

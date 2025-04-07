@@ -79,5 +79,30 @@
         "https://opengameart.org/content/lpc-shields"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "shield_pattern-revised_chevron_black",
+    "blue": "shield_pattern-revised_chevron_bluegray",
+    "brown": "shield_pattern-revised_chevron_brown",
+    "charcoal": "shield_pattern-revised_chevron_charcoal",
+    "forest": "shield_pattern-revised_chevron_forest",
+    "gray": "shield_pattern-revised_chevron_gray",
+    "green": "shield_pattern-revised_chevron_green",
+    "lavender": "shield_pattern-revised_chevron_lavender",
+    "leather": "shield_pattern-revised_chevron_leather",
+    "maroon": "shield_pattern-revised_chevron_maroon",
+    "navy": "shield_pattern-revised_chevron_navy",
+    "orange": "shield_pattern-revised_chevron_orange",
+    "pink": "shield_pattern-revised_chevron_pink",
+    "purple": "shield_pattern-revised_chevron_purple",
+    "red": "shield_pattern-revised_chevron_red",
+    "rose": "shield_pattern-revised_chevron_rose",
+    "sky": "shield_pattern-revised_chevron_sky",
+    "slate": "shield_pattern-revised_chevron_slate",
+    "tan": "shield_pattern-revised_chevron_tan",
+    "teal": "shield_pattern-revised_chevron_teal",
+    "walnut": "shield_pattern-revised_chevron_walnut",
+    "white": "shield_pattern-revised_chevron_white",
+    "yellow": "shield_pattern-revised_chevron_yellow"
+  }
 }

@@ -49,5 +49,30 @@
         "https://opengameart.org/content/lpc-sara"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "clothes-Sara_Tunic_black",
+    "blue": "clothes-Sara_Tunic_bluegray",
+    "brown": "clothes-Sara_Tunic_brown",
+    "charcoal": "clothes-Sara_Tunic_charcoal",
+    "forest": "clothes-Sara_Tunic_forest",
+    "gray": "clothes-Sara_Tunic_gray",
+    "green": "clothes-Sara_Tunic_green",
+    "lavender": "clothes-Sara_Tunic_lavender",
+    "leather": "clothes-Sara_Tunic_leather",
+    "maroon": "clothes-Sara_Tunic_maroon",
+    "navy": "clothes-Sara_Tunic_navy",
+    "orange": "clothes-Sara_Tunic_orange",
+    "pink": "clothes-Sara_Tunic_pink",
+    "purple": "clothes-Sara_Tunic_purple",
+    "red": "clothes-Sara_Tunic_red",
+    "rose": "clothes-Sara_Tunic_rose",
+    "sky": "clothes-Sara_Tunic_sky",
+    "slate": "clothes-Sara_Tunic_slate",
+    "tan": "clothes-Sara_Tunic_tan",
+    "teal": "clothes-Sara_Tunic_teal",
+    "walnut": "clothes-Sara_Tunic_walnut",
+    "white": "clothes-Sara_Tunic_white",
+    "yellow": "clothes-Sara_Tunic_yellow"
+  }
 }

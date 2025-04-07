@@ -70,5 +70,30 @@
         "https://opengameart.org/content/lpc-expanded-sit-run-jump-more"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "facial_eyes-Eyepatch_2_Right_black",
+    "blue": "facial_eyes-Eyepatch_2_Right_bluegray",
+    "brown": "facial_eyes-Eyepatch_2_Right_brown",
+    "charcoal": "facial_eyes-Eyepatch_2_Right_charcoal",
+    "forest": "facial_eyes-Eyepatch_2_Right_forest",
+    "gray": "facial_eyes-Eyepatch_2_Right_gray",
+    "green": "facial_eyes-Eyepatch_2_Right_green",
+    "lavender": "facial_eyes-Eyepatch_2_Right_lavender",
+    "leather": "facial_eyes-Eyepatch_2_Right_leather",
+    "maroon": "facial_eyes-Eyepatch_2_Right_maroon",
+    "navy": "facial_eyes-Eyepatch_2_Right_navy",
+    "orange": "facial_eyes-Eyepatch_2_Right_orange",
+    "pink": "facial_eyes-Eyepatch_2_Right_pink",
+    "purple": "facial_eyes-Eyepatch_2_Right_purple",
+    "red": "facial_eyes-Eyepatch_2_Right_red",
+    "rose": "facial_eyes-Eyepatch_2_Right_rose",
+    "sky": "facial_eyes-Eyepatch_2_Right_sky",
+    "slate": "facial_eyes-Eyepatch_2_Right_slate",
+    "tan": "facial_eyes-Eyepatch_2_Right_tan",
+    "teal": "facial_eyes-Eyepatch_2_Right_teal",
+    "walnut": "facial_eyes-Eyepatch_2_Right_walnut",
+    "white": "facial_eyes-Eyepatch_2_Right_white",
+    "yellow": "facial_eyes-Eyepatch_2_Right_yellow"
+  }
 }

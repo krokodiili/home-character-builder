@@ -75,5 +75,31 @@
         "https://github.com/jrconway3/Universal-LPC-spritesheet/commit/46ddcf05a0e43e7aa6ffd47d350eef0eb529ac24"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-Side_Swoop_blonde",
+    "ash": "hair-Side_Swoop_ash",
+    "sandy": "hair-Side_Swoop_sandy",
+    "platinum": "hair-Side_Swoop_platinum",
+    "strawberry": "hair-Side_Swoop_strawberry",
+    "redhead": "hair-Side_Swoop_redhead",
+    "ginger": "hair-Side_Swoop_ginger",
+    "carrot": "hair-Side_Swoop_carrot",
+    "chestnut": "hair-Side_Swoop_chestnut",
+    "undefined": "hair-Side_Swoop_dark_brown",
+    "black": "hair-Side_Swoop_black",
+    "raven": "hair-Side_Swoop_raven",
+    "gray": "hair-Side_Swoop_gray",
+    "white": "hair-Side_Swoop_white",
+    "red": "hair-Side_Swoop_red",
+    "orange": "hair-Side_Swoop_orange",
+    "gold": "hair-Side_Swoop_gold",
+    "green": "hair-Side_Swoop_green",
+    "blue": "hair-Side_Swoop_blue",
+    "navy": "hair-Side_Swoop_navy",
+    "violet": "hair-Side_Swoop_violet",
+    "purple": "hair-Side_Swoop_purple",
+    "pink": "hair-Side_Swoop_pink",
+    "rose": "hair-Side_Swoop_rose"
+  }
 }

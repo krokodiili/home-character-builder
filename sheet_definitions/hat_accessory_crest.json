@@ -53,5 +53,15 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "steel": "accessory-Crest_steel",
+    "iron": "accessory-Crest_iron",
+    "ceramic": "accessory-Crest_ceramic",
+    "brass": "accessory-Crest_brass",
+    "copper": "accessory-Crest_copper",
+    "bronze": "accessory-Crest_bronze",
+    "silver": "accessory-Crest_silver",
+    "gold": "accessory-Crest_gold"
+  }
 }

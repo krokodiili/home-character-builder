@@ -92,5 +92,31 @@
         "https://opengameart.org/content/lpc-expanded-xlong-hair"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-Relm_w/Ponytail_blonde",
+    "ash": "hair-Relm_w/Ponytail_ash",
+    "sandy": "hair-Relm_w/Ponytail_sandy",
+    "platinum": "hair-Relm_w/Ponytail_platinum",
+    "strawberry": "hair-Relm_w/Ponytail_strawberry",
+    "redhead": "hair-Relm_w/Ponytail_redhead",
+    "ginger": "hair-Relm_w/Ponytail_ginger",
+    "carrot": "hair-Relm_w/Ponytail_carrot",
+    "chestnut": "hair-Relm_w/Ponytail_chestnut",
+    "undefined": "hair-Relm_w/Ponytail_dark_brown",
+    "black": "hair-Relm_w/Ponytail_black",
+    "raven": "hair-Relm_w/Ponytail_raven",
+    "gray": "hair-Relm_w/Ponytail_gray",
+    "white": "hair-Relm_w/Ponytail_white",
+    "red": "hair-Relm_w/Ponytail_red",
+    "orange": "hair-Relm_w/Ponytail_orange",
+    "gold": "hair-Relm_w/Ponytail_gold",
+    "green": "hair-Relm_w/Ponytail_green",
+    "blue": "hair-Relm_w/Ponytail_blue",
+    "navy": "hair-Relm_w/Ponytail_navy",
+    "violet": "hair-Relm_w/Ponytail_violet",
+    "purple": "hair-Relm_w/Ponytail_purple",
+    "pink": "hair-Relm_w/Ponytail_pink",
+    "rose": "hair-Relm_w/Ponytail_rose"
+  }
 }

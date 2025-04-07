@@ -1,7 +1,10 @@
 {
   "name": "Troll",
   "type_name": "head",
-  "tags": ["troll", "adult"],
+  "tags": [
+    "troll",
+    "adult"
+  ],
   "layer_1": {
     "zPos": 100,
     "male": "head/heads/troll/adult/",
@@ -72,5 +75,24 @@
         "https://opengameart.org/content/lpc-folk"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "head-Troll_light",
+    "amber": "head-Troll_amber",
+    "olive": "head-Troll_olive",
+    "taupe": "head-Troll_taupe",
+    "bronze": "head-Troll_bronze",
+    "brown": "head-Troll_fur_brown",
+    "black": "head-Troll_fur_black",
+    "lavender": "head-Troll_lavender",
+    "blue": "head-Troll_blue",
+    "zombie_green": "head-Troll_zombie_green",
+    "green": "head-Troll_dark_green",
+    "fur_tan": "head-Troll_fur_tan",
+    "fur_copper": "head-Troll_fur_copper",
+    "fur_gold": "head-Troll_fur_gold",
+    "fur_grey": "head-Troll_fur_grey",
+    "fur_white": "head-Troll_fur_white",
+    "zombie": "head-Troll_zombie"
+  }
 }

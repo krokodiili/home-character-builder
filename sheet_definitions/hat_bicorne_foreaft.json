@@ -70,5 +70,30 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "hat-Bicorne_foreaft_black",
+    "blue": "hat-Bicorne_foreaft_bluegray",
+    "brown": "hat-Bicorne_foreaft_brown",
+    "charcoal": "hat-Bicorne_foreaft_charcoal",
+    "forest": "hat-Bicorne_foreaft_forest",
+    "gray": "hat-Bicorne_foreaft_gray",
+    "green": "hat-Bicorne_foreaft_green",
+    "lavender": "hat-Bicorne_foreaft_lavender",
+    "leather": "hat-Bicorne_foreaft_leather",
+    "maroon": "hat-Bicorne_foreaft_maroon",
+    "navy": "hat-Bicorne_foreaft_navy",
+    "orange": "hat-Bicorne_foreaft_orange",
+    "pink": "hat-Bicorne_foreaft_pink",
+    "purple": "hat-Bicorne_foreaft_purple",
+    "red": "hat-Bicorne_foreaft_red",
+    "rose": "hat-Bicorne_foreaft_rose",
+    "sky": "hat-Bicorne_foreaft_sky",
+    "slate": "hat-Bicorne_foreaft_slate",
+    "tan": "hat-Bicorne_foreaft_tan",
+    "teal": "hat-Bicorne_foreaft_teal",
+    "walnut": "hat-Bicorne_foreaft_walnut",
+    "white": "hat-Bicorne_foreaft_white",
+    "yellow": "hat-Bicorne_foreaft_yellow"
+  }
 }

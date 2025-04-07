@@ -101,5 +101,38 @@
         "https://opengameart.org/content/lpc-expanded-socks-shoes"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "shoes-Basic_Boots_black",
+    "blue": "shoes-Basic_Boots_bluegray",
+    "brown": "shoes-Basic_Boots_brown",
+    "charcoal": "shoes-Basic_Boots_charcoal",
+    "forest": "shoes-Basic_Boots_forest",
+    "gray": "shoes-Basic_Boots_gray",
+    "green": "shoes-Basic_Boots_green",
+    "lavender": "shoes-Basic_Boots_lavender",
+    "leather": "shoes-Basic_Boots_leather",
+    "maroon": "shoes-Basic_Boots_maroon",
+    "navy": "shoes-Basic_Boots_navy",
+    "orange": "shoes-Basic_Boots_orange",
+    "pink": "shoes-Basic_Boots_pink",
+    "purple": "shoes-Basic_Boots_purple",
+    "red": "shoes-Basic_Boots_red",
+    "rose": "shoes-Basic_Boots_rose",
+    "sky": "shoes-Basic_Boots_sky",
+    "slate": "shoes-Basic_Boots_slate",
+    "tan": "shoes-Basic_Boots_tan",
+    "teal": "shoes-Basic_Boots_teal",
+    "walnut": "shoes-Basic_Boots_walnut",
+    "white": "shoes-Basic_Boots_white",
+    "yellow": "shoes-Basic_Boots_yellow",
+    "steel": "shoes-Basic_Boots_steel",
+    "iron": "shoes-Basic_Boots_iron",
+    "ceramic": "shoes-Basic_Boots_ceramic",
+    "brass": "shoes-Basic_Boots_brass",
+    "copper": "shoes-Basic_Boots_copper",
+    "bronze": "shoes-Basic_Boots_bronze",
+    "silver": "shoes-Basic_Boots_silver",
+    "gold": "shoes-Basic_Boots_gold"
+  }
 }

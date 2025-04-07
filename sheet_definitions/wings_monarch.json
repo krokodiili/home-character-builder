@@ -1,7 +1,10 @@
 {
   "name": "Monarch Wings",
   "type_name": "wings",
-  "tags": ["wings", "monarch"],
+  "tags": [
+    "wings",
+    "monarch"
+  ],
   "layer_1": {
     "zPos": 105,
     "male": "body/wings/monarch/base/fg/",
@@ -66,5 +69,33 @@
         "https://opengameart.org/content/lpc-fairy-wings"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "monarch": "wings-Monarch_Wings_monarch",
+    "amber": "wings-Monarch_Wings_amber",
+    "black": "wings-Monarch_Wings_black",
+    "blue": "wings-Monarch_Wings_bluegray",
+    "bright_green": "wings-Monarch_Wings_bright_green",
+    "bronze": "wings-Monarch_Wings_bronze",
+    "brown": "wings-Monarch_Wings_brown",
+    "ceramic": "wings-Monarch_Wings_ceramic",
+    "forest": "wings-Monarch_Wings_forest",
+    "gold": "wings-Monarch_Wings_gold",
+    "green": "wings-Monarch_Wings_zombie_green",
+    "iron": "wings-Monarch_Wings_iron",
+    "lavender": "wings-Monarch_Wings_lavender",
+    "light": "wings-Monarch_Wings_light",
+    "maroon": "wings-Monarch_Wings_maroon",
+    "navy": "wings-Monarch_Wings_navy",
+    "orange": "wings-Monarch_Wings_orange",
+    "pink": "wings-Monarch_Wings_pink",
+    "purple": "wings-Monarch_Wings_purple",
+    "red": "wings-Monarch_Wings_red",
+    "rose": "wings-Monarch_Wings_rose",
+    "silver": "wings-Monarch_Wings_silver",
+    "sky": "wings-Monarch_Wings_sky",
+    "teal": "wings-Monarch_Wings_teal",
+    "white": "wings-Monarch_Wings_white",
+    "yellow": "wings-Monarch_Wings_yellow"
+  }
 }

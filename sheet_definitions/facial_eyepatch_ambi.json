@@ -72,5 +72,31 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "base": "facial_eyes-Eyepatch_Ambidextrous_base",
+    "black": "facial_eyes-Eyepatch_Ambidextrous_black",
+    "blue": "facial_eyes-Eyepatch_Ambidextrous_bluegray",
+    "brown": "facial_eyes-Eyepatch_Ambidextrous_brown",
+    "charcoal": "facial_eyes-Eyepatch_Ambidextrous_charcoal",
+    "forest": "facial_eyes-Eyepatch_Ambidextrous_forest",
+    "gray": "facial_eyes-Eyepatch_Ambidextrous_gray",
+    "green": "facial_eyes-Eyepatch_Ambidextrous_green",
+    "lavender": "facial_eyes-Eyepatch_Ambidextrous_lavender",
+    "leather": "facial_eyes-Eyepatch_Ambidextrous_leather",
+    "maroon": "facial_eyes-Eyepatch_Ambidextrous_maroon",
+    "navy": "facial_eyes-Eyepatch_Ambidextrous_navy",
+    "orange": "facial_eyes-Eyepatch_Ambidextrous_orange",
+    "pink": "facial_eyes-Eyepatch_Ambidextrous_pink",
+    "purple": "facial_eyes-Eyepatch_Ambidextrous_purple",
+    "red": "facial_eyes-Eyepatch_Ambidextrous_red",
+    "rose": "facial_eyes-Eyepatch_Ambidextrous_rose",
+    "sky": "facial_eyes-Eyepatch_Ambidextrous_sky",
+    "slate": "facial_eyes-Eyepatch_Ambidextrous_slate",
+    "tan": "facial_eyes-Eyepatch_Ambidextrous_tan",
+    "teal": "facial_eyes-Eyepatch_Ambidextrous_teal",
+    "walnut": "facial_eyes-Eyepatch_Ambidextrous_walnut",
+    "white": "facial_eyes-Eyepatch_Ambidextrous_white",
+    "yellow": "facial_eyes-Eyepatch_Ambidextrous_yellow"
+  }
 }

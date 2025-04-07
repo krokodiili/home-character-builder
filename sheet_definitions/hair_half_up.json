@@ -51,5 +51,31 @@
         "https://opengameart.org/content/lpc-hair"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-Half_up_blonde",
+    "ash": "hair-Half_up_ash",
+    "sandy": "hair-Half_up_sandy",
+    "platinum": "hair-Half_up_platinum",
+    "strawberry": "hair-Half_up_strawberry",
+    "redhead": "hair-Half_up_redhead",
+    "ginger": "hair-Half_up_ginger",
+    "carrot": "hair-Half_up_carrot",
+    "chestnut": "hair-Half_up_chestnut",
+    "undefined": "hair-Half_up_dark_brown",
+    "black": "hair-Half_up_black",
+    "raven": "hair-Half_up_raven",
+    "gray": "hair-Half_up_gray",
+    "white": "hair-Half_up_white",
+    "red": "hair-Half_up_red",
+    "orange": "hair-Half_up_orange",
+    "gold": "hair-Half_up_gold",
+    "green": "hair-Half_up_green",
+    "blue": "hair-Half_up_blue",
+    "navy": "hair-Half_up_navy",
+    "violet": "hair-Half_up_violet",
+    "purple": "hair-Half_up_purple",
+    "pink": "hair-Half_up_pink",
+    "rose": "hair-Half_up_rose"
+  }
 }

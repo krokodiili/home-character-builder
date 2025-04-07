@@ -51,5 +51,31 @@
         "https://opengameart.org/content/lpc-hair"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-Dreadlocks_long_blonde",
+    "ash": "hair-Dreadlocks_long_ash",
+    "sandy": "hair-Dreadlocks_long_sandy",
+    "platinum": "hair-Dreadlocks_long_platinum",
+    "strawberry": "hair-Dreadlocks_long_strawberry",
+    "redhead": "hair-Dreadlocks_long_redhead",
+    "ginger": "hair-Dreadlocks_long_ginger",
+    "carrot": "hair-Dreadlocks_long_carrot",
+    "chestnut": "hair-Dreadlocks_long_chestnut",
+    "undefined": "hair-Dreadlocks_long_dark_brown",
+    "black": "hair-Dreadlocks_long_black",
+    "raven": "hair-Dreadlocks_long_raven",
+    "gray": "hair-Dreadlocks_long_gray",
+    "white": "hair-Dreadlocks_long_white",
+    "red": "hair-Dreadlocks_long_red",
+    "orange": "hair-Dreadlocks_long_orange",
+    "gold": "hair-Dreadlocks_long_gold",
+    "green": "hair-Dreadlocks_long_green",
+    "blue": "hair-Dreadlocks_long_blue",
+    "navy": "hair-Dreadlocks_long_navy",
+    "violet": "hair-Dreadlocks_long_violet",
+    "purple": "hair-Dreadlocks_long_purple",
+    "pink": "hair-Dreadlocks_long_pink",
+    "rose": "hair-Dreadlocks_long_rose"
+  }
 }

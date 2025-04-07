@@ -80,5 +80,23 @@
         "https://opengameart.org/content/drakes-and-lizardfolk"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "tail-Lizard_tail_light",
+    "amber": "tail-Lizard_tail_amber",
+    "olive": "tail-Lizard_tail_olive",
+    "taupe": "tail-Lizard_tail_taupe",
+    "bronze": "tail-Lizard_tail_bronze",
+    "brown": "tail-Lizard_tail_fur_brown",
+    "black": "tail-Lizard_tail_fur_black",
+    "lavender": "tail-Lizard_tail_lavender",
+    "blue": "tail-Lizard_tail_blue",
+    "zombie_green": "tail-Lizard_tail_zombie_green",
+    "green": "tail-Lizard_tail_dark_green",
+    "fur_tan": "tail-Lizard_tail_fur_tan",
+    "fur_copper": "tail-Lizard_tail_fur_copper",
+    "fur_gold": "tail-Lizard_tail_fur_gold",
+    "fur_grey": "tail-Lizard_tail_fur_grey",
+    "fur_white": "tail-Lizard_tail_fur_white"
+  }
 }

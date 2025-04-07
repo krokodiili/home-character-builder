@@ -36,5 +36,14 @@
         "https://opengameart.org/content/lpc-santa"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "brown": "belt-Belly_belt_brown",
+    "charcoal": "belt-Belly_belt_charcoal",
+    "leather": "belt-Belly_belt_leather",
+    "slate": "belt-Belly_belt_slate",
+    "tan": "belt-Belly_belt_tan",
+    "walnut": "belt-Belly_belt_walnut",
+    "white": "belt-Belly_belt_white"
+  }
 }

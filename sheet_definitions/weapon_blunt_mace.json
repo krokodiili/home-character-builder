@@ -51,5 +51,8 @@
         "https://opengameart.org/content/lpc-extended-weapon-animations"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "mace": "weapon-Mace_mace"
+  }
 }

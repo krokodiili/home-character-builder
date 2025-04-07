@@ -65,5 +65,19 @@
         "https://opengameart.org/content/lpc-more-weapons"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "medium": "weapon-Gnarled_staff_medium",
+    "light": "weapon-Gnarled_staff_light",
+    "red": "weapon-Gnarled_staff_red",
+    "dark": "weapon-Gnarled_staff_dark",
+    "brass": "weapon-Gnarled_staff_brass",
+    "bronze": "weapon-Gnarled_staff_bronze",
+    "ceramic": "weapon-Gnarled_staff_ceramic",
+    "copper": "weapon-Gnarled_staff_copper",
+    "gold": "weapon-Gnarled_staff_gold",
+    "iron": "weapon-Gnarled_staff_iron",
+    "silver": "weapon-Gnarled_staff_silver",
+    "steel": "weapon-Gnarled_staff_steel"
+  }
 }

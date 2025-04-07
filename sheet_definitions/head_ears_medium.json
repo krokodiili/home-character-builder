@@ -70,5 +70,24 @@
         "https://opengameart.org/content/lpc-new-elven-ear-variants"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "ears-Medium_Elven_Ears_light",
+    "amber": "ears-Medium_Elven_Ears_amber",
+    "olive": "ears-Medium_Elven_Ears_olive",
+    "taupe": "ears-Medium_Elven_Ears_taupe",
+    "bronze": "ears-Medium_Elven_Ears_bronze",
+    "brown": "ears-Medium_Elven_Ears_fur_brown",
+    "black": "ears-Medium_Elven_Ears_fur_black",
+    "lavender": "ears-Medium_Elven_Ears_lavender",
+    "blue": "ears-Medium_Elven_Ears_blue",
+    "zombie_green": "ears-Medium_Elven_Ears_zombie_green",
+    "green": "ears-Medium_Elven_Ears_dark_green",
+    "fur_tan": "ears-Medium_Elven_Ears_fur_tan",
+    "fur_copper": "ears-Medium_Elven_Ears_fur_copper",
+    "fur_gold": "ears-Medium_Elven_Ears_fur_gold",
+    "fur_grey": "ears-Medium_Elven_Ears_fur_grey",
+    "fur_white": "ears-Medium_Elven_Ears_fur_white",
+    "zombie": "ears-Medium_Elven_Ears_zombie"
+  }
 }

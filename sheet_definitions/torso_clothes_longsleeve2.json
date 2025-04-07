@@ -70,5 +70,30 @@
         "https://opengameart.org/content/lpc-expanded-sit-run-jump-more"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "clothes-Longsleeve_2_black",
+    "blue": "clothes-Longsleeve_2_bluegray",
+    "brown": "clothes-Longsleeve_2_brown",
+    "charcoal": "clothes-Longsleeve_2_charcoal",
+    "forest": "clothes-Longsleeve_2_forest",
+    "gray": "clothes-Longsleeve_2_gray",
+    "green": "clothes-Longsleeve_2_green",
+    "lavender": "clothes-Longsleeve_2_lavender",
+    "leather": "clothes-Longsleeve_2_leather",
+    "maroon": "clothes-Longsleeve_2_maroon",
+    "navy": "clothes-Longsleeve_2_navy",
+    "orange": "clothes-Longsleeve_2_orange",
+    "pink": "clothes-Longsleeve_2_pink",
+    "purple": "clothes-Longsleeve_2_purple",
+    "red": "clothes-Longsleeve_2_red",
+    "rose": "clothes-Longsleeve_2_rose",
+    "sky": "clothes-Longsleeve_2_sky",
+    "slate": "clothes-Longsleeve_2_slate",
+    "tan": "clothes-Longsleeve_2_tan",
+    "teal": "clothes-Longsleeve_2_teal",
+    "walnut": "clothes-Longsleeve_2_walnut",
+    "white": "clothes-Longsleeve_2_white",
+    "yellow": "clothes-Longsleeve_2_yellow"
+  }
 }

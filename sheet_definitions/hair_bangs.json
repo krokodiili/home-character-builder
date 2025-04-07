@@ -52,5 +52,31 @@
         "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-Bangs_blonde",
+    "ash": "hair-Bangs_ash",
+    "sandy": "hair-Bangs_sandy",
+    "platinum": "hair-Bangs_platinum",
+    "strawberry": "hair-Bangs_strawberry",
+    "redhead": "hair-Bangs_redhead",
+    "ginger": "hair-Bangs_ginger",
+    "carrot": "hair-Bangs_carrot",
+    "chestnut": "hair-Bangs_chestnut",
+    "undefined": "hair-Bangs_dark_brown",
+    "black": "hair-Bangs_black",
+    "raven": "hair-Bangs_raven",
+    "gray": "hair-Bangs_gray",
+    "white": "hair-Bangs_white",
+    "red": "hair-Bangs_red",
+    "orange": "hair-Bangs_orange",
+    "gold": "hair-Bangs_gold",
+    "green": "hair-Bangs_green",
+    "blue": "hair-Bangs_blue",
+    "navy": "hair-Bangs_navy",
+    "violet": "hair-Bangs_violet",
+    "purple": "hair-Bangs_purple",
+    "pink": "hair-Bangs_pink",
+    "rose": "hair-Bangs_rose"
+  }
 }

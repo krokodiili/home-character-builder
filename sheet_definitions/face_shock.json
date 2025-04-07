@@ -1,8 +1,12 @@
 {
   "name": "Shock",
   "type_name": "expression",
-  "tags": ["expression"],
-  "required_tags": ["human"],
+  "tags": [
+    "expression"
+  ],
+  "required_tags": [
+    "human"
+  ],
   "layer_1": {
     "zPos": 101,
     "male": "head/faces/${head}/shock/",
@@ -120,5 +124,24 @@
         "https://opengameart.org/content/ulpc-expanded-expressions"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "expression-Shock_light",
+    "amber": "expression-Shock_amber",
+    "olive": "expression-Shock_olive",
+    "taupe": "expression-Shock_taupe",
+    "bronze": "expression-Shock_bronze",
+    "brown": "expression-Shock_fur_brown",
+    "black": "expression-Shock_fur_black",
+    "lavender": "expression-Shock_lavender",
+    "blue": "expression-Shock_blue",
+    "zombie_green": "expression-Shock_zombie_green",
+    "green": "expression-Shock_dark_green",
+    "fur_tan": "expression-Shock_fur_tan",
+    "fur_copper": "expression-Shock_fur_copper",
+    "fur_gold": "expression-Shock_fur_gold",
+    "fur_grey": "expression-Shock_fur_grey",
+    "fur_white": "expression-Shock_fur_white",
+    "zombie": "expression-Shock_zombie"
+  }
 }

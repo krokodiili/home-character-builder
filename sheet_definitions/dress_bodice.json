@@ -51,5 +51,30 @@
         "http://opengameart.org/content/lpc-clothing-updates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "vest-Bodice_black",
+    "blue": "vest-Bodice_bluegray",
+    "brown": "vest-Bodice_brown",
+    "charcoal": "vest-Bodice_charcoal",
+    "forest": "vest-Bodice_forest",
+    "gray": "vest-Bodice_gray",
+    "green": "vest-Bodice_green",
+    "lavender": "vest-Bodice_lavender",
+    "leather": "vest-Bodice_leather",
+    "maroon": "vest-Bodice_maroon",
+    "navy": "vest-Bodice_navy",
+    "orange": "vest-Bodice_orange",
+    "pink": "vest-Bodice_pink",
+    "purple": "vest-Bodice_purple",
+    "red": "vest-Bodice_red",
+    "rose": "vest-Bodice_rose",
+    "sky": "vest-Bodice_sky",
+    "slate": "vest-Bodice_slate",
+    "tan": "vest-Bodice_tan",
+    "teal": "vest-Bodice_teal",
+    "walnut": "vest-Bodice_walnut",
+    "white": "vest-Bodice_white",
+    "yellow": "vest-Bodice_yellow"
+  }
 }

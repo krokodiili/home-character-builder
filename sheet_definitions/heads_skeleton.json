@@ -1,7 +1,10 @@
 {
   "name": "Skeleton",
   "type_name": "head",
-  "tags": ["monster", "skeleton"],
+  "tags": [
+    "monster",
+    "skeleton"
+  ],
   "layer_1": {
     "zPos": 100,
     "male": "head/heads/skeleton/adult/",
@@ -53,5 +56,8 @@
         "https://opengameart.org/content/lpc-character-bases"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "skeleton": "head-Skeleton_skeleton"
+  }
 }

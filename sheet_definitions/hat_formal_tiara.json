@@ -83,5 +83,43 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "tiara_bronze": "hat-Tiara_tiara_bronze",
+    "tiara_gold": "hat-Tiara_tiara_gold",
+    "tiara_iron": "hat-Tiara_tiara_iron",
+    "tiara_purple": "hat-Tiara_tiara_purple",
+    "tiara_silver": "hat-Tiara_tiara_silver",
+    "black": "hat-Tiara_black",
+    "blue": "hat-Tiara_bluegray",
+    "brown": "hat-Tiara_brown",
+    "charcoal": "hat-Tiara_charcoal",
+    "forest": "hat-Tiara_forest",
+    "gray": "hat-Tiara_gray",
+    "green": "hat-Tiara_green",
+    "lavender": "hat-Tiara_lavender",
+    "leather": "hat-Tiara_leather",
+    "maroon": "hat-Tiara_maroon",
+    "navy": "hat-Tiara_navy",
+    "orange": "hat-Tiara_orange",
+    "pink": "hat-Tiara_pink",
+    "purple": "hat-Tiara_purple",
+    "red": "hat-Tiara_red",
+    "rose": "hat-Tiara_rose",
+    "sky": "hat-Tiara_sky",
+    "slate": "hat-Tiara_slate",
+    "tan": "hat-Tiara_tan",
+    "teal": "hat-Tiara_teal",
+    "walnut": "hat-Tiara_walnut",
+    "white": "hat-Tiara_white",
+    "yellow": "hat-Tiara_yellow",
+    "steel": "hat-Tiara_steel",
+    "iron": "hat-Tiara_iron",
+    "ceramic": "hat-Tiara_ceramic",
+    "brass": "hat-Tiara_brass",
+    "copper": "hat-Tiara_copper",
+    "bronze": "hat-Tiara_bronze",
+    "silver": "hat-Tiara_silver",
+    "gold": "hat-Tiara_gold"
+  }
 }

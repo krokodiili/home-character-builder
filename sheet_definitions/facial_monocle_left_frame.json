@@ -1,8 +1,14 @@
 {
   "name": "Left Monocle Frame Color",
   "type_name": "facial_left_trim",
-  "tags": ["facial", "monocle", "monocle_trim"],
-  "required_tags": ["monocle_left"],
+  "tags": [
+    "facial",
+    "monocle",
+    "monocle_trim"
+  ],
+  "required_tags": [
+    "monocle_left"
+  ],
   "layer_1": {
     "zPos": 115,
     "male": "facial/monocle/left/frame/adult/",
@@ -84,5 +90,38 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "facial_left_trim-Left_Monocle_Frame_Color_black",
+    "blue": "facial_left_trim-Left_Monocle_Frame_Color_bluegray",
+    "brown": "facial_left_trim-Left_Monocle_Frame_Color_brown",
+    "charcoal": "facial_left_trim-Left_Monocle_Frame_Color_charcoal",
+    "forest": "facial_left_trim-Left_Monocle_Frame_Color_forest",
+    "gray": "facial_left_trim-Left_Monocle_Frame_Color_gray",
+    "green": "facial_left_trim-Left_Monocle_Frame_Color_green",
+    "lavender": "facial_left_trim-Left_Monocle_Frame_Color_lavender",
+    "leather": "facial_left_trim-Left_Monocle_Frame_Color_leather",
+    "maroon": "facial_left_trim-Left_Monocle_Frame_Color_maroon",
+    "navy": "facial_left_trim-Left_Monocle_Frame_Color_navy",
+    "orange": "facial_left_trim-Left_Monocle_Frame_Color_orange",
+    "pink": "facial_left_trim-Left_Monocle_Frame_Color_pink",
+    "purple": "facial_left_trim-Left_Monocle_Frame_Color_purple",
+    "red": "facial_left_trim-Left_Monocle_Frame_Color_red",
+    "rose": "facial_left_trim-Left_Monocle_Frame_Color_rose",
+    "sky": "facial_left_trim-Left_Monocle_Frame_Color_sky",
+    "slate": "facial_left_trim-Left_Monocle_Frame_Color_slate",
+    "tan": "facial_left_trim-Left_Monocle_Frame_Color_tan",
+    "teal": "facial_left_trim-Left_Monocle_Frame_Color_teal",
+    "walnut": "facial_left_trim-Left_Monocle_Frame_Color_walnut",
+    "white": "facial_left_trim-Left_Monocle_Frame_Color_white",
+    "yellow": "facial_left_trim-Left_Monocle_Frame_Color_yellow",
+    "steel": "facial_left_trim-Left_Monocle_Frame_Color_steel",
+    "iron": "facial_left_trim-Left_Monocle_Frame_Color_iron",
+    "ceramic": "facial_left_trim-Left_Monocle_Frame_Color_ceramic",
+    "brass": "facial_left_trim-Left_Monocle_Frame_Color_brass",
+    "copper": "facial_left_trim-Left_Monocle_Frame_Color_copper",
+    "bronze": "facial_left_trim-Left_Monocle_Frame_Color_bronze",
+    "silver": "facial_left_trim-Left_Monocle_Frame_Color_silver",
+    "gold": "facial_left_trim-Left_Monocle_Frame_Color_gold"
+  }
 }

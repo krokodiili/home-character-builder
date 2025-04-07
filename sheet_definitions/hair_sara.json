@@ -56,5 +56,31 @@
         "https://opengameart.org/content/lpc-hair"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-Sara_blonde",
+    "ash": "hair-Sara_ash",
+    "sandy": "hair-Sara_sandy",
+    "platinum": "hair-Sara_platinum",
+    "strawberry": "hair-Sara_strawberry",
+    "redhead": "hair-Sara_redhead",
+    "ginger": "hair-Sara_ginger",
+    "carrot": "hair-Sara_carrot",
+    "chestnut": "hair-Sara_chestnut",
+    "undefined": "hair-Sara_dark_brown",
+    "black": "hair-Sara_black",
+    "raven": "hair-Sara_raven",
+    "gray": "hair-Sara_gray",
+    "white": "hair-Sara_white",
+    "red": "hair-Sara_red",
+    "orange": "hair-Sara_orange",
+    "gold": "hair-Sara_gold",
+    "green": "hair-Sara_green",
+    "blue": "hair-Sara_blue",
+    "navy": "hair-Sara_navy",
+    "violet": "hair-Sara_violet",
+    "purple": "hair-Sara_purple",
+    "pink": "hair-Sara_pink",
+    "rose": "hair-Sara_rose"
+  }
 }

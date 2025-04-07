@@ -45,5 +45,30 @@
         "https://opengameart.org/content/lpc-pirates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "wrists-Cuffs_black",
+    "blue": "wrists-Cuffs_bluegray",
+    "brown": "wrists-Cuffs_brown",
+    "charcoal": "wrists-Cuffs_charcoal",
+    "forest": "wrists-Cuffs_forest",
+    "gray": "wrists-Cuffs_gray",
+    "green": "wrists-Cuffs_green",
+    "lavender": "wrists-Cuffs_lavender",
+    "leather": "wrists-Cuffs_leather",
+    "maroon": "wrists-Cuffs_maroon",
+    "navy": "wrists-Cuffs_navy",
+    "orange": "wrists-Cuffs_orange",
+    "pink": "wrists-Cuffs_pink",
+    "purple": "wrists-Cuffs_purple",
+    "red": "wrists-Cuffs_red",
+    "rose": "wrists-Cuffs_rose",
+    "sky": "wrists-Cuffs_sky",
+    "slate": "wrists-Cuffs_slate",
+    "tan": "wrists-Cuffs_tan",
+    "teal": "wrists-Cuffs_teal",
+    "walnut": "wrists-Cuffs_walnut",
+    "white": "wrists-Cuffs_white",
+    "yellow": "wrists-Cuffs_yellow"
+  }
 }

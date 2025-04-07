@@ -50,5 +50,30 @@
         "https://opengameart.org/content/lpc-pirates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "clothes-Longsleeve_laced_black",
+    "blue": "clothes-Longsleeve_laced_bluegray",
+    "brown": "clothes-Longsleeve_laced_brown",
+    "charcoal": "clothes-Longsleeve_laced_charcoal",
+    "forest": "clothes-Longsleeve_laced_forest",
+    "gray": "clothes-Longsleeve_laced_gray",
+    "green": "clothes-Longsleeve_laced_green",
+    "lavender": "clothes-Longsleeve_laced_lavender",
+    "leather": "clothes-Longsleeve_laced_leather",
+    "maroon": "clothes-Longsleeve_laced_maroon",
+    "navy": "clothes-Longsleeve_laced_navy",
+    "orange": "clothes-Longsleeve_laced_orange",
+    "pink": "clothes-Longsleeve_laced_pink",
+    "purple": "clothes-Longsleeve_laced_purple",
+    "red": "clothes-Longsleeve_laced_red",
+    "rose": "clothes-Longsleeve_laced_rose",
+    "sky": "clothes-Longsleeve_laced_sky",
+    "slate": "clothes-Longsleeve_laced_slate",
+    "tan": "clothes-Longsleeve_laced_tan",
+    "teal": "clothes-Longsleeve_laced_teal",
+    "walnut": "clothes-Longsleeve_laced_walnut",
+    "white": "clothes-Longsleeve_laced_white",
+    "yellow": "clothes-Longsleeve_laced_yellow"
+  }
 }

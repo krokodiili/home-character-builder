@@ -57,5 +57,15 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "steel": "hat-Barbarian_nasal_steel",
+    "iron": "hat-Barbarian_nasal_iron",
+    "ceramic": "hat-Barbarian_nasal_ceramic",
+    "brass": "hat-Barbarian_nasal_brass",
+    "copper": "hat-Barbarian_nasal_copper",
+    "bronze": "hat-Barbarian_nasal_bronze",
+    "silver": "hat-Barbarian_nasal_silver",
+    "gold": "hat-Barbarian_nasal_gold"
+  }
 }

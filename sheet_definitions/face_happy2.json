@@ -1,8 +1,12 @@
 {
   "name": "Happy Alt",
   "type_name": "expression",
-  "tags": ["expression"],
-  "required_tags": ["human"],
+  "tags": [
+    "expression"
+  ],
+  "required_tags": [
+    "human"
+  ],
   "layer_1": {
     "zPos": 106,
     "male": "head/faces/global/happy2/",
@@ -74,5 +78,24 @@
         "https://opengameart.org/content/ulpc-expanded-expressions"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "expression-Happy_Alt_light",
+    "amber": "expression-Happy_Alt_amber",
+    "olive": "expression-Happy_Alt_olive",
+    "taupe": "expression-Happy_Alt_taupe",
+    "bronze": "expression-Happy_Alt_bronze",
+    "brown": "expression-Happy_Alt_fur_brown",
+    "black": "expression-Happy_Alt_fur_black",
+    "lavender": "expression-Happy_Alt_lavender",
+    "blue": "expression-Happy_Alt_blue",
+    "zombie_green": "expression-Happy_Alt_zombie_green",
+    "green": "expression-Happy_Alt_dark_green",
+    "fur_tan": "expression-Happy_Alt_fur_tan",
+    "fur_copper": "expression-Happy_Alt_fur_copper",
+    "fur_gold": "expression-Happy_Alt_fur_gold",
+    "fur_grey": "expression-Happy_Alt_fur_grey",
+    "fur_white": "expression-Happy_Alt_fur_white",
+    "zombie": "expression-Happy_Alt_zombie"
+  }
 }

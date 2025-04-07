@@ -30,5 +30,11 @@
         "https://opengameart.org/content/lpc-roman-armor"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "steel": "armour-Legion_steel",
+    "undefined": "armour-Legion_silver",
+    "bronze": "armour-Legion_bronze",
+    "gold": "armour-Legion_gold"
+  }
 }

@@ -54,5 +54,9 @@
         "https://opengameart.org/content/lpc-extended-weapon-animations"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blue": "weapon-Glowsword_blue",
+    "red": "weapon-Glowsword_red"
+  }
 }

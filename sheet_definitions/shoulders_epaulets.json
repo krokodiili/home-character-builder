@@ -28,5 +28,14 @@
         "https://opengameart.org/content/lpc-pirates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "bronze": "shoulders-Epaulets_bronze",
+    "gold": "shoulders-Epaulets_gold",
+    "silver": "shoulders-Epaulets_silver",
+    "red": "shoulders-Epaulets_red",
+    "blue": "shoulders-Epaulets_blue",
+    "teal": "shoulders-Epaulets_teal",
+    "yellow": "shoulders-Epaulets_yellow"
+  }
 }

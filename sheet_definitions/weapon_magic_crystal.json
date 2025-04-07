@@ -59,5 +59,13 @@
         "https://opengameart.org/content/lpc-more-weapons"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blue": "weapon_magic_crystal-Crystal_blue",
+    "orange": "weapon_magic_crystal-Crystal_orange",
+    "green": "weapon_magic_crystal-Crystal_green",
+    "purple": "weapon_magic_crystal-Crystal_purple",
+    "red": "weapon_magic_crystal-Crystal_red",
+    "yellow": "weapon_magic_crystal-Crystal_yellow"
+  }
 }

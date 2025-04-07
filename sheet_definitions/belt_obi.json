@@ -70,5 +70,30 @@
         "https://opengameart.org/content/lpc-kimono-relm"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "sash-Obi_black",
+    "blue": "sash-Obi_bluegray",
+    "brown": "sash-Obi_brown",
+    "charcoal": "sash-Obi_charcoal",
+    "forest": "sash-Obi_forest",
+    "gray": "sash-Obi_gray",
+    "green": "sash-Obi_green",
+    "lavender": "sash-Obi_lavender",
+    "leather": "sash-Obi_leather",
+    "maroon": "sash-Obi_maroon",
+    "navy": "sash-Obi_navy",
+    "orange": "sash-Obi_orange",
+    "pink": "sash-Obi_pink",
+    "purple": "sash-Obi_purple",
+    "red": "sash-Obi_red",
+    "rose": "sash-Obi_rose",
+    "sky": "sash-Obi_sky",
+    "slate": "sash-Obi_slate",
+    "tan": "sash-Obi_tan",
+    "teal": "sash-Obi_teal",
+    "walnut": "sash-Obi_walnut",
+    "white": "sash-Obi_white",
+    "yellow": "sash-Obi_yellow"
+  }
 }

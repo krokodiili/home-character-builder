@@ -79,5 +79,38 @@
         "https://opengameart.org/content/lpc-expanded-socks-shoes"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "shoes-Folded_Rim_Boots_black",
+    "blue": "shoes-Folded_Rim_Boots_bluegray",
+    "brown": "shoes-Folded_Rim_Boots_brown",
+    "charcoal": "shoes-Folded_Rim_Boots_charcoal",
+    "forest": "shoes-Folded_Rim_Boots_forest",
+    "gray": "shoes-Folded_Rim_Boots_gray",
+    "green": "shoes-Folded_Rim_Boots_green",
+    "lavender": "shoes-Folded_Rim_Boots_lavender",
+    "leather": "shoes-Folded_Rim_Boots_leather",
+    "maroon": "shoes-Folded_Rim_Boots_maroon",
+    "navy": "shoes-Folded_Rim_Boots_navy",
+    "orange": "shoes-Folded_Rim_Boots_orange",
+    "pink": "shoes-Folded_Rim_Boots_pink",
+    "purple": "shoes-Folded_Rim_Boots_purple",
+    "red": "shoes-Folded_Rim_Boots_red",
+    "rose": "shoes-Folded_Rim_Boots_rose",
+    "sky": "shoes-Folded_Rim_Boots_sky",
+    "slate": "shoes-Folded_Rim_Boots_slate",
+    "tan": "shoes-Folded_Rim_Boots_tan",
+    "teal": "shoes-Folded_Rim_Boots_teal",
+    "walnut": "shoes-Folded_Rim_Boots_walnut",
+    "white": "shoes-Folded_Rim_Boots_white",
+    "yellow": "shoes-Folded_Rim_Boots_yellow",
+    "steel": "shoes-Folded_Rim_Boots_steel",
+    "iron": "shoes-Folded_Rim_Boots_iron",
+    "ceramic": "shoes-Folded_Rim_Boots_ceramic",
+    "brass": "shoes-Folded_Rim_Boots_brass",
+    "copper": "shoes-Folded_Rim_Boots_copper",
+    "bronze": "shoes-Folded_Rim_Boots_bronze",
+    "silver": "shoes-Folded_Rim_Boots_silver",
+    "gold": "shoes-Folded_Rim_Boots_gold"
+  }
 }

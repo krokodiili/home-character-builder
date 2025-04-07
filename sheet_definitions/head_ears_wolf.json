@@ -89,5 +89,35 @@
         "https://opengameart.org/content/lpc-furry-ears-tails-for-rpg-sprites"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "furry_ears-Wolf_Ears_blonde",
+    "ash": "furry_ears-Wolf_Ears_ash",
+    "sandy": "furry_ears-Wolf_Ears_sandy",
+    "platinum": "furry_ears-Wolf_Ears_platinum",
+    "strawberry": "furry_ears-Wolf_Ears_strawberry",
+    "redhead": "furry_ears-Wolf_Ears_redhead",
+    "ginger": "furry_ears-Wolf_Ears_ginger",
+    "carrot": "furry_ears-Wolf_Ears_carrot",
+    "chestnut": "furry_ears-Wolf_Ears_chestnut",
+    "undefined": "furry_ears-Wolf_Ears_dark_brown",
+    "black": "furry_ears-Wolf_Ears_fur_black",
+    "raven": "furry_ears-Wolf_Ears_raven",
+    "gray": "furry_ears-Wolf_Ears_gray",
+    "white": "furry_ears-Wolf_Ears_fur_white",
+    "red": "furry_ears-Wolf_Ears_red",
+    "orange": "furry_ears-Wolf_Ears_orange",
+    "gold": "furry_ears-Wolf_Ears_fur_gold",
+    "green": "furry_ears-Wolf_Ears_green",
+    "blue": "furry_ears-Wolf_Ears_blue",
+    "navy": "furry_ears-Wolf_Ears_navy",
+    "violet": "furry_ears-Wolf_Ears_violet",
+    "purple": "furry_ears-Wolf_Ears_purple",
+    "pink": "furry_ears-Wolf_Ears_pink",
+    "rose": "furry_ears-Wolf_Ears_rose",
+    "fur_brown": "furry_ears-Wolf_Ears_fur_brown",
+    "fur_tan": "furry_ears-Wolf_Ears_fur_tan",
+    "fur_copper": "furry_ears-Wolf_Ears_fur_copper",
+    "fur_grey": "furry_ears-Wolf_Ears_fur_grey"
+  }
 }

@@ -54,5 +54,31 @@
         "https://opengameart.org/content/concept-art-for-lpc-entry"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-Bunches_blonde",
+    "ash": "hair-Bunches_ash",
+    "sandy": "hair-Bunches_sandy",
+    "platinum": "hair-Bunches_platinum",
+    "strawberry": "hair-Bunches_strawberry",
+    "redhead": "hair-Bunches_redhead",
+    "ginger": "hair-Bunches_ginger",
+    "carrot": "hair-Bunches_carrot",
+    "chestnut": "hair-Bunches_chestnut",
+    "undefined": "hair-Bunches_dark_brown",
+    "black": "hair-Bunches_black",
+    "raven": "hair-Bunches_raven",
+    "gray": "hair-Bunches_gray",
+    "white": "hair-Bunches_white",
+    "red": "hair-Bunches_red",
+    "orange": "hair-Bunches_orange",
+    "gold": "hair-Bunches_gold",
+    "green": "hair-Bunches_green",
+    "blue": "hair-Bunches_blue",
+    "navy": "hair-Bunches_navy",
+    "violet": "hair-Bunches_violet",
+    "purple": "hair-Bunches_purple",
+    "pink": "hair-Bunches_pink",
+    "rose": "hair-Bunches_rose"
+  }
 }

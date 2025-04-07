@@ -79,5 +79,30 @@
         "https://opengameart.org/content/lpc-shields"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "shield_pattern-revised_lozengy_black",
+    "blue": "shield_pattern-revised_lozengy_bluegray",
+    "brown": "shield_pattern-revised_lozengy_brown",
+    "charcoal": "shield_pattern-revised_lozengy_charcoal",
+    "forest": "shield_pattern-revised_lozengy_forest",
+    "gray": "shield_pattern-revised_lozengy_gray",
+    "green": "shield_pattern-revised_lozengy_green",
+    "lavender": "shield_pattern-revised_lozengy_lavender",
+    "leather": "shield_pattern-revised_lozengy_leather",
+    "maroon": "shield_pattern-revised_lozengy_maroon",
+    "navy": "shield_pattern-revised_lozengy_navy",
+    "orange": "shield_pattern-revised_lozengy_orange",
+    "pink": "shield_pattern-revised_lozengy_pink",
+    "purple": "shield_pattern-revised_lozengy_purple",
+    "red": "shield_pattern-revised_lozengy_red",
+    "rose": "shield_pattern-revised_lozengy_rose",
+    "sky": "shield_pattern-revised_lozengy_sky",
+    "slate": "shield_pattern-revised_lozengy_slate",
+    "tan": "shield_pattern-revised_lozengy_tan",
+    "teal": "shield_pattern-revised_lozengy_teal",
+    "walnut": "shield_pattern-revised_lozengy_walnut",
+    "white": "shield_pattern-revised_lozengy_white",
+    "yellow": "shield_pattern-revised_lozengy_yellow"
+  }
 }

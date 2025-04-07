@@ -73,5 +73,31 @@
         "https://opengameart.org/content/lpc-base-character-expressions"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "mustache-French_Mustache_blonde",
+    "ash": "mustache-French_Mustache_ash",
+    "sandy": "mustache-French_Mustache_sandy",
+    "platinum": "mustache-French_Mustache_platinum",
+    "strawberry": "mustache-French_Mustache_strawberry",
+    "redhead": "mustache-French_Mustache_redhead",
+    "ginger": "mustache-French_Mustache_ginger",
+    "carrot": "mustache-French_Mustache_carrot",
+    "chestnut": "mustache-French_Mustache_chestnut",
+    "undefined": "mustache-French_Mustache_dark_brown",
+    "black": "mustache-French_Mustache_black",
+    "raven": "mustache-French_Mustache_raven",
+    "gray": "mustache-French_Mustache_gray",
+    "white": "mustache-French_Mustache_white",
+    "red": "mustache-French_Mustache_red",
+    "orange": "mustache-French_Mustache_orange",
+    "gold": "mustache-French_Mustache_gold",
+    "green": "mustache-French_Mustache_green",
+    "blue": "mustache-French_Mustache_blue",
+    "navy": "mustache-French_Mustache_navy",
+    "violet": "mustache-French_Mustache_violet",
+    "purple": "mustache-French_Mustache_purple",
+    "pink": "mustache-French_Mustache_pink",
+    "rose": "mustache-French_Mustache_rose"
+  }
 }

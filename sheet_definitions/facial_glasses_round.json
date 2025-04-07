@@ -83,5 +83,40 @@
         "https://opengameart.org/content/lpc-gentleman"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "base": "facial_eyes-Round_Glasses_base",
+    "sunglasses": "facial_eyes-Round_Glasses_sunglasses",
+    "black": "facial_eyes-Round_Glasses_black",
+    "blue": "facial_eyes-Round_Glasses_bluegray",
+    "brown": "facial_eyes-Round_Glasses_brown",
+    "charcoal": "facial_eyes-Round_Glasses_charcoal",
+    "forest": "facial_eyes-Round_Glasses_forest",
+    "gray": "facial_eyes-Round_Glasses_gray",
+    "green": "facial_eyes-Round_Glasses_green",
+    "lavender": "facial_eyes-Round_Glasses_lavender",
+    "leather": "facial_eyes-Round_Glasses_leather",
+    "maroon": "facial_eyes-Round_Glasses_maroon",
+    "navy": "facial_eyes-Round_Glasses_navy",
+    "orange": "facial_eyes-Round_Glasses_orange",
+    "pink": "facial_eyes-Round_Glasses_pink",
+    "purple": "facial_eyes-Round_Glasses_purple",
+    "red": "facial_eyes-Round_Glasses_red",
+    "rose": "facial_eyes-Round_Glasses_rose",
+    "sky": "facial_eyes-Round_Glasses_sky",
+    "slate": "facial_eyes-Round_Glasses_slate",
+    "tan": "facial_eyes-Round_Glasses_tan",
+    "teal": "facial_eyes-Round_Glasses_teal",
+    "walnut": "facial_eyes-Round_Glasses_walnut",
+    "white": "facial_eyes-Round_Glasses_white",
+    "yellow": "facial_eyes-Round_Glasses_yellow",
+    "steel": "facial_eyes-Round_Glasses_steel",
+    "iron": "facial_eyes-Round_Glasses_iron",
+    "ceramic": "facial_eyes-Round_Glasses_ceramic",
+    "brass": "facial_eyes-Round_Glasses_brass",
+    "copper": "facial_eyes-Round_Glasses_copper",
+    "bronze": "facial_eyes-Round_Glasses_bronze",
+    "silver": "facial_eyes-Round_Glasses_silver",
+    "gold": "facial_eyes-Round_Glasses_gold"
+  }
 }

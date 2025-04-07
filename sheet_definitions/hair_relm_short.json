@@ -73,5 +73,31 @@
         "https://opengameart.org/content/lpc-relm-hair-xlong-ponytail"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-Relm_Short_blonde",
+    "ash": "hair-Relm_Short_ash",
+    "sandy": "hair-Relm_Short_sandy",
+    "platinum": "hair-Relm_Short_platinum",
+    "strawberry": "hair-Relm_Short_strawberry",
+    "redhead": "hair-Relm_Short_redhead",
+    "ginger": "hair-Relm_Short_ginger",
+    "carrot": "hair-Relm_Short_carrot",
+    "chestnut": "hair-Relm_Short_chestnut",
+    "undefined": "hair-Relm_Short_dark_brown",
+    "black": "hair-Relm_Short_black",
+    "raven": "hair-Relm_Short_raven",
+    "gray": "hair-Relm_Short_gray",
+    "white": "hair-Relm_Short_white",
+    "red": "hair-Relm_Short_red",
+    "orange": "hair-Relm_Short_orange",
+    "gold": "hair-Relm_Short_gold",
+    "green": "hair-Relm_Short_green",
+    "blue": "hair-Relm_Short_blue",
+    "navy": "hair-Relm_Short_navy",
+    "violet": "hair-Relm_Short_violet",
+    "purple": "hair-Relm_Short_purple",
+    "pink": "hair-Relm_Short_pink",
+    "rose": "hair-Relm_Short_rose"
+  }
 }

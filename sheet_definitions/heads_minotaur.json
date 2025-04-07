@@ -1,7 +1,10 @@
 {
   "name": "Minotaur",
   "type_name": "head",
-  "tags": ["minotaur", "adult"],
+  "tags": [
+    "minotaur",
+    "adult"
+  ],
   "layer_1": {
     "zPos": 100,
     "male": "head/heads/minotaur/male/",
@@ -73,5 +76,26 @@
         "https://opengameart.org/content/lpc-faun-and-minotaur"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "fur_black": "head-Minotaur_fur_black",
+    "fur_brown": "head-Minotaur_fur_brown",
+    "fur_tan": "head-Minotaur_fur_tan",
+    "fur_copper": "head-Minotaur_fur_copper",
+    "fur_gold": "head-Minotaur_fur_gold",
+    "fur_grey": "head-Minotaur_fur_grey",
+    "fur_white": "head-Minotaur_fur_white",
+    "light": "head-Minotaur_light",
+    "amber": "head-Minotaur_amber",
+    "olive": "head-Minotaur_olive",
+    "taupe": "head-Minotaur_taupe",
+    "bronze": "head-Minotaur_bronze",
+    "brown": "head-Minotaur_brown",
+    "black": "head-Minotaur_black",
+    "lavender": "head-Minotaur_lavender",
+    "blue": "head-Minotaur_blue",
+    "zombie_green": "head-Minotaur_zombie_green",
+    "green": "head-Minotaur_dark_green",
+    "zombie": "head-Minotaur_zombie"
+  }
 }

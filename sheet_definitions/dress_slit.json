@@ -51,5 +51,30 @@
         "http://opengameart.org/content/lpc-clothing-updates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "dress-Slit_dress_black",
+    "blue": "dress-Slit_dress_bluegray",
+    "brown": "dress-Slit_dress_brown",
+    "charcoal": "dress-Slit_dress_charcoal",
+    "forest": "dress-Slit_dress_forest",
+    "gray": "dress-Slit_dress_gray",
+    "green": "dress-Slit_dress_green",
+    "lavender": "dress-Slit_dress_lavender",
+    "leather": "dress-Slit_dress_leather",
+    "maroon": "dress-Slit_dress_maroon",
+    "navy": "dress-Slit_dress_navy",
+    "orange": "dress-Slit_dress_orange",
+    "pink": "dress-Slit_dress_pink",
+    "purple": "dress-Slit_dress_purple",
+    "red": "dress-Slit_dress_red",
+    "rose": "dress-Slit_dress_rose",
+    "sky": "dress-Slit_dress_sky",
+    "slate": "dress-Slit_dress_slate",
+    "tan": "dress-Slit_dress_tan",
+    "teal": "dress-Slit_dress_teal",
+    "walnut": "dress-Slit_dress_walnut",
+    "white": "dress-Slit_dress_white",
+    "yellow": "dress-Slit_dress_yellow"
+  }
 }

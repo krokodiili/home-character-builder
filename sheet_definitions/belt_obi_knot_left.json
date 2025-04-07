@@ -70,5 +70,30 @@
         "https://opengameart.org/content/lpc-kimono-relm"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "sash_tie-Obi_Knot_Left_black",
+    "blue": "sash_tie-Obi_Knot_Left_bluegray",
+    "brown": "sash_tie-Obi_Knot_Left_brown",
+    "charcoal": "sash_tie-Obi_Knot_Left_charcoal",
+    "forest": "sash_tie-Obi_Knot_Left_forest",
+    "gray": "sash_tie-Obi_Knot_Left_gray",
+    "green": "sash_tie-Obi_Knot_Left_green",
+    "lavender": "sash_tie-Obi_Knot_Left_lavender",
+    "leather": "sash_tie-Obi_Knot_Left_leather",
+    "maroon": "sash_tie-Obi_Knot_Left_maroon",
+    "navy": "sash_tie-Obi_Knot_Left_navy",
+    "orange": "sash_tie-Obi_Knot_Left_orange",
+    "pink": "sash_tie-Obi_Knot_Left_pink",
+    "purple": "sash_tie-Obi_Knot_Left_purple",
+    "red": "sash_tie-Obi_Knot_Left_red",
+    "rose": "sash_tie-Obi_Knot_Left_rose",
+    "sky": "sash_tie-Obi_Knot_Left_sky",
+    "slate": "sash_tie-Obi_Knot_Left_slate",
+    "tan": "sash_tie-Obi_Knot_Left_tan",
+    "teal": "sash_tie-Obi_Knot_Left_teal",
+    "walnut": "sash_tie-Obi_Knot_Left_walnut",
+    "white": "sash_tie-Obi_Knot_Left_white",
+    "yellow": "sash_tie-Obi_Knot_Left_yellow"
+  }
 }

@@ -31,5 +31,13 @@
         "https://opengameart.org/content/lpc-jewelry"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blue": "ring-Stud_Ring_blue",
+    "green": "ring-Stud_Ring_green",
+    "orange": "ring-Stud_Ring_orange",
+    "purple": "ring-Stud_Ring_purple",
+    "red": "ring-Stud_Ring_red",
+    "yellow": "ring-Stud_Ring_yellow"
+  }
 }

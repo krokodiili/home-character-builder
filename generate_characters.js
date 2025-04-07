@@ -16,15 +16,8 @@ async function batchGenerateCharacters(inputDir, outputDir, count) {
   ensureDirectory(outputDir);
 
   for (let i = 0; i < count; i++) {
-    const jsonFile = path.join(
-      __dirname + `/${outputDir}`,
-      `character_${i + 1}.json`,
-    );
-    console.log(jsonFile);
-    const pngFile = path.join(
-      __dirname + `/${outputDir}`,
-      `character_${i + 1}.png`,
-    );
+    const jsonFile = path.join(__dirname, outputDir, `character_${i + 1}.json`);
+    const pngFile = path.join(__dirname, outputDir, `character_${i + 1}.png`);
 
     console.log(`Generating character ${i + 1}...`);
 

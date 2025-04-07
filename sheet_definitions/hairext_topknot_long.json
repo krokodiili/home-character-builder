@@ -83,5 +83,31 @@
         "https://opengameart.org/content/lpc-1-hairstyle-2-hair-extensions-3-previously-unofficially-released-hairstyles"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-Long_Topknot_blonde",
+    "ash": "hair-Long_Topknot_ash",
+    "sandy": "hair-Long_Topknot_sandy",
+    "platinum": "hair-Long_Topknot_platinum",
+    "strawberry": "hair-Long_Topknot_strawberry",
+    "redhead": "hair-Long_Topknot_redhead",
+    "ginger": "hair-Long_Topknot_ginger",
+    "carrot": "hair-Long_Topknot_carrot",
+    "chestnut": "hair-Long_Topknot_chestnut",
+    "undefined": "hair-Long_Topknot_dark_brown",
+    "black": "hair-Long_Topknot_black",
+    "raven": "hair-Long_Topknot_raven",
+    "gray": "hair-Long_Topknot_gray",
+    "white": "hair-Long_Topknot_white",
+    "red": "hair-Long_Topknot_red",
+    "orange": "hair-Long_Topknot_orange",
+    "gold": "hair-Long_Topknot_gold",
+    "green": "hair-Long_Topknot_green",
+    "blue": "hair-Long_Topknot_blue",
+    "navy": "hair-Long_Topknot_navy",
+    "violet": "hair-Long_Topknot_violet",
+    "purple": "hair-Long_Topknot_purple",
+    "pink": "hair-Long_Topknot_pink",
+    "rose": "hair-Long_Topknot_rose"
+  }
 }

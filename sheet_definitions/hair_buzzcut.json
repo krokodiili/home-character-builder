@@ -70,5 +70,31 @@
         "https://opengameart.org/content/lpc-hair"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-Buzzcut_blonde",
+    "ash": "hair-Buzzcut_ash",
+    "sandy": "hair-Buzzcut_sandy",
+    "platinum": "hair-Buzzcut_platinum",
+    "strawberry": "hair-Buzzcut_strawberry",
+    "redhead": "hair-Buzzcut_redhead",
+    "ginger": "hair-Buzzcut_ginger",
+    "carrot": "hair-Buzzcut_carrot",
+    "chestnut": "hair-Buzzcut_chestnut",
+    "undefined": "hair-Buzzcut_dark_brown",
+    "black": "hair-Buzzcut_black",
+    "raven": "hair-Buzzcut_raven",
+    "gray": "hair-Buzzcut_gray",
+    "white": "hair-Buzzcut_white",
+    "red": "hair-Buzzcut_red",
+    "orange": "hair-Buzzcut_orange",
+    "gold": "hair-Buzzcut_gold",
+    "green": "hair-Buzzcut_green",
+    "blue": "hair-Buzzcut_blue",
+    "navy": "hair-Buzzcut_navy",
+    "violet": "hair-Buzzcut_violet",
+    "purple": "hair-Buzzcut_purple",
+    "pink": "hair-Buzzcut_pink",
+    "rose": "hair-Buzzcut_rose"
+  }
 }

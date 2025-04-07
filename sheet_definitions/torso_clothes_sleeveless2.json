@@ -70,5 +70,30 @@
         "https://opengameart.org/content/lpc-expanded-sit-run-jump-more"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "clothes-Sleeveless_2_black",
+    "blue": "clothes-Sleeveless_2_bluegray",
+    "brown": "clothes-Sleeveless_2_brown",
+    "charcoal": "clothes-Sleeveless_2_charcoal",
+    "forest": "clothes-Sleeveless_2_forest",
+    "gray": "clothes-Sleeveless_2_gray",
+    "green": "clothes-Sleeveless_2_green",
+    "lavender": "clothes-Sleeveless_2_lavender",
+    "leather": "clothes-Sleeveless_2_leather",
+    "maroon": "clothes-Sleeveless_2_maroon",
+    "navy": "clothes-Sleeveless_2_navy",
+    "orange": "clothes-Sleeveless_2_orange",
+    "pink": "clothes-Sleeveless_2_pink",
+    "purple": "clothes-Sleeveless_2_purple",
+    "red": "clothes-Sleeveless_2_red",
+    "rose": "clothes-Sleeveless_2_rose",
+    "sky": "clothes-Sleeveless_2_sky",
+    "slate": "clothes-Sleeveless_2_slate",
+    "tan": "clothes-Sleeveless_2_tan",
+    "teal": "clothes-Sleeveless_2_teal",
+    "walnut": "clothes-Sleeveless_2_walnut",
+    "white": "clothes-Sleeveless_2_white",
+    "yellow": "clothes-Sleeveless_2_yellow"
+  }
 }

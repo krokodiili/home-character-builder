@@ -73,5 +73,31 @@
         "https://opengameart.org/content/lpc-expanded-sit-run-jump-more"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-Dreadlocks_short_blonde",
+    "ash": "hair-Dreadlocks_short_ash",
+    "sandy": "hair-Dreadlocks_short_sandy",
+    "platinum": "hair-Dreadlocks_short_platinum",
+    "strawberry": "hair-Dreadlocks_short_strawberry",
+    "redhead": "hair-Dreadlocks_short_redhead",
+    "ginger": "hair-Dreadlocks_short_ginger",
+    "carrot": "hair-Dreadlocks_short_carrot",
+    "chestnut": "hair-Dreadlocks_short_chestnut",
+    "undefined": "hair-Dreadlocks_short_dark_brown",
+    "black": "hair-Dreadlocks_short_black",
+    "raven": "hair-Dreadlocks_short_raven",
+    "gray": "hair-Dreadlocks_short_gray",
+    "white": "hair-Dreadlocks_short_white",
+    "red": "hair-Dreadlocks_short_red",
+    "orange": "hair-Dreadlocks_short_orange",
+    "gold": "hair-Dreadlocks_short_gold",
+    "green": "hair-Dreadlocks_short_green",
+    "blue": "hair-Dreadlocks_short_blue",
+    "navy": "hair-Dreadlocks_short_navy",
+    "violet": "hair-Dreadlocks_short_violet",
+    "purple": "hair-Dreadlocks_short_purple",
+    "pink": "hair-Dreadlocks_short_pink",
+    "rose": "hair-Dreadlocks_short_rose"
+  }
 }

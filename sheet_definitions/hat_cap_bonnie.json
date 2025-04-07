@@ -70,5 +70,30 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "hat-Bonnie_black",
+    "blue": "hat-Bonnie_bluegray",
+    "brown": "hat-Bonnie_brown",
+    "charcoal": "hat-Bonnie_charcoal",
+    "forest": "hat-Bonnie_forest",
+    "gray": "hat-Bonnie_gray",
+    "green": "hat-Bonnie_green",
+    "lavender": "hat-Bonnie_lavender",
+    "leather": "hat-Bonnie_leather",
+    "maroon": "hat-Bonnie_maroon",
+    "navy": "hat-Bonnie_navy",
+    "orange": "hat-Bonnie_orange",
+    "pink": "hat-Bonnie_pink",
+    "purple": "hat-Bonnie_purple",
+    "red": "hat-Bonnie_red",
+    "rose": "hat-Bonnie_rose",
+    "sky": "hat-Bonnie_sky",
+    "slate": "hat-Bonnie_slate",
+    "tan": "hat-Bonnie_tan",
+    "teal": "hat-Bonnie_teal",
+    "walnut": "hat-Bonnie_walnut",
+    "white": "hat-Bonnie_white",
+    "yellow": "hat-Bonnie_yellow"
+  }
 }

@@ -65,5 +65,26 @@
         "http://opengameart.org/content/lpc-clothing-updates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "jacket-Tabard_black",
+    "blue": "jacket-Tabard_blue",
+    "forest": "jacket-Tabard_forest",
+    "gray": "jacket-Tabard_gray",
+    "green": "jacket-Tabard_green",
+    "lavender": "jacket-Tabard_lavender",
+    "leather": "jacket-Tabard_leather",
+    "maroon": "jacket-Tabard_maroon",
+    "navy": "jacket-Tabard_navy",
+    "orange": "jacket-Tabard_orange",
+    "pink": "jacket-Tabard_pink",
+    "purple": "jacket-Tabard_purple",
+    "red": "jacket-Tabard_red",
+    "sky": "jacket-Tabard_sky",
+    "tan": "jacket-Tabard_tan",
+    "teal": "jacket-Tabard_teal",
+    "walnut": "jacket-Tabard_walnut",
+    "white": "jacket-Tabard_white",
+    "yellow": "jacket-Tabard_yellow"
+  }
 }

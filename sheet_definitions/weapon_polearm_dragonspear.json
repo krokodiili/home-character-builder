@@ -72,5 +72,19 @@
         "https://opengameart.org/content/lpc-extended-weapon-animations"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "medium": "weapon-Dragon_spear_medium",
+    "light": "weapon-Dragon_spear_light",
+    "red": "weapon-Dragon_spear_red",
+    "dark": "weapon-Dragon_spear_dark",
+    "brass": "weapon-Dragon_spear_brass",
+    "bronze": "weapon-Dragon_spear_bronze",
+    "ceramic": "weapon-Dragon_spear_ceramic",
+    "copper": "weapon-Dragon_spear_copper",
+    "gold": "weapon-Dragon_spear_gold",
+    "iron": "weapon-Dragon_spear_iron",
+    "silver": "weapon-Dragon_spear_silver",
+    "steel": "weapon-Dragon_spear_steel"
+  }
 }

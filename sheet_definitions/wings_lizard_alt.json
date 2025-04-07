@@ -1,7 +1,9 @@
 {
   "name": "Lizard Wings (Alt Colors)",
   "type_name": "wings",
-  "tags": ["wings"],
+  "tags": [
+    "wings"
+  ],
   "layer_1": {
     "zPos": 105,
     "male": "body/wings/lizard/alt/adult/fg/",
@@ -91,5 +93,35 @@
         "https://opengameart.org/content/lpc-wings-new-animations"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "wings-Lizard_Wings_(Alt_Colors)_blonde",
+    "ash": "wings-Lizard_Wings_(Alt_Colors)_ash",
+    "sandy": "wings-Lizard_Wings_(Alt_Colors)_sandy",
+    "platinum": "wings-Lizard_Wings_(Alt_Colors)_platinum",
+    "strawberry": "wings-Lizard_Wings_(Alt_Colors)_strawberry",
+    "redhead": "wings-Lizard_Wings_(Alt_Colors)_redhead",
+    "ginger": "wings-Lizard_Wings_(Alt_Colors)_ginger",
+    "carrot": "wings-Lizard_Wings_(Alt_Colors)_carrot",
+    "chestnut": "wings-Lizard_Wings_(Alt_Colors)_chestnut",
+    "undefined": "wings-Lizard_Wings_(Alt_Colors)_dark_brown",
+    "black": "wings-Lizard_Wings_(Alt_Colors)_fur_black",
+    "raven": "wings-Lizard_Wings_(Alt_Colors)_raven",
+    "gray": "wings-Lizard_Wings_(Alt_Colors)_gray",
+    "white": "wings-Lizard_Wings_(Alt_Colors)_fur_white",
+    "red": "wings-Lizard_Wings_(Alt_Colors)_red",
+    "orange": "wings-Lizard_Wings_(Alt_Colors)_orange",
+    "gold": "wings-Lizard_Wings_(Alt_Colors)_fur_gold",
+    "green": "wings-Lizard_Wings_(Alt_Colors)_green",
+    "blue": "wings-Lizard_Wings_(Alt_Colors)_blue",
+    "navy": "wings-Lizard_Wings_(Alt_Colors)_navy",
+    "violet": "wings-Lizard_Wings_(Alt_Colors)_violet",
+    "purple": "wings-Lizard_Wings_(Alt_Colors)_purple",
+    "pink": "wings-Lizard_Wings_(Alt_Colors)_pink",
+    "rose": "wings-Lizard_Wings_(Alt_Colors)_rose",
+    "fur_brown": "wings-Lizard_Wings_(Alt_Colors)_fur_brown",
+    "fur_tan": "wings-Lizard_Wings_(Alt_Colors)_fur_tan",
+    "fur_copper": "wings-Lizard_Wings_(Alt_Colors)_fur_copper",
+    "fur_grey": "wings-Lizard_Wings_(Alt_Colors)_fur_grey"
+  }
 }

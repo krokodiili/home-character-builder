@@ -52,5 +52,30 @@
         "https://opengameart.org/content/lpc-pirates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "sash-Sash_black",
+    "blue": "sash-Sash_bluegray",
+    "brown": "sash-Sash_brown",
+    "charcoal": "sash-Sash_charcoal",
+    "forest": "sash-Sash_forest",
+    "gray": "sash-Sash_gray",
+    "green": "sash-Sash_green",
+    "lavender": "sash-Sash_lavender",
+    "leather": "sash-Sash_leather",
+    "maroon": "sash-Sash_maroon",
+    "navy": "sash-Sash_navy",
+    "orange": "sash-Sash_orange",
+    "pink": "sash-Sash_pink",
+    "purple": "sash-Sash_purple",
+    "red": "sash-Sash_red",
+    "rose": "sash-Sash_rose",
+    "sky": "sash-Sash_sky",
+    "slate": "sash-Sash_slate",
+    "tan": "sash-Sash_tan",
+    "teal": "sash-Sash_teal",
+    "walnut": "sash-Sash_walnut",
+    "white": "sash-Sash_white",
+    "yellow": "sash-Sash_yellow"
+  }
 }

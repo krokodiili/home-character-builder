@@ -52,5 +52,30 @@
         "https://opengameart.org/content/lpc-muscular-hurt-animation"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "legs-Wide_pants_black",
+    "blue": "legs-Wide_pants_bluegray",
+    "brown": "legs-Wide_pants_brown",
+    "charcoal": "legs-Wide_pants_charcoal",
+    "forest": "legs-Wide_pants_forest",
+    "gray": "legs-Wide_pants_gray",
+    "green": "legs-Wide_pants_green",
+    "lavender": "legs-Wide_pants_lavender",
+    "leather": "legs-Wide_pants_leather",
+    "maroon": "legs-Wide_pants_maroon",
+    "navy": "legs-Wide_pants_navy",
+    "orange": "legs-Wide_pants_orange",
+    "pink": "legs-Wide_pants_pink",
+    "purple": "legs-Wide_pants_purple",
+    "red": "legs-Wide_pants_red",
+    "rose": "legs-Wide_pants_rose",
+    "sky": "legs-Wide_pants_sky",
+    "slate": "legs-Wide_pants_slate",
+    "tan": "legs-Wide_pants_tan",
+    "teal": "legs-Wide_pants_teal",
+    "walnut": "legs-Wide_pants_walnut",
+    "white": "legs-Wide_pants_white",
+    "yellow": "legs-Wide_pants_yellow"
+  }
 }

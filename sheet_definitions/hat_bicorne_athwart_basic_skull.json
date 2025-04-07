@@ -70,5 +70,30 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "hat_overlay-Bicorne_Athwart_Skull_black",
+    "blue": "hat_overlay-Bicorne_Athwart_Skull_bluegray",
+    "brown": "hat_overlay-Bicorne_Athwart_Skull_brown",
+    "charcoal": "hat_overlay-Bicorne_Athwart_Skull_charcoal",
+    "forest": "hat_overlay-Bicorne_Athwart_Skull_forest",
+    "gray": "hat_overlay-Bicorne_Athwart_Skull_gray",
+    "green": "hat_overlay-Bicorne_Athwart_Skull_green",
+    "lavender": "hat_overlay-Bicorne_Athwart_Skull_lavender",
+    "leather": "hat_overlay-Bicorne_Athwart_Skull_leather",
+    "maroon": "hat_overlay-Bicorne_Athwart_Skull_maroon",
+    "navy": "hat_overlay-Bicorne_Athwart_Skull_navy",
+    "orange": "hat_overlay-Bicorne_Athwart_Skull_orange",
+    "pink": "hat_overlay-Bicorne_Athwart_Skull_pink",
+    "purple": "hat_overlay-Bicorne_Athwart_Skull_purple",
+    "red": "hat_overlay-Bicorne_Athwart_Skull_red",
+    "rose": "hat_overlay-Bicorne_Athwart_Skull_rose",
+    "sky": "hat_overlay-Bicorne_Athwart_Skull_sky",
+    "slate": "hat_overlay-Bicorne_Athwart_Skull_slate",
+    "tan": "hat_overlay-Bicorne_Athwart_Skull_tan",
+    "teal": "hat_overlay-Bicorne_Athwart_Skull_teal",
+    "walnut": "hat_overlay-Bicorne_Athwart_Skull_walnut",
+    "white": "hat_overlay-Bicorne_Athwart_Skull_white",
+    "yellow": "hat_overlay-Bicorne_Athwart_Skull_yellow"
+  }
 }

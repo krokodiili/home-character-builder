@@ -37,5 +37,8 @@
         "https://opengameart.org/content/lpc-extended-weapon-animations"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "dagger": "weapon-Dagger_dagger"
+  }
 }

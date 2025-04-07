@@ -89,5 +89,35 @@
         "https://opengameart.org/content/lpc-furry-ears-tails-for-rpg-sprites"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "tail-Cat_Tail_blonde",
+    "ash": "tail-Cat_Tail_ash",
+    "sandy": "tail-Cat_Tail_sandy",
+    "platinum": "tail-Cat_Tail_platinum",
+    "strawberry": "tail-Cat_Tail_strawberry",
+    "redhead": "tail-Cat_Tail_redhead",
+    "ginger": "tail-Cat_Tail_ginger",
+    "carrot": "tail-Cat_Tail_carrot",
+    "chestnut": "tail-Cat_Tail_chestnut",
+    "undefined": "tail-Cat_Tail_dark_brown",
+    "black": "tail-Cat_Tail_fur_black",
+    "raven": "tail-Cat_Tail_raven",
+    "gray": "tail-Cat_Tail_gray",
+    "white": "tail-Cat_Tail_fur_white",
+    "red": "tail-Cat_Tail_red",
+    "orange": "tail-Cat_Tail_orange",
+    "gold": "tail-Cat_Tail_fur_gold",
+    "green": "tail-Cat_Tail_green",
+    "blue": "tail-Cat_Tail_blue",
+    "navy": "tail-Cat_Tail_navy",
+    "violet": "tail-Cat_Tail_violet",
+    "purple": "tail-Cat_Tail_purple",
+    "pink": "tail-Cat_Tail_pink",
+    "rose": "tail-Cat_Tail_rose",
+    "fur_brown": "tail-Cat_Tail_fur_brown",
+    "fur_tan": "tail-Cat_Tail_fur_tan",
+    "fur_copper": "tail-Cat_Tail_fur_copper",
+    "fur_grey": "tail-Cat_Tail_fur_grey"
+  }
 }

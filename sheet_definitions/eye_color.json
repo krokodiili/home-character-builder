@@ -141,5 +141,15 @@
         "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blue": "eye_color-Eye_Color_blue",
+    "brown": "eye_color-Eye_Color_brown",
+    "gray": "eye_color-Eye_Color_gray",
+    "green": "eye_color-Eye_Color_green",
+    "orange": "eye_color-Eye_Color_orange",
+    "purple": "eye_color-Eye_Color_purple",
+    "red": "eye_color-Eye_Color_red",
+    "yellow": "eye_color-Eye_Color_yellow"
+  }
 }

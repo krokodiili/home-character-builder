@@ -41,5 +41,15 @@
         "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blue": "eyes-Child_Eyes_blue",
+    "brown": "eyes-Child_Eyes_brown",
+    "gray": "eyes-Child_Eyes_gray",
+    "green": "eyes-Child_Eyes_green",
+    "orange": "eyes-Child_Eyes_orange",
+    "purple": "eyes-Child_Eyes_purple",
+    "red": "eyes-Child_Eyes_red",
+    "yellow": "eyes-Child_Eyes_yellow"
+  }
 }

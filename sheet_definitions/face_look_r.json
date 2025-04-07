@@ -1,8 +1,12 @@
 {
   "name": "Looking Right",
   "type_name": "expression",
-  "tags": ["expression"],
-  "required_tags": ["human"],
+  "tags": [
+    "expression"
+  ],
+  "required_tags": [
+    "human"
+  ],
   "replace_in_path": {
     "head": {
       "Human_male": "male",
@@ -133,5 +137,24 @@
         "https://opengameart.org/content/ulpc-expanded-expressions"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "expression-Looking_Right_light",
+    "amber": "expression-Looking_Right_amber",
+    "olive": "expression-Looking_Right_olive",
+    "taupe": "expression-Looking_Right_taupe",
+    "bronze": "expression-Looking_Right_bronze",
+    "brown": "expression-Looking_Right_fur_brown",
+    "black": "expression-Looking_Right_fur_black",
+    "lavender": "expression-Looking_Right_lavender",
+    "blue": "expression-Looking_Right_blue",
+    "zombie_green": "expression-Looking_Right_zombie_green",
+    "green": "expression-Looking_Right_dark_green",
+    "fur_tan": "expression-Looking_Right_fur_tan",
+    "fur_copper": "expression-Looking_Right_fur_copper",
+    "fur_gold": "expression-Looking_Right_fur_gold",
+    "fur_grey": "expression-Looking_Right_fur_grey",
+    "fur_white": "expression-Looking_Right_fur_white",
+    "zombie": "expression-Looking_Right_zombie"
+  }
 }

@@ -45,5 +45,30 @@
         "https://opengameart.org/content/lpc-pirates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "jacket_pockets-Jacket_pockets_black",
+    "blue": "jacket_pockets-Jacket_pockets_bluegray",
+    "brown": "jacket_pockets-Jacket_pockets_brown",
+    "charcoal": "jacket_pockets-Jacket_pockets_charcoal",
+    "forest": "jacket_pockets-Jacket_pockets_forest",
+    "gray": "jacket_pockets-Jacket_pockets_gray",
+    "green": "jacket_pockets-Jacket_pockets_green",
+    "lavender": "jacket_pockets-Jacket_pockets_lavender",
+    "leather": "jacket_pockets-Jacket_pockets_leather",
+    "maroon": "jacket_pockets-Jacket_pockets_maroon",
+    "navy": "jacket_pockets-Jacket_pockets_navy",
+    "orange": "jacket_pockets-Jacket_pockets_orange",
+    "pink": "jacket_pockets-Jacket_pockets_pink",
+    "purple": "jacket_pockets-Jacket_pockets_purple",
+    "red": "jacket_pockets-Jacket_pockets_red",
+    "rose": "jacket_pockets-Jacket_pockets_rose",
+    "sky": "jacket_pockets-Jacket_pockets_sky",
+    "slate": "jacket_pockets-Jacket_pockets_slate",
+    "tan": "jacket_pockets-Jacket_pockets_tan",
+    "teal": "jacket_pockets-Jacket_pockets_teal",
+    "walnut": "jacket_pockets-Jacket_pockets_walnut",
+    "white": "jacket_pockets-Jacket_pockets_white",
+    "yellow": "jacket_pockets-Jacket_pockets_yellow"
+  }
 }

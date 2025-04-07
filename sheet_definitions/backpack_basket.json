@@ -1,7 +1,11 @@
 {
   "name": "Basket",
   "type_name": "backpack",
-  "tags": ["back", "backpack", "basket"],
+  "tags": [
+    "back",
+    "backpack",
+    "basket"
+  ],
   "layer_1": {
     "zPos": 130,
     "male": "backpack/basket/fg/",
@@ -34,5 +38,9 @@
         "https://opengameart.org/content/lpc-more-backpacks"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "round": "backpack-Basket_round",
+    "square": "backpack-Basket_square"
+  }
 }

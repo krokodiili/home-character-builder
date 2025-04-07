@@ -70,5 +70,30 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "white": "hat_accessory-Cavalier_feather_white",
+    "black": "hat_accessory-Cavalier_feather_black",
+    "blue": "hat_accessory-Cavalier_feather_bluegray",
+    "brown": "hat_accessory-Cavalier_feather_brown",
+    "charcoal": "hat_accessory-Cavalier_feather_charcoal",
+    "forest": "hat_accessory-Cavalier_feather_forest",
+    "gray": "hat_accessory-Cavalier_feather_gray",
+    "green": "hat_accessory-Cavalier_feather_green",
+    "lavender": "hat_accessory-Cavalier_feather_lavender",
+    "leather": "hat_accessory-Cavalier_feather_leather",
+    "maroon": "hat_accessory-Cavalier_feather_maroon",
+    "navy": "hat_accessory-Cavalier_feather_navy",
+    "orange": "hat_accessory-Cavalier_feather_orange",
+    "pink": "hat_accessory-Cavalier_feather_pink",
+    "purple": "hat_accessory-Cavalier_feather_purple",
+    "red": "hat_accessory-Cavalier_feather_red",
+    "rose": "hat_accessory-Cavalier_feather_rose",
+    "sky": "hat_accessory-Cavalier_feather_sky",
+    "slate": "hat_accessory-Cavalier_feather_slate",
+    "tan": "hat_accessory-Cavalier_feather_tan",
+    "teal": "hat_accessory-Cavalier_feather_teal",
+    "walnut": "hat_accessory-Cavalier_feather_walnut",
+    "yellow": "hat_accessory-Cavalier_feather_yellow"
+  }
 }

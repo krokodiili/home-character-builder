@@ -1,7 +1,9 @@
 {
   "name": "Alien",
   "type_name": "head",
-  "tags": ["alien"],
+  "tags": [
+    "alien"
+  ],
   "layer_1": {
     "zPos": 100,
     "male": "head/heads/alien/adult/",
@@ -72,5 +74,23 @@
         "https://opengameart.org/content/lpc-character-bases"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "lavender": "head-Alien_lavender",
+    "light": "head-Alien_light",
+    "amber": "head-Alien_amber",
+    "olive": "head-Alien_olive",
+    "taupe": "head-Alien_taupe",
+    "bronze": "head-Alien_bronze",
+    "brown": "head-Alien_fur_brown",
+    "black": "head-Alien_fur_black",
+    "blue": "head-Alien_blue",
+    "zombie_green": "head-Alien_zombie_green",
+    "green": "head-Alien_dark_green",
+    "fur_tan": "head-Alien_fur_tan",
+    "fur_copper": "head-Alien_fur_copper",
+    "fur_gold": "head-Alien_fur_gold",
+    "fur_grey": "head-Alien_fur_grey",
+    "fur_white": "head-Alien_fur_white"
+  }
 }

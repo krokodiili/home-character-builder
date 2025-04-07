@@ -1,7 +1,10 @@
 {
   "name": "Goblin",
   "type_name": "head",
-  "tags": ["goblin", "adult"],
+  "tags": [
+    "goblin",
+    "adult"
+  ],
   "layer_1": {
     "zPos": 100,
     "male": "head/heads/goblin/adult/",
@@ -74,5 +77,24 @@
         "https://opengameart.org/content/lpc-folk"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "head-Goblin_light",
+    "amber": "head-Goblin_amber",
+    "olive": "head-Goblin_olive",
+    "taupe": "head-Goblin_taupe",
+    "bronze": "head-Goblin_bronze",
+    "brown": "head-Goblin_fur_brown",
+    "black": "head-Goblin_fur_black",
+    "lavender": "head-Goblin_lavender",
+    "blue": "head-Goblin_blue",
+    "zombie_green": "head-Goblin_zombie_green",
+    "green": "head-Goblin_dark_green",
+    "zombie": "head-Goblin_zombie",
+    "fur_tan": "head-Goblin_fur_tan",
+    "fur_copper": "head-Goblin_fur_copper",
+    "fur_gold": "head-Goblin_fur_gold",
+    "fur_grey": "head-Goblin_fur_grey",
+    "fur_white": "head-Goblin_fur_white"
+  }
 }

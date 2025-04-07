@@ -28,5 +28,14 @@
         "https://opengameart.org/content/lpc-pirates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "bronze": "jacket_collar-Frock_collar_bronze",
+    "gold": "jacket_collar-Frock_collar_gold",
+    "silver": "jacket_collar-Frock_collar_silver",
+    "red": "jacket_collar-Frock_collar_red",
+    "blue": "jacket_collar-Frock_collar_blue",
+    "teal": "jacket_collar-Frock_collar_teal",
+    "yellow": "jacket_collar-Frock_collar_yellow"
+  }
 }

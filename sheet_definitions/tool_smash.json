@@ -50,5 +50,9 @@
         "https://opengameart.org/content/lpc-hand-tools"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "axe": "weapon-Smash_pickaxe",
+    "hammer": "weapon-Smash_hammer"
+  }
 }

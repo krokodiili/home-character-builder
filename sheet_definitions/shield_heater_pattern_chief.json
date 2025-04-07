@@ -78,5 +78,30 @@
         "https://opengameart.org/content/lpc-shields"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "shield_pattern-chief_black",
+    "blue": "shield_pattern-chief_bluegray",
+    "brown": "shield_pattern-chief_brown",
+    "charcoal": "shield_pattern-chief_charcoal",
+    "forest": "shield_pattern-chief_forest",
+    "gray": "shield_pattern-chief_gray",
+    "green": "shield_pattern-chief_green",
+    "lavender": "shield_pattern-chief_lavender",
+    "leather": "shield_pattern-chief_leather",
+    "maroon": "shield_pattern-chief_maroon",
+    "navy": "shield_pattern-chief_navy",
+    "orange": "shield_pattern-chief_orange",
+    "pink": "shield_pattern-chief_pink",
+    "purple": "shield_pattern-chief_purple",
+    "red": "shield_pattern-chief_red",
+    "rose": "shield_pattern-chief_rose",
+    "sky": "shield_pattern-chief_sky",
+    "slate": "shield_pattern-chief_slate",
+    "tan": "shield_pattern-chief_tan",
+    "teal": "shield_pattern-chief_teal",
+    "walnut": "shield_pattern-chief_walnut",
+    "white": "shield_pattern-chief_white",
+    "yellow": "shield_pattern-chief_yellow"
+  }
 }

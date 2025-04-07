@@ -27,5 +27,8 @@
         "https://opengameart.org/content/lpc-pirates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "peg_leg": "prosthesis_leg-Peg_leg_peg_leg"
+  }
 }

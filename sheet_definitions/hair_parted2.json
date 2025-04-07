@@ -54,5 +54,31 @@
         "https://opengameart.org/content/lpc-hair"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-Parted_2_blonde",
+    "ash": "hair-Parted_2_ash",
+    "sandy": "hair-Parted_2_sandy",
+    "platinum": "hair-Parted_2_platinum",
+    "strawberry": "hair-Parted_2_strawberry",
+    "redhead": "hair-Parted_2_redhead",
+    "ginger": "hair-Parted_2_ginger",
+    "carrot": "hair-Parted_2_carrot",
+    "chestnut": "hair-Parted_2_chestnut",
+    "undefined": "hair-Parted_2_dark_brown",
+    "black": "hair-Parted_2_black",
+    "raven": "hair-Parted_2_raven",
+    "gray": "hair-Parted_2_gray",
+    "white": "hair-Parted_2_white",
+    "red": "hair-Parted_2_red",
+    "orange": "hair-Parted_2_orange",
+    "gold": "hair-Parted_2_gold",
+    "green": "hair-Parted_2_green",
+    "blue": "hair-Parted_2_blue",
+    "navy": "hair-Parted_2_navy",
+    "violet": "hair-Parted_2_violet",
+    "purple": "hair-Parted_2_purple",
+    "pink": "hair-Parted_2_pink",
+    "rose": "hair-Parted_2_rose"
+  }
 }

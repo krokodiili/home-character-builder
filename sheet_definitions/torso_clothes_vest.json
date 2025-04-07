@@ -88,5 +88,30 @@
         "https://opengameart.org/content/lpc-2-characters"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "gray": "vest-Vest_gray",
+    "green": "vest-Vest_green",
+    "black": "vest-Vest_black",
+    "blue": "vest-Vest_bluegray",
+    "brown": "vest-Vest_brown",
+    "charcoal": "vest-Vest_charcoal",
+    "forest": "vest-Vest_forest",
+    "lavender": "vest-Vest_lavender",
+    "leather": "vest-Vest_leather",
+    "maroon": "vest-Vest_maroon",
+    "navy": "vest-Vest_navy",
+    "orange": "vest-Vest_orange",
+    "pink": "vest-Vest_pink",
+    "purple": "vest-Vest_purple",
+    "red": "vest-Vest_red",
+    "rose": "vest-Vest_rose",
+    "sky": "vest-Vest_sky",
+    "slate": "vest-Vest_slate",
+    "tan": "vest-Vest_tan",
+    "teal": "vest-Vest_teal",
+    "walnut": "vest-Vest_walnut",
+    "white": "vest-Vest_white",
+    "yellow": "vest-Vest_yellow"
+  }
 }

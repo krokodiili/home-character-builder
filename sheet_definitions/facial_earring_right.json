@@ -78,5 +78,39 @@
         "https://opengameart.org/content/lpc-pirates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "base": "earring_right-Simple_Earring_Right_base",
+    "black": "earring_right-Simple_Earring_Right_black",
+    "blue": "earring_right-Simple_Earring_Right_bluegray",
+    "brown": "earring_right-Simple_Earring_Right_brown",
+    "charcoal": "earring_right-Simple_Earring_Right_charcoal",
+    "forest": "earring_right-Simple_Earring_Right_forest",
+    "gray": "earring_right-Simple_Earring_Right_gray",
+    "green": "earring_right-Simple_Earring_Right_green",
+    "lavender": "earring_right-Simple_Earring_Right_lavender",
+    "leather": "earring_right-Simple_Earring_Right_leather",
+    "maroon": "earring_right-Simple_Earring_Right_maroon",
+    "navy": "earring_right-Simple_Earring_Right_navy",
+    "orange": "earring_right-Simple_Earring_Right_orange",
+    "pink": "earring_right-Simple_Earring_Right_pink",
+    "purple": "earring_right-Simple_Earring_Right_purple",
+    "red": "earring_right-Simple_Earring_Right_red",
+    "rose": "earring_right-Simple_Earring_Right_rose",
+    "sky": "earring_right-Simple_Earring_Right_sky",
+    "slate": "earring_right-Simple_Earring_Right_slate",
+    "tan": "earring_right-Simple_Earring_Right_tan",
+    "teal": "earring_right-Simple_Earring_Right_teal",
+    "walnut": "earring_right-Simple_Earring_Right_walnut",
+    "white": "earring_right-Simple_Earring_Right_white",
+    "yellow": "earring_right-Simple_Earring_Right_yellow",
+    "steel": "earring_right-Simple_Earring_Right_steel",
+    "iron": "earring_right-Simple_Earring_Right_iron",
+    "ceramic": "earring_right-Simple_Earring_Right_ceramic",
+    "brass": "earring_right-Simple_Earring_Right_brass",
+    "copper": "earring_right-Simple_Earring_Right_copper",
+    "bronze": "earring_right-Simple_Earring_Right_bronze",
+    "silver": "earring_right-Simple_Earring_Right_silver",
+    "gold": "earring_right-Simple_Earring_Right_gold"
+  }
 }

@@ -33,5 +33,15 @@
         "https://opengameart.org/content/lpc-jewelry"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "steel": "earrings-Stud_earrings_steel",
+    "iron": "earrings-Stud_earrings_iron",
+    "ceramic": "earrings-Stud_earrings_ceramic",
+    "brass": "earrings-Stud_earrings_brass",
+    "copper": "earrings-Stud_earrings_copper",
+    "bronze": "earrings-Stud_earrings_bronze",
+    "silver": "earrings-Stud_earrings_silver",
+    "gold": "earrings-Stud_earrings_gold"
+  }
 }

@@ -73,5 +73,30 @@
         "https://opengameart.org/content/lpc-expanded-socks-shoes"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "socks-Tabi_Socks_black",
+    "blue": "socks-Tabi_Socks_bluegray",
+    "brown": "socks-Tabi_Socks_brown",
+    "charcoal": "socks-Tabi_Socks_charcoal",
+    "forest": "socks-Tabi_Socks_forest",
+    "gray": "socks-Tabi_Socks_gray",
+    "green": "socks-Tabi_Socks_green",
+    "lavender": "socks-Tabi_Socks_lavender",
+    "leather": "socks-Tabi_Socks_leather",
+    "maroon": "socks-Tabi_Socks_maroon",
+    "navy": "socks-Tabi_Socks_navy",
+    "orange": "socks-Tabi_Socks_orange",
+    "pink": "socks-Tabi_Socks_pink",
+    "purple": "socks-Tabi_Socks_purple",
+    "red": "socks-Tabi_Socks_red",
+    "rose": "socks-Tabi_Socks_rose",
+    "sky": "socks-Tabi_Socks_sky",
+    "slate": "socks-Tabi_Socks_slate",
+    "tan": "socks-Tabi_Socks_tan",
+    "teal": "socks-Tabi_Socks_teal",
+    "walnut": "socks-Tabi_Socks_walnut",
+    "white": "socks-Tabi_Socks_white",
+    "yellow": "socks-Tabi_Socks_yellow"
+  }
 }

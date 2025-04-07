@@ -91,5 +91,35 @@
         "https://opengameart.org/content/drakes-and-lizardfolk"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "tail-Lizard_Tail_(Alt_Colors)_blonde",
+    "ash": "tail-Lizard_Tail_(Alt_Colors)_ash",
+    "sandy": "tail-Lizard_Tail_(Alt_Colors)_sandy",
+    "platinum": "tail-Lizard_Tail_(Alt_Colors)_platinum",
+    "strawberry": "tail-Lizard_Tail_(Alt_Colors)_strawberry",
+    "redhead": "tail-Lizard_Tail_(Alt_Colors)_redhead",
+    "ginger": "tail-Lizard_Tail_(Alt_Colors)_ginger",
+    "carrot": "tail-Lizard_Tail_(Alt_Colors)_carrot",
+    "chestnut": "tail-Lizard_Tail_(Alt_Colors)_chestnut",
+    "undefined": "tail-Lizard_Tail_(Alt_Colors)_dark_brown",
+    "black": "tail-Lizard_Tail_(Alt_Colors)_fur_black",
+    "raven": "tail-Lizard_Tail_(Alt_Colors)_raven",
+    "gray": "tail-Lizard_Tail_(Alt_Colors)_gray",
+    "white": "tail-Lizard_Tail_(Alt_Colors)_fur_white",
+    "red": "tail-Lizard_Tail_(Alt_Colors)_red",
+    "orange": "tail-Lizard_Tail_(Alt_Colors)_orange",
+    "gold": "tail-Lizard_Tail_(Alt_Colors)_fur_gold",
+    "green": "tail-Lizard_Tail_(Alt_Colors)_green",
+    "blue": "tail-Lizard_Tail_(Alt_Colors)_blue",
+    "navy": "tail-Lizard_Tail_(Alt_Colors)_navy",
+    "violet": "tail-Lizard_Tail_(Alt_Colors)_violet",
+    "purple": "tail-Lizard_Tail_(Alt_Colors)_purple",
+    "pink": "tail-Lizard_Tail_(Alt_Colors)_pink",
+    "rose": "tail-Lizard_Tail_(Alt_Colors)_rose",
+    "fur_brown": "tail-Lizard_Tail_(Alt_Colors)_fur_brown",
+    "fur_tan": "tail-Lizard_Tail_(Alt_Colors)_fur_tan",
+    "fur_copper": "tail-Lizard_Tail_(Alt_Colors)_fur_copper",
+    "fur_grey": "tail-Lizard_Tail_(Alt_Colors)_fur_grey"
+  }
 }

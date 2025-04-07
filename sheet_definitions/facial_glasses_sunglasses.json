@@ -83,5 +83,40 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "base": "facial_eyes-Sunglasses_base",
+    "sunglasses": "facial_eyes-Sunglasses_sunglasses",
+    "black": "facial_eyes-Sunglasses_black",
+    "blue": "facial_eyes-Sunglasses_bluegray",
+    "brown": "facial_eyes-Sunglasses_brown",
+    "charcoal": "facial_eyes-Sunglasses_charcoal",
+    "forest": "facial_eyes-Sunglasses_forest",
+    "gray": "facial_eyes-Sunglasses_gray",
+    "green": "facial_eyes-Sunglasses_green",
+    "lavender": "facial_eyes-Sunglasses_lavender",
+    "leather": "facial_eyes-Sunglasses_leather",
+    "maroon": "facial_eyes-Sunglasses_maroon",
+    "navy": "facial_eyes-Sunglasses_navy",
+    "orange": "facial_eyes-Sunglasses_orange",
+    "pink": "facial_eyes-Sunglasses_pink",
+    "purple": "facial_eyes-Sunglasses_purple",
+    "red": "facial_eyes-Sunglasses_red",
+    "rose": "facial_eyes-Sunglasses_rose",
+    "sky": "facial_eyes-Sunglasses_sky",
+    "slate": "facial_eyes-Sunglasses_slate",
+    "tan": "facial_eyes-Sunglasses_tan",
+    "teal": "facial_eyes-Sunglasses_teal",
+    "walnut": "facial_eyes-Sunglasses_walnut",
+    "white": "facial_eyes-Sunglasses_white",
+    "yellow": "facial_eyes-Sunglasses_yellow",
+    "steel": "facial_eyes-Sunglasses_steel",
+    "iron": "facial_eyes-Sunglasses_iron",
+    "ceramic": "facial_eyes-Sunglasses_ceramic",
+    "brass": "facial_eyes-Sunglasses_brass",
+    "copper": "facial_eyes-Sunglasses_copper",
+    "bronze": "facial_eyes-Sunglasses_bronze",
+    "silver": "facial_eyes-Sunglasses_silver",
+    "gold": "facial_eyes-Sunglasses_gold"
+  }
 }

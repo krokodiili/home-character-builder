@@ -70,5 +70,30 @@
         "https://opengameart.org/content/lpc-expanded-sit-run-jump-more"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "clothes-Longsleeve_2_Scoop_black",
+    "blue": "clothes-Longsleeve_2_Scoop_bluegray",
+    "brown": "clothes-Longsleeve_2_Scoop_brown",
+    "charcoal": "clothes-Longsleeve_2_Scoop_charcoal",
+    "forest": "clothes-Longsleeve_2_Scoop_forest",
+    "gray": "clothes-Longsleeve_2_Scoop_gray",
+    "green": "clothes-Longsleeve_2_Scoop_green",
+    "lavender": "clothes-Longsleeve_2_Scoop_lavender",
+    "leather": "clothes-Longsleeve_2_Scoop_leather",
+    "maroon": "clothes-Longsleeve_2_Scoop_maroon",
+    "navy": "clothes-Longsleeve_2_Scoop_navy",
+    "orange": "clothes-Longsleeve_2_Scoop_orange",
+    "pink": "clothes-Longsleeve_2_Scoop_pink",
+    "purple": "clothes-Longsleeve_2_Scoop_purple",
+    "red": "clothes-Longsleeve_2_Scoop_red",
+    "rose": "clothes-Longsleeve_2_Scoop_rose",
+    "sky": "clothes-Longsleeve_2_Scoop_sky",
+    "slate": "clothes-Longsleeve_2_Scoop_slate",
+    "tan": "clothes-Longsleeve_2_Scoop_tan",
+    "teal": "clothes-Longsleeve_2_Scoop_teal",
+    "walnut": "clothes-Longsleeve_2_Scoop_walnut",
+    "white": "clothes-Longsleeve_2_Scoop_white",
+    "yellow": "clothes-Longsleeve_2_Scoop_yellow"
+  }
 }

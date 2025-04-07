@@ -1,8 +1,13 @@
 {
   "name": "Elf Trim",
   "type_name": "hat_trim",
-  "tags": ["santa", "santa_wool"],
-  "required_tags": ["santa_hat"],
+  "tags": [
+    "santa",
+    "santa_wool"
+  ],
+  "required_tags": [
+    "santa_hat"
+  ],
   "layer_1": {
     "zPos": 130,
     "female": "hat/holiday/elf/adult/",
@@ -73,5 +78,30 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "white": "hat_trim-Elf_Trim_white",
+    "black": "hat_trim-Elf_Trim_black",
+    "blue": "hat_trim-Elf_Trim_bluegray",
+    "brown": "hat_trim-Elf_Trim_brown",
+    "charcoal": "hat_trim-Elf_Trim_charcoal",
+    "forest": "hat_trim-Elf_Trim_forest",
+    "gray": "hat_trim-Elf_Trim_gray",
+    "green": "hat_trim-Elf_Trim_green",
+    "lavender": "hat_trim-Elf_Trim_lavender",
+    "leather": "hat_trim-Elf_Trim_leather",
+    "maroon": "hat_trim-Elf_Trim_maroon",
+    "navy": "hat_trim-Elf_Trim_navy",
+    "orange": "hat_trim-Elf_Trim_orange",
+    "pink": "hat_trim-Elf_Trim_pink",
+    "purple": "hat_trim-Elf_Trim_purple",
+    "red": "hat_trim-Elf_Trim_red",
+    "rose": "hat_trim-Elf_Trim_rose",
+    "sky": "hat_trim-Elf_Trim_sky",
+    "slate": "hat_trim-Elf_Trim_slate",
+    "tan": "hat_trim-Elf_Trim_tan",
+    "teal": "hat_trim-Elf_Trim_teal",
+    "walnut": "hat_trim-Elf_Trim_walnut",
+    "yellow": "hat_trim-Elf_Trim_yellow"
+  }
 }

@@ -249,5 +249,23 @@
         "https://opengameart.org/content/lpc-jump-expanded"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "body-Body_color_light",
+    "amber": "body-Body_color_amber",
+    "olive": "body-Body_color_olive",
+    "taupe": "body-Body_color_taupe",
+    "bronze": "body-Body_color_bronze",
+    "brown": "body-Body_color_fur_brown",
+    "black": "body-Body_color_fur_black",
+    "lavender": "body-Body_color_lavender",
+    "blue": "body-Body_color_blue",
+    "zombie_green": "body-Body_color_zombie_green",
+    "green": "body-Body_color_dark_green",
+    "fur_tan": "body-Body_color_fur_tan",
+    "fur_copper": "body-Body_color_fur_copper",
+    "fur_gold": "body-Body_color_fur_gold",
+    "fur_grey": "body-Body_color_fur_grey",
+    "fur_white": "body-Body_color_fur_white"
+  }
 }

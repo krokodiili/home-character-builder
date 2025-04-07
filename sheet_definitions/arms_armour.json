@@ -57,5 +57,15 @@
         "http://opengameart.org/content/lpc-clothing-updates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "steel": "shoes-Armour_steel",
+    "iron": "shoes-Armour_iron",
+    "ceramic": "shoes-Armour_ceramic",
+    "brass": "shoes-Armour_brass",
+    "copper": "shoes-Armour_copper",
+    "bronze": "shoes-Armour_bronze",
+    "silver": "shoes-Armour_silver",
+    "gold": "shoes-Armour_gold"
+  }
 }

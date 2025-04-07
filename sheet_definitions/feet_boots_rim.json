@@ -79,5 +79,38 @@
         "https://opengameart.org/content/lpc-expanded-socks-shoes"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "shoes-Rimmed_Boots_black",
+    "blue": "shoes-Rimmed_Boots_bluegray",
+    "brown": "shoes-Rimmed_Boots_brown",
+    "charcoal": "shoes-Rimmed_Boots_charcoal",
+    "forest": "shoes-Rimmed_Boots_forest",
+    "gray": "shoes-Rimmed_Boots_gray",
+    "green": "shoes-Rimmed_Boots_green",
+    "lavender": "shoes-Rimmed_Boots_lavender",
+    "leather": "shoes-Rimmed_Boots_leather",
+    "maroon": "shoes-Rimmed_Boots_maroon",
+    "navy": "shoes-Rimmed_Boots_navy",
+    "orange": "shoes-Rimmed_Boots_orange",
+    "pink": "shoes-Rimmed_Boots_pink",
+    "purple": "shoes-Rimmed_Boots_purple",
+    "red": "shoes-Rimmed_Boots_red",
+    "rose": "shoes-Rimmed_Boots_rose",
+    "sky": "shoes-Rimmed_Boots_sky",
+    "slate": "shoes-Rimmed_Boots_slate",
+    "tan": "shoes-Rimmed_Boots_tan",
+    "teal": "shoes-Rimmed_Boots_teal",
+    "walnut": "shoes-Rimmed_Boots_walnut",
+    "white": "shoes-Rimmed_Boots_white",
+    "yellow": "shoes-Rimmed_Boots_yellow",
+    "steel": "shoes-Rimmed_Boots_steel",
+    "iron": "shoes-Rimmed_Boots_iron",
+    "ceramic": "shoes-Rimmed_Boots_ceramic",
+    "brass": "shoes-Rimmed_Boots_brass",
+    "copper": "shoes-Rimmed_Boots_copper",
+    "bronze": "shoes-Rimmed_Boots_bronze",
+    "silver": "shoes-Rimmed_Boots_silver",
+    "gold": "shoes-Rimmed_Boots_gold"
+  }
 }

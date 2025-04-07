@@ -28,5 +28,8 @@
         "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "quiver": "quiver-Quiver_quiver"
+  }
 }

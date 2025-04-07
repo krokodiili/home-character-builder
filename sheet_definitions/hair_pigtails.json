@@ -54,5 +54,31 @@
         "https://opengameart.org/content/lpc-hair"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-Pigtails_blonde",
+    "ash": "hair-Pigtails_ash",
+    "sandy": "hair-Pigtails_sandy",
+    "platinum": "hair-Pigtails_platinum",
+    "strawberry": "hair-Pigtails_strawberry",
+    "redhead": "hair-Pigtails_redhead",
+    "ginger": "hair-Pigtails_ginger",
+    "carrot": "hair-Pigtails_carrot",
+    "chestnut": "hair-Pigtails_chestnut",
+    "undefined": "hair-Pigtails_dark_brown",
+    "black": "hair-Pigtails_black",
+    "raven": "hair-Pigtails_raven",
+    "gray": "hair-Pigtails_gray",
+    "white": "hair-Pigtails_white",
+    "red": "hair-Pigtails_red",
+    "orange": "hair-Pigtails_orange",
+    "gold": "hair-Pigtails_gold",
+    "green": "hair-Pigtails_green",
+    "blue": "hair-Pigtails_blue",
+    "navy": "hair-Pigtails_navy",
+    "violet": "hair-Pigtails_violet",
+    "purple": "hair-Pigtails_purple",
+    "pink": "hair-Pigtails_pink",
+    "rose": "hair-Pigtails_rose"
+  }
 }

@@ -72,5 +72,31 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "base": "hat-Formal_Bowler_Hat_base_brown",
+    "black": "hat-Formal_Bowler_Hat_black",
+    "blue": "hat-Formal_Bowler_Hat_bluegray",
+    "brown": "hat-Formal_Bowler_Hat_brown",
+    "charcoal": "hat-Formal_Bowler_Hat_charcoal",
+    "forest": "hat-Formal_Bowler_Hat_forest",
+    "gray": "hat-Formal_Bowler_Hat_gray",
+    "green": "hat-Formal_Bowler_Hat_green",
+    "lavender": "hat-Formal_Bowler_Hat_lavender",
+    "leather": "hat-Formal_Bowler_Hat_leather",
+    "maroon": "hat-Formal_Bowler_Hat_maroon",
+    "navy": "hat-Formal_Bowler_Hat_navy",
+    "orange": "hat-Formal_Bowler_Hat_orange",
+    "pink": "hat-Formal_Bowler_Hat_pink",
+    "purple": "hat-Formal_Bowler_Hat_purple",
+    "red": "hat-Formal_Bowler_Hat_red",
+    "rose": "hat-Formal_Bowler_Hat_rose",
+    "sky": "hat-Formal_Bowler_Hat_sky",
+    "slate": "hat-Formal_Bowler_Hat_slate",
+    "tan": "hat-Formal_Bowler_Hat_tan",
+    "teal": "hat-Formal_Bowler_Hat_teal",
+    "walnut": "hat-Formal_Bowler_Hat_walnut",
+    "white": "hat-Formal_Bowler_Hat_white",
+    "yellow": "hat-Formal_Bowler_Hat_yellow"
+  }
 }

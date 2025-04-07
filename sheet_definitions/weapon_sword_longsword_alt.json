@@ -54,5 +54,8 @@
         "https://opengameart.org/content/lpc-dcss-swords"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "longsword_alt": "weapon-Longsword_alt_longsword_alt"
+  }
 }

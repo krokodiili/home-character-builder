@@ -54,5 +54,8 @@
         "https://opengameart.org/content/lpc-dcss-swords"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "katana": "weapon-Katana_katana"
+  }
 }

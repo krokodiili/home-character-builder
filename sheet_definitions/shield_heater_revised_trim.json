@@ -1,7 +1,9 @@
 {
   "name": "Revised Heater Shield Trim",
   "type_name": "shield_trim",
-  "required_tags": ["heater"],
+  "required_tags": [
+    "heater"
+  ],
   "layer_1": {
     "zPos": 6,
     "male": "shield/heater/revised/trim/bg/",
@@ -63,5 +65,14 @@
         "https://opengameart.org/content/lpc-shields"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "brass": "shield_trim-Revised_Heater_Shield_Trim_brass",
+    "bronze": "shield_trim-Revised_Heater_Shield_Trim_bronze",
+    "copper": "shield_trim-Revised_Heater_Shield_Trim_copper",
+    "gold": "shield_trim-Revised_Heater_Shield_Trim_gold",
+    "iron": "shield_trim-Revised_Heater_Shield_Trim_iron",
+    "silver": "shield_trim-Revised_Heater_Shield_Trim_silver",
+    "steel": "shield_trim-Revised_Heater_Shield_Trim_steel"
+  }
 }

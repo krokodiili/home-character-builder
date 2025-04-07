@@ -56,5 +56,31 @@
         "https://opengameart.org/content/lpc-hair"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-Braid_blonde",
+    "ash": "hair-Braid_ash",
+    "sandy": "hair-Braid_sandy",
+    "platinum": "hair-Braid_platinum",
+    "strawberry": "hair-Braid_strawberry",
+    "redhead": "hair-Braid_redhead",
+    "ginger": "hair-Braid_ginger",
+    "carrot": "hair-Braid_carrot",
+    "chestnut": "hair-Braid_chestnut",
+    "undefined": "hair-Braid_dark_brown",
+    "black": "hair-Braid_black",
+    "raven": "hair-Braid_raven",
+    "gray": "hair-Braid_gray",
+    "white": "hair-Braid_white",
+    "red": "hair-Braid_red",
+    "orange": "hair-Braid_orange",
+    "gold": "hair-Braid_gold",
+    "green": "hair-Braid_green",
+    "blue": "hair-Braid_blue",
+    "navy": "hair-Braid_navy",
+    "violet": "hair-Braid_violet",
+    "purple": "hair-Braid_purple",
+    "pink": "hair-Braid_pink",
+    "rose": "hair-Braid_rose"
+  }
 }

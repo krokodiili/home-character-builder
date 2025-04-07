@@ -72,5 +72,30 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "hairtie_rune-Hair_Tie_Rune_black",
+    "blue": "hairtie_rune-Hair_Tie_Rune_bluegray",
+    "brown": "hairtie_rune-Hair_Tie_Rune_brown",
+    "charcoal": "hairtie_rune-Hair_Tie_Rune_charcoal",
+    "forest": "hairtie_rune-Hair_Tie_Rune_forest",
+    "gray": "hairtie_rune-Hair_Tie_Rune_gray",
+    "green": "hairtie_rune-Hair_Tie_Rune_green",
+    "lavender": "hairtie_rune-Hair_Tie_Rune_lavender",
+    "leather": "hairtie_rune-Hair_Tie_Rune_leather",
+    "maroon": "hairtie_rune-Hair_Tie_Rune_maroon",
+    "navy": "hairtie_rune-Hair_Tie_Rune_navy",
+    "orange": "hairtie_rune-Hair_Tie_Rune_orange",
+    "pink": "hairtie_rune-Hair_Tie_Rune_pink",
+    "purple": "hairtie_rune-Hair_Tie_Rune_purple",
+    "red": "hairtie_rune-Hair_Tie_Rune_red",
+    "rose": "hairtie_rune-Hair_Tie_Rune_rose",
+    "sky": "hairtie_rune-Hair_Tie_Rune_sky",
+    "slate": "hairtie_rune-Hair_Tie_Rune_slate",
+    "tan": "hairtie_rune-Hair_Tie_Rune_tan",
+    "teal": "hairtie_rune-Hair_Tie_Rune_teal",
+    "walnut": "hairtie_rune-Hair_Tie_Rune_walnut",
+    "white": "hairtie_rune-Hair_Tie_Rune_white",
+    "yellow": "hairtie_rune-Hair_Tie_Rune_yellow"
+  }
 }

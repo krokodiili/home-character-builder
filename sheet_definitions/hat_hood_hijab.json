@@ -70,5 +70,31 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "base": "hat-Hijab_base",
+    "black": "hat-Hijab_black",
+    "blue": "hat-Hijab_bluegray",
+    "brown": "hat-Hijab_brown",
+    "charcoal": "hat-Hijab_charcoal",
+    "forest": "hat-Hijab_forest",
+    "gray": "hat-Hijab_gray",
+    "green": "hat-Hijab_green",
+    "lavender": "hat-Hijab_lavender",
+    "leather": "hat-Hijab_leather",
+    "maroon": "hat-Hijab_maroon",
+    "navy": "hat-Hijab_navy",
+    "orange": "hat-Hijab_orange",
+    "pink": "hat-Hijab_pink",
+    "purple": "hat-Hijab_purple",
+    "red": "hat-Hijab_red",
+    "rose": "hat-Hijab_rose",
+    "sky": "hat-Hijab_sky",
+    "slate": "hat-Hijab_slate",
+    "tan": "hat-Hijab_tan",
+    "teal": "hat-Hijab_teal",
+    "walnut": "hat-Hijab_walnut",
+    "white": "hat-Hijab_white",
+    "yellow": "hat-Hijab_yellow"
+  }
 }

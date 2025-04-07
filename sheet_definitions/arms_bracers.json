@@ -35,5 +35,15 @@
         "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "steel": "bracers-Bracers_steel",
+    "iron": "bracers-Bracers_iron",
+    "ceramic": "bracers-Bracers_ceramic",
+    "brass": "bracers-Bracers_brass",
+    "copper": "bracers-Bracers_copper",
+    "bronze": "bracers-Bracers_bronze",
+    "silver": "bracers-Bracers_silver",
+    "gold": "bracers-Bracers_gold"
+  }
 }

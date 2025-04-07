@@ -31,5 +31,13 @@
         "https://opengameart.org/content/lpc-jewelry"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blue": "earrings-Pear_earrings_blue",
+    "green": "earrings-Pear_earrings_green",
+    "orange": "earrings-Pear_earrings_orange",
+    "purple": "earrings-Pear_earrings_purple",
+    "red": "earrings-Pear_earrings_red",
+    "yellow": "earrings-Pear_earrings_yellow"
+  }
 }

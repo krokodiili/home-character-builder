@@ -1,7 +1,10 @@
 {
   "name": "Rat",
   "type_name": "head",
-  "tags": ["animal", "adult"],
+  "tags": [
+    "animal",
+    "adult"
+  ],
   "layer_1": {
     "zPos": 100,
     "male": "head/heads/rat/adult/",
@@ -72,5 +75,26 @@
         "http://opengameart.org/content/lpc-folk"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "fur_black": "head-Rat_fur_black",
+    "fur_brown": "head-Rat_fur_brown",
+    "fur_tan": "head-Rat_fur_tan",
+    "fur_copper": "head-Rat_fur_copper",
+    "fur_gold": "head-Rat_fur_gold",
+    "fur_grey": "head-Rat_fur_grey",
+    "fur_white": "head-Rat_fur_white",
+    "light": "head-Rat_light",
+    "amber": "head-Rat_amber",
+    "olive": "head-Rat_olive",
+    "taupe": "head-Rat_taupe",
+    "bronze": "head-Rat_bronze",
+    "brown": "head-Rat_brown",
+    "black": "head-Rat_black",
+    "lavender": "head-Rat_lavender",
+    "blue": "head-Rat_blue",
+    "zombie_green": "head-Rat_zombie_green",
+    "green": "head-Rat_dark_green",
+    "zombie": "head-Rat_zombie"
+  }
 }

@@ -24,5 +24,8 @@
         "https://opengameart.org/content/lpc-gentleman"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "gray": "jacket-Trench_coat_gray"
+  }
 }

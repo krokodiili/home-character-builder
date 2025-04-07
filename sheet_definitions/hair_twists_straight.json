@@ -70,5 +70,31 @@
         "https://opengameart.org/content/lpc-hair"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-Twists_straight_blonde",
+    "ash": "hair-Twists_straight_ash",
+    "sandy": "hair-Twists_straight_sandy",
+    "platinum": "hair-Twists_straight_platinum",
+    "strawberry": "hair-Twists_straight_strawberry",
+    "redhead": "hair-Twists_straight_redhead",
+    "ginger": "hair-Twists_straight_ginger",
+    "carrot": "hair-Twists_straight_carrot",
+    "chestnut": "hair-Twists_straight_chestnut",
+    "undefined": "hair-Twists_straight_dark_brown",
+    "black": "hair-Twists_straight_black",
+    "raven": "hair-Twists_straight_raven",
+    "gray": "hair-Twists_straight_gray",
+    "white": "hair-Twists_straight_white",
+    "red": "hair-Twists_straight_red",
+    "orange": "hair-Twists_straight_orange",
+    "gold": "hair-Twists_straight_gold",
+    "green": "hair-Twists_straight_green",
+    "blue": "hair-Twists_straight_blue",
+    "navy": "hair-Twists_straight_navy",
+    "violet": "hair-Twists_straight_violet",
+    "purple": "hair-Twists_straight_purple",
+    "pink": "hair-Twists_straight_pink",
+    "rose": "hair-Twists_straight_rose"
+  }
 }

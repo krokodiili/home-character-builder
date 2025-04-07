@@ -48,5 +48,8 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "steel": "hat-Kettle_helm_steel"
+  }
 }

@@ -83,5 +83,39 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "dark": "facial_mask-Plain_Mask_dark",
+    "white": "facial_mask-Plain_Mask_white",
+    "black": "facial_mask-Plain_Mask_black",
+    "blue": "facial_mask-Plain_Mask_bluegray",
+    "brown": "facial_mask-Plain_Mask_brown",
+    "charcoal": "facial_mask-Plain_Mask_charcoal",
+    "forest": "facial_mask-Plain_Mask_forest",
+    "gray": "facial_mask-Plain_Mask_gray",
+    "green": "facial_mask-Plain_Mask_green",
+    "lavender": "facial_mask-Plain_Mask_lavender",
+    "leather": "facial_mask-Plain_Mask_leather",
+    "maroon": "facial_mask-Plain_Mask_maroon",
+    "navy": "facial_mask-Plain_Mask_navy",
+    "orange": "facial_mask-Plain_Mask_orange",
+    "pink": "facial_mask-Plain_Mask_pink",
+    "purple": "facial_mask-Plain_Mask_purple",
+    "red": "facial_mask-Plain_Mask_red",
+    "rose": "facial_mask-Plain_Mask_rose",
+    "sky": "facial_mask-Plain_Mask_sky",
+    "slate": "facial_mask-Plain_Mask_slate",
+    "tan": "facial_mask-Plain_Mask_tan",
+    "teal": "facial_mask-Plain_Mask_teal",
+    "walnut": "facial_mask-Plain_Mask_walnut",
+    "yellow": "facial_mask-Plain_Mask_yellow",
+    "steel": "facial_mask-Plain_Mask_steel",
+    "iron": "facial_mask-Plain_Mask_iron",
+    "ceramic": "facial_mask-Plain_Mask_ceramic",
+    "brass": "facial_mask-Plain_Mask_brass",
+    "copper": "facial_mask-Plain_Mask_copper",
+    "bronze": "facial_mask-Plain_Mask_bronze",
+    "silver": "facial_mask-Plain_Mask_silver",
+    "gold": "facial_mask-Plain_Mask_gold"
+  }
 }

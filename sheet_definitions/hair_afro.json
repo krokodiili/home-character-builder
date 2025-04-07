@@ -51,5 +51,31 @@
         "https://opengameart.org/content/lpc-hair"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-Afro_blonde",
+    "ash": "hair-Afro_ash",
+    "sandy": "hair-Afro_sandy",
+    "platinum": "hair-Afro_platinum",
+    "strawberry": "hair-Afro_strawberry",
+    "redhead": "hair-Afro_redhead",
+    "ginger": "hair-Afro_ginger",
+    "carrot": "hair-Afro_carrot",
+    "chestnut": "hair-Afro_chestnut",
+    "undefined": "hair-Afro_dark_brown",
+    "black": "hair-Afro_black",
+    "raven": "hair-Afro_raven",
+    "gray": "hair-Afro_gray",
+    "white": "hair-Afro_white",
+    "red": "hair-Afro_red",
+    "orange": "hair-Afro_orange",
+    "gold": "hair-Afro_gold",
+    "green": "hair-Afro_green",
+    "blue": "hair-Afro_blue",
+    "navy": "hair-Afro_navy",
+    "violet": "hair-Afro_violet",
+    "purple": "hair-Afro_purple",
+    "pink": "hair-Afro_pink",
+    "rose": "hair-Afro_rose"
+  }
 }

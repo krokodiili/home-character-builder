@@ -33,5 +33,9 @@
         "https://opengameart.org/content/lpc-character-bases"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "zombie": "head-Zombie_zombie_green",
+    "undefined": "head-Zombie_fur_white"
+  }
 }

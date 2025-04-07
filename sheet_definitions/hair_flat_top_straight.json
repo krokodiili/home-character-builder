@@ -73,5 +73,31 @@
         "https://opengameart.org/content/lpc-expanded-sit-run-jump-more"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-Flat_top_straight_blonde",
+    "ash": "hair-Flat_top_straight_ash",
+    "sandy": "hair-Flat_top_straight_sandy",
+    "platinum": "hair-Flat_top_straight_platinum",
+    "strawberry": "hair-Flat_top_straight_strawberry",
+    "redhead": "hair-Flat_top_straight_redhead",
+    "ginger": "hair-Flat_top_straight_ginger",
+    "carrot": "hair-Flat_top_straight_carrot",
+    "chestnut": "hair-Flat_top_straight_chestnut",
+    "undefined": "hair-Flat_top_straight_dark_brown",
+    "black": "hair-Flat_top_straight_black",
+    "raven": "hair-Flat_top_straight_raven",
+    "gray": "hair-Flat_top_straight_gray",
+    "white": "hair-Flat_top_straight_white",
+    "red": "hair-Flat_top_straight_red",
+    "orange": "hair-Flat_top_straight_orange",
+    "gold": "hair-Flat_top_straight_gold",
+    "green": "hair-Flat_top_straight_green",
+    "blue": "hair-Flat_top_straight_blue",
+    "navy": "hair-Flat_top_straight_navy",
+    "violet": "hair-Flat_top_straight_violet",
+    "purple": "hair-Flat_top_straight_purple",
+    "pink": "hair-Flat_top_straight_pink",
+    "rose": "hair-Flat_top_straight_rose"
+  }
 }

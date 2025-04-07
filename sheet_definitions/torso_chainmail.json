@@ -26,5 +26,8 @@
         "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "gray": "chainmail-Chainmail_gray"
+  }
 }

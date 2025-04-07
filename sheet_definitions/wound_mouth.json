@@ -47,5 +47,8 @@
         "https://opengameart.org/content/lpc-zombie"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "mouth": "wound_mouth-Mouth_mouth"
+  }
 }

@@ -72,5 +72,31 @@
         "https://opengameart.org/content/lpc-brunet-mustache"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "mustache-Mustache_blonde",
+    "ash": "mustache-Mustache_ash",
+    "sandy": "mustache-Mustache_sandy",
+    "platinum": "mustache-Mustache_platinum",
+    "strawberry": "mustache-Mustache_strawberry",
+    "redhead": "mustache-Mustache_redhead",
+    "ginger": "mustache-Mustache_ginger",
+    "carrot": "mustache-Mustache_carrot",
+    "chestnut": "mustache-Mustache_chestnut",
+    "undefined": "mustache-Mustache_dark_brown",
+    "black": "mustache-Mustache_black",
+    "raven": "mustache-Mustache_raven",
+    "gray": "mustache-Mustache_gray",
+    "white": "mustache-Mustache_white",
+    "red": "mustache-Mustache_red",
+    "orange": "mustache-Mustache_orange",
+    "gold": "mustache-Mustache_gold",
+    "green": "mustache-Mustache_green",
+    "blue": "mustache-Mustache_blue",
+    "navy": "mustache-Mustache_navy",
+    "violet": "mustache-Mustache_violet",
+    "purple": "mustache-Mustache_purple",
+    "pink": "mustache-Mustache_pink",
+    "rose": "mustache-Mustache_rose"
+  }
 }

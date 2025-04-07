@@ -56,5 +56,31 @@
         "https://github.com/jrconway3/Universal-LPC-spritesheet/commit/c32ce8a7edd9fc7fe7daa62a39cf64e5946020a2"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-Shoulderl_blonde",
+    "ash": "hair-Shoulderl_ash",
+    "sandy": "hair-Shoulderl_sandy",
+    "platinum": "hair-Shoulderl_platinum",
+    "strawberry": "hair-Shoulderl_strawberry",
+    "redhead": "hair-Shoulderl_redhead",
+    "ginger": "hair-Shoulderl_ginger",
+    "carrot": "hair-Shoulderl_carrot",
+    "chestnut": "hair-Shoulderl_chestnut",
+    "undefined": "hair-Shoulderl_dark_brown",
+    "black": "hair-Shoulderl_black",
+    "raven": "hair-Shoulderl_raven",
+    "gray": "hair-Shoulderl_gray",
+    "white": "hair-Shoulderl_white",
+    "red": "hair-Shoulderl_red",
+    "orange": "hair-Shoulderl_orange",
+    "gold": "hair-Shoulderl_gold",
+    "green": "hair-Shoulderl_green",
+    "blue": "hair-Shoulderl_blue",
+    "navy": "hair-Shoulderl_navy",
+    "violet": "hair-Shoulderl_violet",
+    "purple": "hair-Shoulderl_purple",
+    "pink": "hair-Shoulderl_pink",
+    "rose": "hair-Shoulderl_rose"
+  }
 }

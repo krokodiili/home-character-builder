@@ -35,5 +35,8 @@
         "https://opengameart.org/content/lpc-simple-staff"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "simple": "weapon-Simple_staff_simple"
+  }
 }

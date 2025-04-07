@@ -102,5 +102,31 @@
         "https://opengameart.org/content/lpc-expanded-pants"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "base": "legs-Striped_Formal_Pants_base",
+    "black": "legs-Striped_Formal_Pants_black",
+    "blue": "legs-Striped_Formal_Pants_bluegray",
+    "brown": "legs-Striped_Formal_Pants_brown",
+    "charcoal": "legs-Striped_Formal_Pants_charcoal",
+    "forest": "legs-Striped_Formal_Pants_forest",
+    "gray": "legs-Striped_Formal_Pants_gray",
+    "green": "legs-Striped_Formal_Pants_green",
+    "lavender": "legs-Striped_Formal_Pants_lavender",
+    "leather": "legs-Striped_Formal_Pants_leather",
+    "maroon": "legs-Striped_Formal_Pants_maroon",
+    "navy": "legs-Striped_Formal_Pants_navy",
+    "orange": "legs-Striped_Formal_Pants_orange",
+    "pink": "legs-Striped_Formal_Pants_pink",
+    "purple": "legs-Striped_Formal_Pants_purple",
+    "red": "legs-Striped_Formal_Pants_red",
+    "rose": "legs-Striped_Formal_Pants_rose",
+    "sky": "legs-Striped_Formal_Pants_sky",
+    "slate": "legs-Striped_Formal_Pants_slate",
+    "tan": "legs-Striped_Formal_Pants_tan",
+    "teal": "legs-Striped_Formal_Pants_teal",
+    "walnut": "legs-Striped_Formal_Pants_walnut",
+    "white": "legs-Striped_Formal_Pants_white",
+    "yellow": "legs-Striped_Formal_Pants_yellow"
+  }
 }

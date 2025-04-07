@@ -63,5 +63,23 @@
         "http://opengameart.org/content/lpc-clothing-updates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "shoes-Hoofs_light",
+    "amber": "shoes-Hoofs_amber",
+    "olive": "shoes-Hoofs_olive",
+    "taupe": "shoes-Hoofs_taupe",
+    "bronze": "shoes-Hoofs_bronze",
+    "brown": "shoes-Hoofs_fur_brown",
+    "black": "shoes-Hoofs_fur_black",
+    "lavender": "shoes-Hoofs_lavender",
+    "blue": "shoes-Hoofs_blue",
+    "zombie_green": "shoes-Hoofs_zombie_green",
+    "green": "shoes-Hoofs_dark_green",
+    "fur_tan": "shoes-Hoofs_fur_tan",
+    "fur_copper": "shoes-Hoofs_fur_copper",
+    "fur_gold": "shoes-Hoofs_fur_gold",
+    "fur_grey": "shoes-Hoofs_fur_grey",
+    "fur_white": "shoes-Hoofs_fur_white"
+  }
 }

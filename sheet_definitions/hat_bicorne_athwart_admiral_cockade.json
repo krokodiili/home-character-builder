@@ -70,5 +70,30 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "hat_accessory-Bicorne_Athwart_Admiral_Cockade_black",
+    "blue": "hat_accessory-Bicorne_Athwart_Admiral_Cockade_bluegray",
+    "brown": "hat_accessory-Bicorne_Athwart_Admiral_Cockade_brown",
+    "charcoal": "hat_accessory-Bicorne_Athwart_Admiral_Cockade_charcoal",
+    "forest": "hat_accessory-Bicorne_Athwart_Admiral_Cockade_forest",
+    "gray": "hat_accessory-Bicorne_Athwart_Admiral_Cockade_gray",
+    "green": "hat_accessory-Bicorne_Athwart_Admiral_Cockade_green",
+    "lavender": "hat_accessory-Bicorne_Athwart_Admiral_Cockade_lavender",
+    "leather": "hat_accessory-Bicorne_Athwart_Admiral_Cockade_leather",
+    "maroon": "hat_accessory-Bicorne_Athwart_Admiral_Cockade_maroon",
+    "navy": "hat_accessory-Bicorne_Athwart_Admiral_Cockade_navy",
+    "orange": "hat_accessory-Bicorne_Athwart_Admiral_Cockade_orange",
+    "pink": "hat_accessory-Bicorne_Athwart_Admiral_Cockade_pink",
+    "purple": "hat_accessory-Bicorne_Athwart_Admiral_Cockade_purple",
+    "red": "hat_accessory-Bicorne_Athwart_Admiral_Cockade_red",
+    "rose": "hat_accessory-Bicorne_Athwart_Admiral_Cockade_rose",
+    "sky": "hat_accessory-Bicorne_Athwart_Admiral_Cockade_sky",
+    "slate": "hat_accessory-Bicorne_Athwart_Admiral_Cockade_slate",
+    "tan": "hat_accessory-Bicorne_Athwart_Admiral_Cockade_tan",
+    "teal": "hat_accessory-Bicorne_Athwart_Admiral_Cockade_teal",
+    "walnut": "hat_accessory-Bicorne_Athwart_Admiral_Cockade_walnut",
+    "white": "hat_accessory-Bicorne_Athwart_Admiral_Cockade_white",
+    "yellow": "hat_accessory-Bicorne_Athwart_Admiral_Cockade_yellow"
+  }
 }

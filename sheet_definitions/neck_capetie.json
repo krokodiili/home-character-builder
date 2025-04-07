@@ -52,5 +52,30 @@
         "https://opengameart.org/content/lpc-curly-hair-elven-ears-white-cape-with-blue-trim-and-more"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "neck-Capetie_black",
+    "blue": "neck-Capetie_bluegray",
+    "brown": "neck-Capetie_brown",
+    "charcoal": "neck-Capetie_charcoal",
+    "forest": "neck-Capetie_forest",
+    "gray": "neck-Capetie_gray",
+    "green": "neck-Capetie_green",
+    "lavender": "neck-Capetie_lavender",
+    "leather": "neck-Capetie_leather",
+    "maroon": "neck-Capetie_maroon",
+    "navy": "neck-Capetie_navy",
+    "orange": "neck-Capetie_orange",
+    "pink": "neck-Capetie_pink",
+    "purple": "neck-Capetie_purple",
+    "red": "neck-Capetie_red",
+    "rose": "neck-Capetie_rose",
+    "sky": "neck-Capetie_sky",
+    "slate": "neck-Capetie_slate",
+    "tan": "neck-Capetie_tan",
+    "teal": "neck-Capetie_teal",
+    "walnut": "neck-Capetie_walnut",
+    "white": "neck-Capetie_white",
+    "yellow": "neck-Capetie_yellow"
+  }
 }

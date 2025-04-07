@@ -1,7 +1,10 @@
 {
   "name": "Orc female",
   "type_name": "head",
-  "tags": ["orc", "adult"],
+  "tags": [
+    "orc",
+    "adult"
+  ],
   "layer_1": {
     "zPos": 100,
     "male": "head/heads/orc/female/",
@@ -68,5 +71,18 @@
         "https://opengameart.org/content/lpc-character-bases"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "head-Orc_female_light",
+    "amber": "head-Orc_female_amber",
+    "olive": "head-Orc_female_olive",
+    "taupe": "head-Orc_female_taupe",
+    "bronze": "head-Orc_female_bronze",
+    "brown": "head-Orc_female_brown",
+    "black": "head-Orc_female_black",
+    "lavender": "head-Orc_female_lavender",
+    "blue": "head-Orc_female_blue",
+    "zombie_green": "head-Orc_female_zombie_green",
+    "green": "head-Orc_female_dark_green"
+  }
 }

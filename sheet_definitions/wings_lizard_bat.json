@@ -1,7 +1,9 @@
 {
   "name": "Batlike Lizard Wings",
   "type_name": "wings",
-  "tags": ["wings"],
+  "tags": [
+    "wings"
+  ],
   "layer_1": {
     "zPos": 105,
     "male": "body/wings/bat/lizard/adult/fg/",
@@ -76,5 +78,23 @@
         "https://opengameart.org/content/lpc-wings-new-animations"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "wings-Batlike_Lizard_Wings_light",
+    "amber": "wings-Batlike_Lizard_Wings_amber",
+    "olive": "wings-Batlike_Lizard_Wings_olive",
+    "taupe": "wings-Batlike_Lizard_Wings_taupe",
+    "bronze": "wings-Batlike_Lizard_Wings_bronze",
+    "brown": "wings-Batlike_Lizard_Wings_fur_brown",
+    "black": "wings-Batlike_Lizard_Wings_fur_black",
+    "lavender": "wings-Batlike_Lizard_Wings_lavender",
+    "blue": "wings-Batlike_Lizard_Wings_blue",
+    "zombie_green": "wings-Batlike_Lizard_Wings_zombie_green",
+    "green": "wings-Batlike_Lizard_Wings_dark_green",
+    "fur_tan": "wings-Batlike_Lizard_Wings_fur_tan",
+    "fur_copper": "wings-Batlike_Lizard_Wings_fur_copper",
+    "fur_gold": "wings-Batlike_Lizard_Wings_fur_gold",
+    "fur_grey": "wings-Batlike_Lizard_Wings_fur_grey",
+    "fur_white": "wings-Batlike_Lizard_Wings_fur_white"
+  }
 }

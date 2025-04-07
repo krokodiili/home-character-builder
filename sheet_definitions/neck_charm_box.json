@@ -33,5 +33,15 @@
         "https://opengameart.org/content/lpc-jewelry"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "steel": "charm-Box_Charm_steel",
+    "iron": "charm-Box_Charm_iron",
+    "ceramic": "charm-Box_Charm_ceramic",
+    "brass": "charm-Box_Charm_brass",
+    "copper": "charm-Box_Charm_copper",
+    "bronze": "charm-Box_Charm_bronze",
+    "silver": "charm-Box_Charm_silver",
+    "gold": "charm-Box_Charm_gold"
+  }
 }

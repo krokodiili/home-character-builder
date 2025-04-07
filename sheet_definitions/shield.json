@@ -285,5 +285,10 @@
         "https://opengameart.org/content/lpc-shields-pack"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "crusader": "shield-Shield_crusader",
+    "spartan": "shield-Shield_spartan",
+    "undefined": "shield-Shield_round_yellow"
+  }
 }

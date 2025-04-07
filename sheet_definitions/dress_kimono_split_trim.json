@@ -1,8 +1,13 @@
 {
   "name": "Split Kimono Trim",
   "type_name": "dress_trim",
-  "tags": ["dress", "kimono_trim"],
-  "required_tags": ["kimono_split"],
+  "tags": [
+    "dress",
+    "kimono_trim"
+  ],
+  "required_tags": [
+    "kimono_split"
+  ],
   "layer_1": {
     "zPos": 31,
     "female": "dress/kimono/split/trim/universal/female/",
@@ -52,5 +57,30 @@
         "https://opengameart.org/content/lpc-kimono-relm"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "dress_trim-Split_Kimono_Trim_black",
+    "blue": "dress_trim-Split_Kimono_Trim_bluegray",
+    "brown": "dress_trim-Split_Kimono_Trim_brown",
+    "charcoal": "dress_trim-Split_Kimono_Trim_charcoal",
+    "forest": "dress_trim-Split_Kimono_Trim_forest",
+    "gray": "dress_trim-Split_Kimono_Trim_gray",
+    "green": "dress_trim-Split_Kimono_Trim_green",
+    "lavender": "dress_trim-Split_Kimono_Trim_lavender",
+    "leather": "dress_trim-Split_Kimono_Trim_leather",
+    "maroon": "dress_trim-Split_Kimono_Trim_maroon",
+    "navy": "dress_trim-Split_Kimono_Trim_navy",
+    "orange": "dress_trim-Split_Kimono_Trim_orange",
+    "pink": "dress_trim-Split_Kimono_Trim_pink",
+    "purple": "dress_trim-Split_Kimono_Trim_purple",
+    "red": "dress_trim-Split_Kimono_Trim_red",
+    "rose": "dress_trim-Split_Kimono_Trim_rose",
+    "sky": "dress_trim-Split_Kimono_Trim_sky",
+    "slate": "dress_trim-Split_Kimono_Trim_slate",
+    "tan": "dress_trim-Split_Kimono_Trim_tan",
+    "teal": "dress_trim-Split_Kimono_Trim_teal",
+    "walnut": "dress_trim-Split_Kimono_Trim_walnut",
+    "white": "dress_trim-Split_Kimono_Trim_white",
+    "yellow": "dress_trim-Split_Kimono_Trim_yellow"
+  }
 }

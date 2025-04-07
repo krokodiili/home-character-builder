@@ -47,5 +47,8 @@
         "https://opengameart.org/content/lpc-zombie"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "brain": "wound_brain-Brain_brain"
+  }
 }

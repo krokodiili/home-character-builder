@@ -52,5 +52,8 @@
         "https://opengameart.org/content/lpc-extended-weapon-animations"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "saber": "weapon-Saber_saber"
+  }
 }

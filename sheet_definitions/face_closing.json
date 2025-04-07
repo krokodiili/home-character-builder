@@ -1,8 +1,12 @@
 {
   "name": "Closing Eyes",
   "type_name": "expression",
-  "tags": ["expression"],
-  "required_tags": ["human"],
+  "tags": [
+    "expression"
+  ],
+  "required_tags": [
+    "human"
+  ],
   "replace_in_path": {
     "head": {
       "Human_male": "male",
@@ -133,5 +137,24 @@
         "https://opengameart.org/content/ulpc-expanded-expressions"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "expression-Closing_Eyes_light",
+    "amber": "expression-Closing_Eyes_amber",
+    "olive": "expression-Closing_Eyes_olive",
+    "taupe": "expression-Closing_Eyes_taupe",
+    "bronze": "expression-Closing_Eyes_bronze",
+    "brown": "expression-Closing_Eyes_fur_brown",
+    "black": "expression-Closing_Eyes_fur_black",
+    "lavender": "expression-Closing_Eyes_lavender",
+    "blue": "expression-Closing_Eyes_blue",
+    "zombie_green": "expression-Closing_Eyes_zombie_green",
+    "green": "expression-Closing_Eyes_dark_green",
+    "fur_tan": "expression-Closing_Eyes_fur_tan",
+    "fur_copper": "expression-Closing_Eyes_fur_copper",
+    "fur_gold": "expression-Closing_Eyes_fur_gold",
+    "fur_grey": "expression-Closing_Eyes_fur_grey",
+    "fur_white": "expression-Closing_Eyes_fur_white",
+    "zombie": "expression-Closing_Eyes_zombie"
+  }
 }

@@ -92,5 +92,30 @@
         "https://opengameart.org/content/lpc-expanded-pants"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "leather": "legs-Hose_leather",
+    "black": "legs-Hose_black",
+    "blue": "legs-Hose_bluegray",
+    "brown": "legs-Hose_brown",
+    "charcoal": "legs-Hose_charcoal",
+    "forest": "legs-Hose_forest",
+    "gray": "legs-Hose_gray",
+    "green": "legs-Hose_green",
+    "lavender": "legs-Hose_lavender",
+    "maroon": "legs-Hose_maroon",
+    "navy": "legs-Hose_navy",
+    "orange": "legs-Hose_orange",
+    "pink": "legs-Hose_pink",
+    "purple": "legs-Hose_purple",
+    "red": "legs-Hose_red",
+    "rose": "legs-Hose_rose",
+    "sky": "legs-Hose_sky",
+    "slate": "legs-Hose_slate",
+    "tan": "legs-Hose_tan",
+    "teal": "legs-Hose_teal",
+    "walnut": "legs-Hose_walnut",
+    "white": "legs-Hose_white",
+    "yellow": "legs-Hose_yellow"
+  }
 }

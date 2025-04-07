@@ -27,5 +27,8 @@
         "https://opengameart.org/content/shadow-for-lpc-sprite"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "shadow": "shadow-Shadow_shadow"
+  }
 }

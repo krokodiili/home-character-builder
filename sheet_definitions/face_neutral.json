@@ -1,8 +1,12 @@
 {
   "name": "Neutral",
   "type_name": "expression",
-  "tags": ["expression"],
-  "required_tags": ["human"],
+  "tags": [
+    "expression"
+  ],
+  "required_tags": [
+    "human"
+  ],
   "replace_in_path": {
     "head": {
       "Human_male": "male",
@@ -138,5 +142,24 @@
         "https://opengameart.org/content/ulpc-expanded-expressions"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "expression-Neutral_light",
+    "amber": "expression-Neutral_amber",
+    "olive": "expression-Neutral_olive",
+    "taupe": "expression-Neutral_taupe",
+    "bronze": "expression-Neutral_bronze",
+    "brown": "expression-Neutral_fur_brown",
+    "black": "expression-Neutral_fur_black",
+    "lavender": "expression-Neutral_lavender",
+    "blue": "expression-Neutral_blue",
+    "zombie_green": "expression-Neutral_zombie_green",
+    "green": "expression-Neutral_dark_green",
+    "fur_tan": "expression-Neutral_fur_tan",
+    "fur_copper": "expression-Neutral_fur_copper",
+    "fur_gold": "expression-Neutral_fur_gold",
+    "fur_grey": "expression-Neutral_fur_grey",
+    "fur_white": "expression-Neutral_fur_white",
+    "zombie": "expression-Neutral_zombie"
+  }
 }

@@ -1,7 +1,11 @@
 {
   "name": "Boarman",
   "type_name": "head",
-  "tags": ["animal", "boarman", "adult"],
+  "tags": [
+    "animal",
+    "boarman",
+    "adult"
+  ],
   "layer_1": {
     "zPos": 100,
     "male": "head/heads/boarman/adult/",
@@ -72,5 +76,26 @@
         "https://opengameart.org/content/lpc-boarman"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "fur_black": "head-Boarman_fur_black",
+    "fur_brown": "head-Boarman_fur_brown",
+    "fur_tan": "head-Boarman_fur_tan",
+    "fur_copper": "head-Boarman_fur_copper",
+    "fur_gold": "head-Boarman_fur_gold",
+    "fur_grey": "head-Boarman_fur_grey",
+    "fur_white": "head-Boarman_fur_white",
+    "light": "head-Boarman_light",
+    "amber": "head-Boarman_amber",
+    "olive": "head-Boarman_olive",
+    "taupe": "head-Boarman_taupe",
+    "bronze": "head-Boarman_bronze",
+    "brown": "head-Boarman_brown",
+    "black": "head-Boarman_black",
+    "lavender": "head-Boarman_lavender",
+    "blue": "head-Boarman_blue",
+    "zombie_green": "head-Boarman_zombie_green",
+    "green": "head-Boarman_dark_green",
+    "zombie": "head-Boarman_zombie"
+  }
 }

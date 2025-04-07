@@ -72,5 +72,31 @@
         "https://opengameart.org/content/lpc-white-beard"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "beard-Basic_Beard_blonde",
+    "ash": "beard-Basic_Beard_ash",
+    "sandy": "beard-Basic_Beard_sandy",
+    "platinum": "beard-Basic_Beard_platinum",
+    "strawberry": "beard-Basic_Beard_strawberry",
+    "redhead": "beard-Basic_Beard_redhead",
+    "ginger": "beard-Basic_Beard_ginger",
+    "carrot": "beard-Basic_Beard_carrot",
+    "chestnut": "beard-Basic_Beard_chestnut",
+    "undefined": "beard-Basic_Beard_dark_brown",
+    "black": "beard-Basic_Beard_black",
+    "raven": "beard-Basic_Beard_raven",
+    "gray": "beard-Basic_Beard_gray",
+    "white": "beard-Basic_Beard_white",
+    "red": "beard-Basic_Beard_red",
+    "orange": "beard-Basic_Beard_orange",
+    "gold": "beard-Basic_Beard_gold",
+    "green": "beard-Basic_Beard_green",
+    "blue": "beard-Basic_Beard_blue",
+    "navy": "beard-Basic_Beard_navy",
+    "violet": "beard-Basic_Beard_violet",
+    "purple": "beard-Basic_Beard_purple",
+    "pink": "beard-Basic_Beard_pink",
+    "rose": "beard-Basic_Beard_rose"
+  }
 }

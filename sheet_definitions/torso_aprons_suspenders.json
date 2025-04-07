@@ -70,5 +70,30 @@
         "https://opengameart.org/content/lpc-expanded-sit-run-jump-more"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "overalls-Suspenders_black",
+    "blue": "overalls-Suspenders_bluegray",
+    "brown": "overalls-Suspenders_brown",
+    "charcoal": "overalls-Suspenders_charcoal",
+    "forest": "overalls-Suspenders_forest",
+    "gray": "overalls-Suspenders_gray",
+    "green": "overalls-Suspenders_green",
+    "lavender": "overalls-Suspenders_lavender",
+    "leather": "overalls-Suspenders_leather",
+    "maroon": "overalls-Suspenders_maroon",
+    "navy": "overalls-Suspenders_navy",
+    "orange": "overalls-Suspenders_orange",
+    "pink": "overalls-Suspenders_pink",
+    "purple": "overalls-Suspenders_purple",
+    "red": "overalls-Suspenders_red",
+    "rose": "overalls-Suspenders_rose",
+    "sky": "overalls-Suspenders_sky",
+    "slate": "overalls-Suspenders_slate",
+    "tan": "overalls-Suspenders_tan",
+    "teal": "overalls-Suspenders_teal",
+    "walnut": "overalls-Suspenders_walnut",
+    "white": "overalls-Suspenders_white",
+    "yellow": "overalls-Suspenders_yellow"
+  }
 }

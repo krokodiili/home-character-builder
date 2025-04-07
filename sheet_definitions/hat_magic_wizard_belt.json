@@ -1,8 +1,13 @@
 {
   "name": "Wizard Hat Belt",
   "type_name": "hat_trim",
-  "tags": ["wizard", "hat_trim"],
-  "required_tags": ["pointed_wizard"],
+  "tags": [
+    "wizard",
+    "hat_trim"
+  ],
+  "required_tags": [
+    "pointed_wizard"
+  ],
   "layer_1": {
     "zPos": 131,
     "male": "hat/magic/wizard/belt/adult/",
@@ -82,5 +87,36 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "base_black": "hat_trim-Wizard_Hat_Belt_base_black",
+    "base_brown": "hat_trim-Wizard_Hat_Belt_base_brown",
+    "base_gray": "hat_trim-Wizard_Hat_Belt_base_gray",
+    "base_maroon": "hat_trim-Wizard_Hat_Belt_base_maroon",
+    "base_teal": "hat_trim-Wizard_Hat_Belt_base_teal",
+    "base_yellow": "hat_trim-Wizard_Hat_Belt_base_yellow",
+    "white": "hat_trim-Wizard_Hat_Belt_white",
+    "black": "hat_trim-Wizard_Hat_Belt_black",
+    "blue": "hat_trim-Wizard_Hat_Belt_bluegray",
+    "brown": "hat_trim-Wizard_Hat_Belt_brown",
+    "charcoal": "hat_trim-Wizard_Hat_Belt_charcoal",
+    "forest": "hat_trim-Wizard_Hat_Belt_forest",
+    "gray": "hat_trim-Wizard_Hat_Belt_gray",
+    "green": "hat_trim-Wizard_Hat_Belt_green",
+    "lavender": "hat_trim-Wizard_Hat_Belt_lavender",
+    "leather": "hat_trim-Wizard_Hat_Belt_leather",
+    "maroon": "hat_trim-Wizard_Hat_Belt_maroon",
+    "navy": "hat_trim-Wizard_Hat_Belt_navy",
+    "orange": "hat_trim-Wizard_Hat_Belt_orange",
+    "pink": "hat_trim-Wizard_Hat_Belt_pink",
+    "purple": "hat_trim-Wizard_Hat_Belt_purple",
+    "red": "hat_trim-Wizard_Hat_Belt_red",
+    "rose": "hat_trim-Wizard_Hat_Belt_rose",
+    "sky": "hat_trim-Wizard_Hat_Belt_sky",
+    "slate": "hat_trim-Wizard_Hat_Belt_slate",
+    "tan": "hat_trim-Wizard_Hat_Belt_tan",
+    "teal": "hat_trim-Wizard_Hat_Belt_teal",
+    "walnut": "hat_trim-Wizard_Hat_Belt_walnut",
+    "yellow": "hat_trim-Wizard_Hat_Belt_yellow"
+  }
 }

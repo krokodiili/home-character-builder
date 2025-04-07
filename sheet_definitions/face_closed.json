@@ -1,8 +1,12 @@
 {
   "name": "Closed Eyes",
   "type_name": "expression",
-  "tags": ["expression"],
-  "required_tags": ["human"],
+  "tags": [
+    "expression"
+  ],
+  "required_tags": [
+    "human"
+  ],
   "replace_in_path": {
     "head": {
       "Human_male": "male",
@@ -133,5 +137,24 @@
         "https://opengameart.org/content/ulpc-expanded-expressions"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "expression-Closed_Eyes_light",
+    "amber": "expression-Closed_Eyes_amber",
+    "olive": "expression-Closed_Eyes_olive",
+    "taupe": "expression-Closed_Eyes_taupe",
+    "bronze": "expression-Closed_Eyes_bronze",
+    "brown": "expression-Closed_Eyes_fur_brown",
+    "black": "expression-Closed_Eyes_fur_black",
+    "lavender": "expression-Closed_Eyes_lavender",
+    "blue": "expression-Closed_Eyes_blue",
+    "zombie_green": "expression-Closed_Eyes_zombie_green",
+    "green": "expression-Closed_Eyes_dark_green",
+    "fur_tan": "expression-Closed_Eyes_fur_tan",
+    "fur_copper": "expression-Closed_Eyes_fur_copper",
+    "fur_gold": "expression-Closed_Eyes_fur_gold",
+    "fur_grey": "expression-Closed_Eyes_fur_grey",
+    "fur_white": "expression-Closed_Eyes_fur_white",
+    "zombie": "expression-Closed_Eyes_zombie"
+  }
 }

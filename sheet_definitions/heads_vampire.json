@@ -1,7 +1,10 @@
 {
   "name": "Vampire",
   "type_name": "head",
-  "tags": ["monster", "vampire"],
+  "tags": [
+    "monster",
+    "vampire"
+  ],
   "layer_1": {
     "zPos": 100,
     "male": "head/heads/vampire/adult/",
@@ -72,5 +75,24 @@
         "https://opengameart.org/content/lpc-folk"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "head-Vampire_light",
+    "amber": "head-Vampire_amber",
+    "olive": "head-Vampire_olive",
+    "taupe": "head-Vampire_taupe",
+    "bronze": "head-Vampire_bronze",
+    "brown": "head-Vampire_fur_brown",
+    "black": "head-Vampire_fur_black",
+    "lavender": "head-Vampire_lavender",
+    "blue": "head-Vampire_blue",
+    "zombie_green": "head-Vampire_zombie_green",
+    "green": "head-Vampire_dark_green",
+    "zombie": "head-Vampire_zombie",
+    "fur_tan": "head-Vampire_fur_tan",
+    "fur_copper": "head-Vampire_fur_copper",
+    "fur_gold": "head-Vampire_fur_gold",
+    "fur_grey": "head-Vampire_fur_grey",
+    "fur_white": "head-Vampire_fur_white"
+  }
 }

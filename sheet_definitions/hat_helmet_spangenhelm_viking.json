@@ -57,5 +57,15 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "steel": "hat-Viking_spangenhelm_steel",
+    "iron": "hat-Viking_spangenhelm_iron",
+    "ceramic": "hat-Viking_spangenhelm_ceramic",
+    "brass": "hat-Viking_spangenhelm_brass",
+    "copper": "hat-Viking_spangenhelm_copper",
+    "bronze": "hat-Viking_spangenhelm_bronze",
+    "silver": "hat-Viking_spangenhelm_silver",
+    "gold": "hat-Viking_spangenhelm_gold"
+  }
 }

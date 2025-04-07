@@ -70,5 +70,30 @@
         "https://opengameart.org/content/lpc-expanded-sit-run-jump-more"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "clothes-Sleeveless_2_Buttoned_black",
+    "blue": "clothes-Sleeveless_2_Buttoned_bluegray",
+    "brown": "clothes-Sleeveless_2_Buttoned_brown",
+    "charcoal": "clothes-Sleeveless_2_Buttoned_charcoal",
+    "forest": "clothes-Sleeveless_2_Buttoned_forest",
+    "gray": "clothes-Sleeveless_2_Buttoned_gray",
+    "green": "clothes-Sleeveless_2_Buttoned_green",
+    "lavender": "clothes-Sleeveless_2_Buttoned_lavender",
+    "leather": "clothes-Sleeveless_2_Buttoned_leather",
+    "maroon": "clothes-Sleeveless_2_Buttoned_maroon",
+    "navy": "clothes-Sleeveless_2_Buttoned_navy",
+    "orange": "clothes-Sleeveless_2_Buttoned_orange",
+    "pink": "clothes-Sleeveless_2_Buttoned_pink",
+    "purple": "clothes-Sleeveless_2_Buttoned_purple",
+    "red": "clothes-Sleeveless_2_Buttoned_red",
+    "rose": "clothes-Sleeveless_2_Buttoned_rose",
+    "sky": "clothes-Sleeveless_2_Buttoned_sky",
+    "slate": "clothes-Sleeveless_2_Buttoned_slate",
+    "tan": "clothes-Sleeveless_2_Buttoned_tan",
+    "teal": "clothes-Sleeveless_2_Buttoned_teal",
+    "walnut": "clothes-Sleeveless_2_Buttoned_walnut",
+    "white": "clothes-Sleeveless_2_Buttoned_white",
+    "yellow": "clothes-Sleeveless_2_Buttoned_yellow"
+  }
 }

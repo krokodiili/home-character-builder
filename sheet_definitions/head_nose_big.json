@@ -70,5 +70,24 @@
         "https://opengameart.org/content/lpc-base-character-expressions"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "nose-Big_nose_light",
+    "amber": "nose-Big_nose_amber",
+    "olive": "nose-Big_nose_olive",
+    "taupe": "nose-Big_nose_taupe",
+    "bronze": "nose-Big_nose_bronze",
+    "brown": "nose-Big_nose_fur_brown",
+    "black": "nose-Big_nose_fur_black",
+    "lavender": "nose-Big_nose_lavender",
+    "blue": "nose-Big_nose_blue",
+    "zombie_green": "nose-Big_nose_zombie_green",
+    "green": "nose-Big_nose_dark_green",
+    "fur_tan": "nose-Big_nose_fur_tan",
+    "fur_copper": "nose-Big_nose_fur_copper",
+    "fur_gold": "nose-Big_nose_fur_gold",
+    "fur_grey": "nose-Big_nose_fur_grey",
+    "fur_white": "nose-Big_nose_fur_white",
+    "zombie": "nose-Big_nose_zombie"
+  }
 }

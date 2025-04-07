@@ -73,5 +73,30 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "hat_accessory-Leather_Cap_Feather_black",
+    "blue": "hat_accessory-Leather_Cap_Feather_bluegray",
+    "brown": "hat_accessory-Leather_Cap_Feather_brown",
+    "charcoal": "hat_accessory-Leather_Cap_Feather_charcoal",
+    "forest": "hat_accessory-Leather_Cap_Feather_forest",
+    "gray": "hat_accessory-Leather_Cap_Feather_gray",
+    "green": "hat_accessory-Leather_Cap_Feather_green",
+    "lavender": "hat_accessory-Leather_Cap_Feather_lavender",
+    "leather": "hat_accessory-Leather_Cap_Feather_leather",
+    "maroon": "hat_accessory-Leather_Cap_Feather_maroon",
+    "navy": "hat_accessory-Leather_Cap_Feather_navy",
+    "orange": "hat_accessory-Leather_Cap_Feather_orange",
+    "pink": "hat_accessory-Leather_Cap_Feather_pink",
+    "purple": "hat_accessory-Leather_Cap_Feather_purple",
+    "red": "hat_accessory-Leather_Cap_Feather_red",
+    "rose": "hat_accessory-Leather_Cap_Feather_rose",
+    "sky": "hat_accessory-Leather_Cap_Feather_sky",
+    "slate": "hat_accessory-Leather_Cap_Feather_slate",
+    "tan": "hat_accessory-Leather_Cap_Feather_tan",
+    "teal": "hat_accessory-Leather_Cap_Feather_teal",
+    "walnut": "hat_accessory-Leather_Cap_Feather_walnut",
+    "white": "hat_accessory-Leather_Cap_Feather_white",
+    "yellow": "hat_accessory-Leather_Cap_Feather_yellow"
+  }
 }

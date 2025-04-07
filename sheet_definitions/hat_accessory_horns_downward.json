@@ -83,5 +83,38 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "steel": "accessory-Downward_Horns_steel",
+    "iron": "accessory-Downward_Horns_iron",
+    "ceramic": "accessory-Downward_Horns_ceramic",
+    "brass": "accessory-Downward_Horns_brass",
+    "copper": "accessory-Downward_Horns_copper",
+    "bronze": "accessory-Downward_Horns_bronze",
+    "silver": "accessory-Downward_Horns_silver",
+    "gold": "accessory-Downward_Horns_gold",
+    "black": "accessory-Downward_Horns_black",
+    "blue": "accessory-Downward_Horns_bluegray",
+    "brown": "accessory-Downward_Horns_brown",
+    "charcoal": "accessory-Downward_Horns_charcoal",
+    "forest": "accessory-Downward_Horns_forest",
+    "gray": "accessory-Downward_Horns_gray",
+    "green": "accessory-Downward_Horns_green",
+    "lavender": "accessory-Downward_Horns_lavender",
+    "leather": "accessory-Downward_Horns_leather",
+    "maroon": "accessory-Downward_Horns_maroon",
+    "navy": "accessory-Downward_Horns_navy",
+    "orange": "accessory-Downward_Horns_orange",
+    "pink": "accessory-Downward_Horns_pink",
+    "purple": "accessory-Downward_Horns_purple",
+    "red": "accessory-Downward_Horns_red",
+    "rose": "accessory-Downward_Horns_rose",
+    "sky": "accessory-Downward_Horns_sky",
+    "slate": "accessory-Downward_Horns_slate",
+    "tan": "accessory-Downward_Horns_tan",
+    "teal": "accessory-Downward_Horns_teal",
+    "walnut": "accessory-Downward_Horns_walnut",
+    "white": "accessory-Downward_Horns_white",
+    "yellow": "accessory-Downward_Horns_yellow"
+  }
 }

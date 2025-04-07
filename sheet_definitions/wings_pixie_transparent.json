@@ -1,7 +1,9 @@
 {
   "name": "Transparent Pixie Wings",
   "type_name": "wings",
-  "tags": ["wings"],
+  "tags": [
+    "wings"
+  ],
   "layer_1": {
     "zPos": 140,
     "male": "body/wings/pixie/transparent/fg/",
@@ -66,5 +68,33 @@
         "https://opengameart.org/content/lpc-fairy-wings"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "pixie": "wings-Transparent_Pixie_Wings_pixie",
+    "amber": "wings-Transparent_Pixie_Wings_amber",
+    "black": "wings-Transparent_Pixie_Wings_black",
+    "blue": "wings-Transparent_Pixie_Wings_bluegray",
+    "bright_green": "wings-Transparent_Pixie_Wings_bright_green",
+    "bronze": "wings-Transparent_Pixie_Wings_bronze",
+    "brown": "wings-Transparent_Pixie_Wings_brown",
+    "ceramic": "wings-Transparent_Pixie_Wings_ceramic",
+    "forest": "wings-Transparent_Pixie_Wings_forest",
+    "gold": "wings-Transparent_Pixie_Wings_gold",
+    "green": "wings-Transparent_Pixie_Wings_zombie_green",
+    "iron": "wings-Transparent_Pixie_Wings_iron",
+    "lavender": "wings-Transparent_Pixie_Wings_lavender",
+    "light": "wings-Transparent_Pixie_Wings_light",
+    "maroon": "wings-Transparent_Pixie_Wings_maroon",
+    "navy": "wings-Transparent_Pixie_Wings_navy",
+    "orange": "wings-Transparent_Pixie_Wings_orange",
+    "pink": "wings-Transparent_Pixie_Wings_pink",
+    "purple": "wings-Transparent_Pixie_Wings_purple",
+    "red": "wings-Transparent_Pixie_Wings_red",
+    "rose": "wings-Transparent_Pixie_Wings_rose",
+    "silver": "wings-Transparent_Pixie_Wings_silver",
+    "sky": "wings-Transparent_Pixie_Wings_sky",
+    "teal": "wings-Transparent_Pixie_Wings_teal",
+    "white": "wings-Transparent_Pixie_Wings_white",
+    "yellow": "wings-Transparent_Pixie_Wings_yellow"
+  }
 }

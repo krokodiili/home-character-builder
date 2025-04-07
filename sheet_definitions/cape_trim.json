@@ -1,8 +1,13 @@
 {
   "name": "Cape Trim",
   "type_name": "cape_trim",
-  "tags": ["back", "cape_trim"],
-  "required_tags": ["cape"],
+  "tags": [
+    "back",
+    "cape_trim"
+  ],
+  "required_tags": [
+    "cape"
+  ],
   "layer_1": {
     "zPos": 90,
     "male": "cape/trim/female/",
@@ -55,5 +60,30 @@
         "http://opengameart.org/content/lpc-clothing-updates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "cape_trim-Cape_Trim_black",
+    "blue": "cape_trim-Cape_Trim_bluegray",
+    "brown": "cape_trim-Cape_Trim_brown",
+    "charcoal": "cape_trim-Cape_Trim_charcoal",
+    "forest": "cape_trim-Cape_Trim_forest",
+    "gray": "cape_trim-Cape_Trim_gray",
+    "green": "cape_trim-Cape_Trim_green",
+    "lavender": "cape_trim-Cape_Trim_lavender",
+    "leather": "cape_trim-Cape_Trim_leather",
+    "maroon": "cape_trim-Cape_Trim_maroon",
+    "navy": "cape_trim-Cape_Trim_navy",
+    "orange": "cape_trim-Cape_Trim_orange",
+    "pink": "cape_trim-Cape_Trim_pink",
+    "purple": "cape_trim-Cape_Trim_purple",
+    "red": "cape_trim-Cape_Trim_red",
+    "rose": "cape_trim-Cape_Trim_rose",
+    "sky": "cape_trim-Cape_Trim_sky",
+    "slate": "cape_trim-Cape_Trim_slate",
+    "tan": "cape_trim-Cape_Trim_tan",
+    "teal": "cape_trim-Cape_Trim_teal",
+    "walnut": "cape_trim-Cape_Trim_walnut",
+    "white": "cape_trim-Cape_Trim_white",
+    "yellow": "cape_trim-Cape_Trim_yellow"
+  }
 }

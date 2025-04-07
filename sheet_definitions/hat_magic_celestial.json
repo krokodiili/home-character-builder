@@ -1,7 +1,10 @@
 {
   "name": "Celestial Wizard Hat",
   "type_name": "hat",
-  "tags": ["wizard", "celestial"],
+  "tags": [
+    "wizard",
+    "celestial"
+  ],
   "layer_1": {
     "zPos": 130,
     "male": "hat/magic/celestial/adult/",
@@ -72,5 +75,30 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "white": "hat-Celestial_Wizard_Hat_white",
+    "black": "hat-Celestial_Wizard_Hat_black",
+    "blue": "hat-Celestial_Wizard_Hat_bluegray",
+    "brown": "hat-Celestial_Wizard_Hat_brown",
+    "charcoal": "hat-Celestial_Wizard_Hat_charcoal",
+    "forest": "hat-Celestial_Wizard_Hat_forest",
+    "gray": "hat-Celestial_Wizard_Hat_gray",
+    "green": "hat-Celestial_Wizard_Hat_green",
+    "lavender": "hat-Celestial_Wizard_Hat_lavender",
+    "leather": "hat-Celestial_Wizard_Hat_leather",
+    "maroon": "hat-Celestial_Wizard_Hat_maroon",
+    "navy": "hat-Celestial_Wizard_Hat_navy",
+    "orange": "hat-Celestial_Wizard_Hat_orange",
+    "pink": "hat-Celestial_Wizard_Hat_pink",
+    "purple": "hat-Celestial_Wizard_Hat_purple",
+    "red": "hat-Celestial_Wizard_Hat_red",
+    "rose": "hat-Celestial_Wizard_Hat_rose",
+    "sky": "hat-Celestial_Wizard_Hat_sky",
+    "slate": "hat-Celestial_Wizard_Hat_slate",
+    "tan": "hat-Celestial_Wizard_Hat_tan",
+    "teal": "hat-Celestial_Wizard_Hat_teal",
+    "walnut": "hat-Celestial_Wizard_Hat_walnut",
+    "yellow": "hat-Celestial_Wizard_Hat_yellow"
+  }
 }

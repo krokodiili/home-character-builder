@@ -55,5 +55,31 @@
         "https://opengameart.org/content/ponytail-and-plain-hairstyles"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-Plain_blonde",
+    "ash": "hair-Plain_ash",
+    "sandy": "hair-Plain_sandy",
+    "platinum": "hair-Plain_platinum",
+    "strawberry": "hair-Plain_strawberry",
+    "redhead": "hair-Plain_redhead",
+    "ginger": "hair-Plain_ginger",
+    "carrot": "hair-Plain_carrot",
+    "chestnut": "hair-Plain_chestnut",
+    "undefined": "hair-Plain_dark_brown",
+    "black": "hair-Plain_black",
+    "raven": "hair-Plain_raven",
+    "gray": "hair-Plain_gray",
+    "white": "hair-Plain_white",
+    "red": "hair-Plain_red",
+    "orange": "hair-Plain_orange",
+    "gold": "hair-Plain_gold",
+    "green": "hair-Plain_green",
+    "blue": "hair-Plain_blue",
+    "navy": "hair-Plain_navy",
+    "violet": "hair-Plain_violet",
+    "purple": "hair-Plain_purple",
+    "pink": "hair-Plain_pink",
+    "rose": "hair-Plain_rose"
+  }
 }

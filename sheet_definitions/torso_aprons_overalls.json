@@ -70,5 +70,30 @@
         "http://opengameart.org/content/lpc-clothing-updates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "leather": "overalls-Overalls_leather",
+    "black": "overalls-Overalls_black",
+    "blue": "overalls-Overalls_bluegray",
+    "brown": "overalls-Overalls_brown",
+    "charcoal": "overalls-Overalls_charcoal",
+    "forest": "overalls-Overalls_forest",
+    "gray": "overalls-Overalls_gray",
+    "green": "overalls-Overalls_green",
+    "lavender": "overalls-Overalls_lavender",
+    "maroon": "overalls-Overalls_maroon",
+    "navy": "overalls-Overalls_navy",
+    "orange": "overalls-Overalls_orange",
+    "pink": "overalls-Overalls_pink",
+    "purple": "overalls-Overalls_purple",
+    "red": "overalls-Overalls_red",
+    "rose": "overalls-Overalls_rose",
+    "sky": "overalls-Overalls_sky",
+    "slate": "overalls-Overalls_slate",
+    "tan": "overalls-Overalls_tan",
+    "teal": "overalls-Overalls_teal",
+    "walnut": "overalls-Overalls_walnut",
+    "white": "overalls-Overalls_white",
+    "yellow": "overalls-Overalls_yellow"
+  }
 }

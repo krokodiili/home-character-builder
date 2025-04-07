@@ -68,5 +68,30 @@
         "https://opengameart.org/content/lpc-pirates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "sash-Waistband_black",
+    "blue": "sash-Waistband_bluegray",
+    "brown": "sash-Waistband_brown",
+    "charcoal": "sash-Waistband_charcoal",
+    "forest": "sash-Waistband_forest",
+    "gray": "sash-Waistband_gray",
+    "green": "sash-Waistband_green",
+    "lavender": "sash-Waistband_lavender",
+    "leather": "sash-Waistband_leather",
+    "maroon": "sash-Waistband_maroon",
+    "navy": "sash-Waistband_navy",
+    "orange": "sash-Waistband_orange",
+    "pink": "sash-Waistband_pink",
+    "purple": "sash-Waistband_purple",
+    "red": "sash-Waistband_red",
+    "rose": "sash-Waistband_rose",
+    "sky": "sash-Waistband_sky",
+    "slate": "sash-Waistband_slate",
+    "tan": "sash-Waistband_tan",
+    "teal": "sash-Waistband_teal",
+    "walnut": "sash-Waistband_walnut",
+    "white": "sash-Waistband_white",
+    "yellow": "sash-Waistband_yellow"
+  }
 }

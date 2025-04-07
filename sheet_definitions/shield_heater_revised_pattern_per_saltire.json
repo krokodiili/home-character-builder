@@ -79,5 +79,30 @@
         "https://opengameart.org/content/lpc-shields"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "shield_pattern-revised_per_saltire_black",
+    "blue": "shield_pattern-revised_per_saltire_bluegray",
+    "brown": "shield_pattern-revised_per_saltire_brown",
+    "charcoal": "shield_pattern-revised_per_saltire_charcoal",
+    "forest": "shield_pattern-revised_per_saltire_forest",
+    "gray": "shield_pattern-revised_per_saltire_gray",
+    "green": "shield_pattern-revised_per_saltire_green",
+    "lavender": "shield_pattern-revised_per_saltire_lavender",
+    "leather": "shield_pattern-revised_per_saltire_leather",
+    "maroon": "shield_pattern-revised_per_saltire_maroon",
+    "navy": "shield_pattern-revised_per_saltire_navy",
+    "orange": "shield_pattern-revised_per_saltire_orange",
+    "pink": "shield_pattern-revised_per_saltire_pink",
+    "purple": "shield_pattern-revised_per_saltire_purple",
+    "red": "shield_pattern-revised_per_saltire_red",
+    "rose": "shield_pattern-revised_per_saltire_rose",
+    "sky": "shield_pattern-revised_per_saltire_sky",
+    "slate": "shield_pattern-revised_per_saltire_slate",
+    "tan": "shield_pattern-revised_per_saltire_tan",
+    "teal": "shield_pattern-revised_per_saltire_teal",
+    "walnut": "shield_pattern-revised_per_saltire_walnut",
+    "white": "shield_pattern-revised_per_saltire_white",
+    "yellow": "shield_pattern-revised_per_saltire_yellow"
+  }
 }

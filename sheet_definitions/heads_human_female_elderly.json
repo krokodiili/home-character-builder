@@ -1,7 +1,10 @@
 {
   "name": "Human female elderly",
   "type_name": "head",
-  "tags": ["human", "elderly"],
+  "tags": [
+    "human",
+    "elderly"
+  ],
   "layer_1": {
     "zPos": 100,
     "male": "head/heads/human/female_elderly/",
@@ -73,5 +76,24 @@
         "https://opengameart.org/content/lpc-character-bases"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "head-Human_female_elderly_light",
+    "amber": "head-Human_female_elderly_amber",
+    "olive": "head-Human_female_elderly_olive",
+    "taupe": "head-Human_female_elderly_taupe",
+    "bronze": "head-Human_female_elderly_bronze",
+    "brown": "head-Human_female_elderly_fur_brown",
+    "black": "head-Human_female_elderly_fur_black",
+    "lavender": "head-Human_female_elderly_lavender",
+    "blue": "head-Human_female_elderly_blue",
+    "zombie_green": "head-Human_female_elderly_zombie_green",
+    "green": "head-Human_female_elderly_dark_green",
+    "zombie": "head-Human_female_elderly_zombie",
+    "fur_tan": "head-Human_female_elderly_fur_tan",
+    "fur_copper": "head-Human_female_elderly_fur_copper",
+    "fur_gold": "head-Human_female_elderly_fur_gold",
+    "fur_grey": "head-Human_female_elderly_fur_grey",
+    "fur_white": "head-Human_female_elderly_fur_white"
+  }
 }

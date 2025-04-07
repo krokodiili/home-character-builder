@@ -51,5 +51,8 @@
         "https://opengameart.org/content/lpc-medieval-weapons"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "flail": "weapon-Flail_flail"
+  }
 }

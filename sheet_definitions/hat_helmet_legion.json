@@ -60,5 +60,15 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "steel": "armour-Legion_steel",
+    "iron": "armour-Legion_iron",
+    "ceramic": "armour-Legion_ceramic",
+    "brass": "armour-Legion_brass",
+    "copper": "armour-Legion_copper",
+    "bronze": "armour-Legion_bronze",
+    "silver": "armour-Legion_silver",
+    "gold": "armour-Legion_gold"
+  }
 }

@@ -1,7 +1,10 @@
 {
   "name": "Rabbit",
   "type_name": "head",
-  "tags": ["animal", "adult"],
+  "tags": [
+    "animal",
+    "adult"
+  ],
   "layer_1": {
     "zPos": 100,
     "male": "head/heads/rabbit/adult/",
@@ -72,5 +75,26 @@
         "http://opengameart.org/content/lpc-folk"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "fur_black": "head-Rabbit_fur_black",
+    "fur_brown": "head-Rabbit_fur_brown",
+    "fur_tan": "head-Rabbit_fur_tan",
+    "fur_copper": "head-Rabbit_fur_copper",
+    "fur_gold": "head-Rabbit_fur_gold",
+    "fur_grey": "head-Rabbit_fur_grey",
+    "fur_white": "head-Rabbit_fur_white",
+    "light": "head-Rabbit_light",
+    "amber": "head-Rabbit_amber",
+    "olive": "head-Rabbit_olive",
+    "taupe": "head-Rabbit_taupe",
+    "bronze": "head-Rabbit_bronze",
+    "brown": "head-Rabbit_brown",
+    "black": "head-Rabbit_black",
+    "lavender": "head-Rabbit_lavender",
+    "blue": "head-Rabbit_blue",
+    "zombie_green": "head-Rabbit_zombie_green",
+    "green": "head-Rabbit_dark_green",
+    "zombie": "head-Rabbit_zombie"
+  }
 }

@@ -33,5 +33,15 @@
         "https://opengameart.org/content/lpc-jewelry"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "steel": "charm-Star_Charm_steel",
+    "iron": "charm-Star_Charm_iron",
+    "ceramic": "charm-Star_Charm_ceramic",
+    "brass": "charm-Star_Charm_brass",
+    "copper": "charm-Star_Charm_copper",
+    "bronze": "charm-Star_Charm_bronze",
+    "silver": "charm-Star_Charm_silver",
+    "gold": "charm-Star_Charm_gold"
+  }
 }

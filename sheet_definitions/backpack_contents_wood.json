@@ -1,8 +1,13 @@
 {
   "name": "Wood",
   "type_name": "cargo",
-  "tags": ["back", "basket_contents"],
-  "required_tags": ["basket"],
+  "tags": [
+    "back",
+    "basket_contents"
+  ],
+  "required_tags": [
+    "basket"
+  ],
   "layer_1": {
     "zPos": 140,
     "male": "backpack/basket_contents/wood/fg/",
@@ -38,5 +43,9 @@
         "https://opengameart.org/content/lpc-more-backpacks"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "3_logs": "cargo-Wood_3_logs",
+    "9_logs": "cargo-Wood_9_logs"
+  }
 }

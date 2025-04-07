@@ -1,8 +1,14 @@
 {
   "name": "Tricorne Stitching",
   "type_name": "hat_trim",
-  "tags": ["tricorne", "hat_trim", "stitching"],
-  "required_tags": ["tricorne_basic"],
+  "tags": [
+    "tricorne",
+    "hat_trim",
+    "stitching"
+  ],
+  "required_tags": [
+    "tricorne_basic"
+  ],
   "layer_1": {
     "zPos": 131,
     "male": "hat/pirate/tricorne/basic/stitching/adult/",
@@ -71,5 +77,30 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "hat_trim-Tricorne_Stitching_black",
+    "blue": "hat_trim-Tricorne_Stitching_bluegray",
+    "brown": "hat_trim-Tricorne_Stitching_brown",
+    "charcoal": "hat_trim-Tricorne_Stitching_charcoal",
+    "forest": "hat_trim-Tricorne_Stitching_forest",
+    "gray": "hat_trim-Tricorne_Stitching_gray",
+    "green": "hat_trim-Tricorne_Stitching_green",
+    "lavender": "hat_trim-Tricorne_Stitching_lavender",
+    "leather": "hat_trim-Tricorne_Stitching_leather",
+    "maroon": "hat_trim-Tricorne_Stitching_maroon",
+    "navy": "hat_trim-Tricorne_Stitching_navy",
+    "orange": "hat_trim-Tricorne_Stitching_orange",
+    "pink": "hat_trim-Tricorne_Stitching_pink",
+    "purple": "hat_trim-Tricorne_Stitching_purple",
+    "red": "hat_trim-Tricorne_Stitching_red",
+    "rose": "hat_trim-Tricorne_Stitching_rose",
+    "sky": "hat_trim-Tricorne_Stitching_sky",
+    "slate": "hat_trim-Tricorne_Stitching_slate",
+    "tan": "hat_trim-Tricorne_Stitching_tan",
+    "teal": "hat_trim-Tricorne_Stitching_teal",
+    "walnut": "hat_trim-Tricorne_Stitching_walnut",
+    "white": "hat_trim-Tricorne_Stitching_white",
+    "yellow": "hat_trim-Tricorne_Stitching_yellow"
+  }
 }

@@ -74,5 +74,31 @@
         "https://opengameart.org/content/lpc-1-hairstyle-2-hair-extensions-3-previously-unofficially-released-hairstyles"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hairextr-Right_Braid_blonde",
+    "ash": "hairextr-Right_Braid_ash",
+    "sandy": "hairextr-Right_Braid_sandy",
+    "platinum": "hairextr-Right_Braid_platinum",
+    "strawberry": "hairextr-Right_Braid_strawberry",
+    "redhead": "hairextr-Right_Braid_redhead",
+    "ginger": "hairextr-Right_Braid_ginger",
+    "carrot": "hairextr-Right_Braid_carrot",
+    "chestnut": "hairextr-Right_Braid_chestnut",
+    "undefined": "hairextr-Right_Braid_dark_brown",
+    "black": "hairextr-Right_Braid_black",
+    "raven": "hairextr-Right_Braid_raven",
+    "gray": "hairextr-Right_Braid_gray",
+    "white": "hairextr-Right_Braid_white",
+    "red": "hairextr-Right_Braid_red",
+    "orange": "hairextr-Right_Braid_orange",
+    "gold": "hairextr-Right_Braid_gold",
+    "green": "hairextr-Right_Braid_green",
+    "blue": "hairextr-Right_Braid_blue",
+    "navy": "hairextr-Right_Braid_navy",
+    "violet": "hairextr-Right_Braid_violet",
+    "purple": "hairextr-Right_Braid_purple",
+    "pink": "hairextr-Right_Braid_pink",
+    "rose": "hairextr-Right_Braid_rose"
+  }
 }

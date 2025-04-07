@@ -37,5 +37,8 @@
         "https://opengameart.org/content/lpc-crossbow-final"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "crossbow": "weapon-Crossbow_crossbow"
+  }
 }

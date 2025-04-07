@@ -33,5 +33,8 @@
         "https://opengameart.org/content/lpc-shields"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "scutum_trim": "shield_trim-Scutum_shield_trim_scutum_trim"
+  }
 }

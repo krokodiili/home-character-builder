@@ -1,7 +1,11 @@
 {
   "name": "Jetpack fins",
   "type_name": "cargo",
-  "tags": ["back", "backpack", "jetpack"],
+  "tags": [
+    "back",
+    "backpack",
+    "jetpack"
+  ],
   "preview_row": 0,
   "layer_1": {
     "zPos": 112,
@@ -31,5 +35,10 @@
         "https://opengameart.org/content/lpc-backpacks"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "bronze": "cargo-Jetpack_fins_bronze",
+    "gold": "cargo-Jetpack_fins_gold",
+    "steel": "cargo-Jetpack_fins_steel"
+  }
 }

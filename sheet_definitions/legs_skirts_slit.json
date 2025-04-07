@@ -52,5 +52,30 @@
         "http://opengameart.org/content/lpc-clothing-updates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "legs-Slit_skirt_black",
+    "blue": "legs-Slit_skirt_bluegray",
+    "brown": "legs-Slit_skirt_brown",
+    "charcoal": "legs-Slit_skirt_charcoal",
+    "forest": "legs-Slit_skirt_forest",
+    "gray": "legs-Slit_skirt_gray",
+    "green": "legs-Slit_skirt_green",
+    "lavender": "legs-Slit_skirt_lavender",
+    "leather": "legs-Slit_skirt_leather",
+    "maroon": "legs-Slit_skirt_maroon",
+    "navy": "legs-Slit_skirt_navy",
+    "orange": "legs-Slit_skirt_orange",
+    "pink": "legs-Slit_skirt_pink",
+    "purple": "legs-Slit_skirt_purple",
+    "red": "legs-Slit_skirt_red",
+    "rose": "legs-Slit_skirt_rose",
+    "sky": "legs-Slit_skirt_sky",
+    "slate": "legs-Slit_skirt_slate",
+    "tan": "legs-Slit_skirt_tan",
+    "teal": "legs-Slit_skirt_teal",
+    "walnut": "legs-Slit_skirt_walnut",
+    "white": "legs-Slit_skirt_white",
+    "yellow": "legs-Slit_skirt_yellow"
+  }
 }

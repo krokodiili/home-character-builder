@@ -71,5 +71,31 @@
         "https://opengameart.org/content/lpc-expanded-sit-run-jump-more"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "mustache-Walrus_Mustache_blonde",
+    "ash": "mustache-Walrus_Mustache_ash",
+    "sandy": "mustache-Walrus_Mustache_sandy",
+    "platinum": "mustache-Walrus_Mustache_platinum",
+    "strawberry": "mustache-Walrus_Mustache_strawberry",
+    "redhead": "mustache-Walrus_Mustache_redhead",
+    "ginger": "mustache-Walrus_Mustache_ginger",
+    "carrot": "mustache-Walrus_Mustache_carrot",
+    "chestnut": "mustache-Walrus_Mustache_chestnut",
+    "undefined": "mustache-Walrus_Mustache_dark_brown",
+    "black": "mustache-Walrus_Mustache_black",
+    "raven": "mustache-Walrus_Mustache_raven",
+    "gray": "mustache-Walrus_Mustache_gray",
+    "white": "mustache-Walrus_Mustache_white",
+    "red": "mustache-Walrus_Mustache_red",
+    "orange": "mustache-Walrus_Mustache_orange",
+    "gold": "mustache-Walrus_Mustache_gold",
+    "green": "mustache-Walrus_Mustache_green",
+    "blue": "mustache-Walrus_Mustache_blue",
+    "navy": "mustache-Walrus_Mustache_navy",
+    "violet": "mustache-Walrus_Mustache_violet",
+    "purple": "mustache-Walrus_Mustache_purple",
+    "pink": "mustache-Walrus_Mustache_pink",
+    "rose": "mustache-Walrus_Mustache_rose"
+  }
 }

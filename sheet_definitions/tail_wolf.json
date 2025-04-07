@@ -89,5 +89,35 @@
         "https://opengameart.org/content/lpc-furry-ears-tails-for-rpg-sprites"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "tail-Wolf_Tail_blonde",
+    "ash": "tail-Wolf_Tail_ash",
+    "sandy": "tail-Wolf_Tail_sandy",
+    "platinum": "tail-Wolf_Tail_platinum",
+    "strawberry": "tail-Wolf_Tail_strawberry",
+    "redhead": "tail-Wolf_Tail_redhead",
+    "ginger": "tail-Wolf_Tail_ginger",
+    "carrot": "tail-Wolf_Tail_carrot",
+    "chestnut": "tail-Wolf_Tail_chestnut",
+    "undefined": "tail-Wolf_Tail_dark_brown",
+    "black": "tail-Wolf_Tail_fur_black",
+    "raven": "tail-Wolf_Tail_raven",
+    "gray": "tail-Wolf_Tail_gray",
+    "white": "tail-Wolf_Tail_fur_white",
+    "red": "tail-Wolf_Tail_red",
+    "orange": "tail-Wolf_Tail_orange",
+    "gold": "tail-Wolf_Tail_fur_gold",
+    "green": "tail-Wolf_Tail_green",
+    "blue": "tail-Wolf_Tail_blue",
+    "navy": "tail-Wolf_Tail_navy",
+    "violet": "tail-Wolf_Tail_violet",
+    "purple": "tail-Wolf_Tail_purple",
+    "pink": "tail-Wolf_Tail_pink",
+    "rose": "tail-Wolf_Tail_rose",
+    "fur_brown": "tail-Wolf_Tail_fur_brown",
+    "fur_tan": "tail-Wolf_Tail_fur_tan",
+    "fur_copper": "tail-Wolf_Tail_fur_copper",
+    "fur_grey": "tail-Wolf_Tail_fur_grey"
+  }
 }

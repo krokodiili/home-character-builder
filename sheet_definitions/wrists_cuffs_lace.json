@@ -28,5 +28,14 @@
         "https://opengameart.org/content/lpc-pirates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "bronze": "wrists-Lace_Cuffs_bronze",
+    "gold": "wrists-Lace_Cuffs_gold",
+    "silver": "wrists-Lace_Cuffs_silver",
+    "red": "wrists-Lace_Cuffs_red",
+    "blue": "wrists-Lace_Cuffs_blue",
+    "teal": "wrists-Lace_Cuffs_teal",
+    "yellow": "wrists-Lace_Cuffs_yellow"
+  }
 }

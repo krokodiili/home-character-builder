@@ -45,5 +45,30 @@
         "https://opengameart.org/content/lpc-pirates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "shoulders-Mantal_black",
+    "blue": "shoulders-Mantal_bluegray",
+    "brown": "shoulders-Mantal_brown",
+    "charcoal": "shoulders-Mantal_charcoal",
+    "forest": "shoulders-Mantal_forest",
+    "gray": "shoulders-Mantal_gray",
+    "green": "shoulders-Mantal_green",
+    "lavender": "shoulders-Mantal_lavender",
+    "leather": "shoulders-Mantal_leather",
+    "maroon": "shoulders-Mantal_maroon",
+    "navy": "shoulders-Mantal_navy",
+    "orange": "shoulders-Mantal_orange",
+    "pink": "shoulders-Mantal_pink",
+    "purple": "shoulders-Mantal_purple",
+    "red": "shoulders-Mantal_red",
+    "rose": "shoulders-Mantal_rose",
+    "sky": "shoulders-Mantal_sky",
+    "slate": "shoulders-Mantal_slate",
+    "tan": "shoulders-Mantal_tan",
+    "teal": "shoulders-Mantal_teal",
+    "walnut": "shoulders-Mantal_walnut",
+    "white": "shoulders-Mantal_white",
+    "yellow": "shoulders-Mantal_yellow"
+  }
 }

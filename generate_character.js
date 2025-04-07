@@ -5,13 +5,19 @@ const path = require("path");
 const puppeteer = require("puppeteer");
 
 async function generateCharacter(jsonPath) {
+  const outputPath = path.join(__dirname, "output.png");
+  const oldFileExists = fs.existsSync(outputPath);
+
+  if (oldFileExists) {
+    fs.unlinkSync(outputPath);
+  }
+
   console.log(`Generating character PNG using Puppeteer from: ${jsonPath}`);
 
   const browser = await puppeteer.launch({
     args: ["--disable-web-security", "--allow-file-access-from-files"],
     // headless: false,
   });
-
   const context = browser.defaultBrowserContext();
   await context
     .overridePermissions(`file://${__dirname}`, [
@@ -58,7 +64,7 @@ async function generateCharacter(jsonPath) {
 
   // Decode the base64 image data and save it as a PNG file
   const base64Data = imageData.replace(/^data:image\/png;base64,/, "");
-  const outputPath = path.join(__dirname, "output.png");
+  const outputExists = fs.existsSync(outputPath, base64Data, "base64");
   fs.writeFileSync(outputPath, base64Data, "base64");
 
   console.log(`Character PNG saved to: ${outputPath}`);

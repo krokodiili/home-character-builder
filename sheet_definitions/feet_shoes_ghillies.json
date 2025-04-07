@@ -83,5 +83,38 @@
         "https://opengameart.org/content/lpc-expanded-socks-shoes"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "shoes-Ghillies_black",
+    "blue": "shoes-Ghillies_bluegray",
+    "brown": "shoes-Ghillies_brown",
+    "charcoal": "shoes-Ghillies_charcoal",
+    "forest": "shoes-Ghillies_forest",
+    "gray": "shoes-Ghillies_gray",
+    "green": "shoes-Ghillies_green",
+    "lavender": "shoes-Ghillies_lavender",
+    "leather": "shoes-Ghillies_leather",
+    "maroon": "shoes-Ghillies_maroon",
+    "navy": "shoes-Ghillies_navy",
+    "orange": "shoes-Ghillies_orange",
+    "pink": "shoes-Ghillies_pink",
+    "purple": "shoes-Ghillies_purple",
+    "red": "shoes-Ghillies_red",
+    "rose": "shoes-Ghillies_rose",
+    "sky": "shoes-Ghillies_sky",
+    "slate": "shoes-Ghillies_slate",
+    "tan": "shoes-Ghillies_tan",
+    "teal": "shoes-Ghillies_teal",
+    "walnut": "shoes-Ghillies_walnut",
+    "white": "shoes-Ghillies_white",
+    "yellow": "shoes-Ghillies_yellow",
+    "steel": "shoes-Ghillies_steel",
+    "iron": "shoes-Ghillies_iron",
+    "ceramic": "shoes-Ghillies_ceramic",
+    "brass": "shoes-Ghillies_brass",
+    "copper": "shoes-Ghillies_copper",
+    "bronze": "shoes-Ghillies_bronze",
+    "silver": "shoes-Ghillies_silver",
+    "gold": "shoes-Ghillies_gold"
+  }
 }

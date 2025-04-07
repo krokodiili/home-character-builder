@@ -75,5 +75,31 @@
         "https://opengameart.org/content/lpc-gentleman"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "base": "neck-Necktie_base",
+    "black": "neck-Necktie_black",
+    "blue": "neck-Necktie_bluegray",
+    "brown": "neck-Necktie_brown",
+    "charcoal": "neck-Necktie_charcoal",
+    "forest": "neck-Necktie_forest",
+    "gray": "neck-Necktie_gray",
+    "green": "neck-Necktie_green",
+    "lavender": "neck-Necktie_lavender",
+    "leather": "neck-Necktie_leather",
+    "maroon": "neck-Necktie_maroon",
+    "navy": "neck-Necktie_navy",
+    "orange": "neck-Necktie_orange",
+    "pink": "neck-Necktie_pink",
+    "purple": "neck-Necktie_purple",
+    "red": "neck-Necktie_red",
+    "rose": "neck-Necktie_rose",
+    "sky": "neck-Necktie_sky",
+    "slate": "neck-Necktie_slate",
+    "tan": "neck-Necktie_tan",
+    "teal": "neck-Necktie_teal",
+    "walnut": "neck-Necktie_walnut",
+    "white": "neck-Necktie_white",
+    "yellow": "neck-Necktie_yellow"
+  }
 }

@@ -54,5 +54,31 @@
         "https://opengameart.org/content/concept-art-for-lpc-entry"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-Bangslong2_blonde",
+    "ash": "hair-Bangslong2_ash",
+    "sandy": "hair-Bangslong2_sandy",
+    "platinum": "hair-Bangslong2_platinum",
+    "strawberry": "hair-Bangslong2_strawberry",
+    "redhead": "hair-Bangslong2_redhead",
+    "ginger": "hair-Bangslong2_ginger",
+    "carrot": "hair-Bangslong2_carrot",
+    "chestnut": "hair-Bangslong2_chestnut",
+    "undefined": "hair-Bangslong2_dark_brown",
+    "black": "hair-Bangslong2_black",
+    "raven": "hair-Bangslong2_raven",
+    "gray": "hair-Bangslong2_gray",
+    "white": "hair-Bangslong2_white",
+    "red": "hair-Bangslong2_red",
+    "orange": "hair-Bangslong2_orange",
+    "gold": "hair-Bangslong2_gold",
+    "green": "hair-Bangslong2_green",
+    "blue": "hair-Bangslong2_blue",
+    "navy": "hair-Bangslong2_navy",
+    "violet": "hair-Bangslong2_violet",
+    "purple": "hair-Bangslong2_purple",
+    "pink": "hair-Bangslong2_pink",
+    "rose": "hair-Bangslong2_rose"
+  }
 }

@@ -48,5 +48,22 @@
         "https://opengameart.org/content/lpc-pirates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "brown": "jacket-Collared_coat_brown",
+    "black": "jacket-Collared_coat_black",
+    "blue": "jacket-Collared_coat_bluegray",
+    "charcoal": "jacket-Collared_coat_charcoal",
+    "forest": "jacket-Collared_coat_forest",
+    "gray": "jacket-Collared_coat_gray",
+    "green": "jacket-Collared_coat_green",
+    "lavender": "jacket-Collared_coat_lavender",
+    "leather": "jacket-Collared_coat_leather",
+    "maroon": "jacket-Collared_coat_maroon",
+    "navy": "jacket-Collared_coat_navy",
+    "orange": "jacket-Collared_coat_orange",
+    "pink": "jacket-Collared_coat_pink",
+    "purple": "jacket-Collared_coat_purple",
+    "red": "jacket-Collared_coat_yellow"
+  }
 }

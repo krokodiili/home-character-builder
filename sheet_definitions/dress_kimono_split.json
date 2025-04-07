@@ -1,7 +1,11 @@
 {
   "name": "Split Kimono",
   "type_name": "dress",
-  "tags": ["dress", "kimono", "kimono_split"],
+  "tags": [
+    "dress",
+    "kimono",
+    "kimono_split"
+  ],
   "layer_1": {
     "zPos": 30,
     "female": "dress/kimono/split/universal/female/",
@@ -51,5 +55,30 @@
         "https://opengameart.org/content/lpc-kimono-relm"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "dress-Split_Kimono_black",
+    "blue": "dress-Split_Kimono_bluegray",
+    "brown": "dress-Split_Kimono_brown",
+    "charcoal": "dress-Split_Kimono_charcoal",
+    "forest": "dress-Split_Kimono_forest",
+    "gray": "dress-Split_Kimono_gray",
+    "green": "dress-Split_Kimono_green",
+    "lavender": "dress-Split_Kimono_lavender",
+    "leather": "dress-Split_Kimono_leather",
+    "maroon": "dress-Split_Kimono_maroon",
+    "navy": "dress-Split_Kimono_navy",
+    "orange": "dress-Split_Kimono_orange",
+    "pink": "dress-Split_Kimono_pink",
+    "purple": "dress-Split_Kimono_purple",
+    "red": "dress-Split_Kimono_red",
+    "rose": "dress-Split_Kimono_rose",
+    "sky": "dress-Split_Kimono_sky",
+    "slate": "dress-Split_Kimono_slate",
+    "tan": "dress-Split_Kimono_tan",
+    "teal": "dress-Split_Kimono_teal",
+    "walnut": "dress-Split_Kimono_walnut",
+    "white": "dress-Split_Kimono_white",
+    "yellow": "dress-Split_Kimono_yellow"
+  }
 }

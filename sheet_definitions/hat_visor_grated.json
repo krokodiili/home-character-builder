@@ -57,5 +57,15 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "steel": "visor-Grated_visor_steel",
+    "iron": "visor-Grated_visor_iron",
+    "ceramic": "visor-Grated_visor_ceramic",
+    "brass": "visor-Grated_visor_brass",
+    "copper": "visor-Grated_visor_copper",
+    "bronze": "visor-Grated_visor_bronze",
+    "silver": "visor-Grated_visor_silver",
+    "gold": "visor-Grated_visor_gold"
+  }
 }

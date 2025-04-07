@@ -77,5 +77,30 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "accessory-Legion_Plumage_black",
+    "blue": "accessory-Legion_Plumage_bluegray",
+    "brown": "accessory-Legion_Plumage_brown",
+    "charcoal": "accessory-Legion_Plumage_charcoal",
+    "forest": "accessory-Legion_Plumage_forest",
+    "gray": "accessory-Legion_Plumage_gray",
+    "green": "accessory-Legion_Plumage_green",
+    "lavender": "accessory-Legion_Plumage_lavender",
+    "leather": "accessory-Legion_Plumage_leather",
+    "maroon": "accessory-Legion_Plumage_maroon",
+    "navy": "accessory-Legion_Plumage_navy",
+    "orange": "accessory-Legion_Plumage_orange",
+    "pink": "accessory-Legion_Plumage_pink",
+    "purple": "accessory-Legion_Plumage_purple",
+    "red": "accessory-Legion_Plumage_red",
+    "rose": "accessory-Legion_Plumage_rose",
+    "sky": "accessory-Legion_Plumage_sky",
+    "slate": "accessory-Legion_Plumage_slate",
+    "tan": "accessory-Legion_Plumage_tan",
+    "teal": "accessory-Legion_Plumage_teal",
+    "walnut": "accessory-Legion_Plumage_walnut",
+    "white": "accessory-Legion_Plumage_white",
+    "yellow": "accessory-Legion_Plumage_yellow"
+  }
 }

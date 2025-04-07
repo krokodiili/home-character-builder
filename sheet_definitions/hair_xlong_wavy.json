@@ -79,5 +79,31 @@
         "https://opengameart.org/content/lpc-expanded-xlong-hair"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-XLong_Wavy_blonde",
+    "ash": "hair-XLong_Wavy_ash",
+    "sandy": "hair-XLong_Wavy_sandy",
+    "platinum": "hair-XLong_Wavy_platinum",
+    "strawberry": "hair-XLong_Wavy_strawberry",
+    "redhead": "hair-XLong_Wavy_redhead",
+    "ginger": "hair-XLong_Wavy_ginger",
+    "carrot": "hair-XLong_Wavy_carrot",
+    "chestnut": "hair-XLong_Wavy_chestnut",
+    "undefined": "hair-XLong_Wavy_dark_brown",
+    "black": "hair-XLong_Wavy_black",
+    "raven": "hair-XLong_Wavy_raven",
+    "gray": "hair-XLong_Wavy_gray",
+    "white": "hair-XLong_Wavy_white",
+    "red": "hair-XLong_Wavy_red",
+    "orange": "hair-XLong_Wavy_orange",
+    "gold": "hair-XLong_Wavy_gold",
+    "green": "hair-XLong_Wavy_green",
+    "blue": "hair-XLong_Wavy_blue",
+    "navy": "hair-XLong_Wavy_navy",
+    "violet": "hair-XLong_Wavy_violet",
+    "purple": "hair-XLong_Wavy_purple",
+    "pink": "hair-XLong_Wavy_pink",
+    "rose": "hair-XLong_Wavy_rose"
+  }
 }

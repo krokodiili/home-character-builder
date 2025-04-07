@@ -1,7 +1,10 @@
 {
   "name": "Orc child",
   "type_name": "head",
-  "tags": ["orc", "child"],
+  "tags": [
+    "orc",
+    "child"
+  ],
   "layer_1": {
     "zPos": 100,
     "child": "head/heads/orc/child/"
@@ -70,5 +73,24 @@
         "https://opengameart.org/content/lpc-children-walk-animation"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "head-Orc_child_light",
+    "amber": "head-Orc_child_amber",
+    "olive": "head-Orc_child_olive",
+    "taupe": "head-Orc_child_taupe",
+    "bronze": "head-Orc_child_bronze",
+    "brown": "head-Orc_child_fur_brown",
+    "black": "head-Orc_child_fur_black",
+    "lavender": "head-Orc_child_lavender",
+    "blue": "head-Orc_child_blue",
+    "zombie_green": "head-Orc_child_zombie_green",
+    "green": "head-Orc_child_dark_green",
+    "zombie": "head-Orc_child_zombie",
+    "fur_tan": "head-Orc_child_fur_tan",
+    "fur_copper": "head-Orc_child_fur_copper",
+    "fur_gold": "head-Orc_child_fur_gold",
+    "fur_grey": "head-Orc_child_fur_grey",
+    "fur_white": "head-Orc_child_fur_white"
+  }
 }

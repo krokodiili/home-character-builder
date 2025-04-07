@@ -33,5 +33,8 @@
         "https://opengameart.org/content/lpc-shields"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "two_engrailed": "shield-Two_engrailed_shield_two_engrailed"
+  }
 }

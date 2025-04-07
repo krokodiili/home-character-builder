@@ -36,5 +36,13 @@
         "https://opengameart.org/content/more-lpc-clothes-and-hair"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "neck-Scarf_black",
+    "blue": "neck-Scarf_blue",
+    "brown": "neck-Scarf_brown",
+    "gray": "neck-Scarf_gray",
+    "red": "neck-Scarf_red",
+    "white": "neck-Scarf_white"
+  }
 }

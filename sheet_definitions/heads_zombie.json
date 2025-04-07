@@ -1,7 +1,10 @@
 {
   "name": "Zombie",
   "type_name": "head",
-  "tags": ["monster", "zombie"],
+  "tags": [
+    "monster",
+    "zombie"
+  ],
   "layer_1": {
     "zPos": 100,
     "male": "head/heads/zombie/adult/",
@@ -73,5 +76,23 @@
         "https://opengameart.org/content/lpc-character-bases"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "zombie": "head-Zombie_zombie_green",
+    "light": "head-Zombie_light",
+    "amber": "head-Zombie_amber",
+    "olive": "head-Zombie_olive",
+    "taupe": "head-Zombie_taupe",
+    "bronze": "head-Zombie_bronze",
+    "brown": "head-Zombie_fur_brown",
+    "black": "head-Zombie_fur_black",
+    "lavender": "head-Zombie_lavender",
+    "blue": "head-Zombie_blue",
+    "green": "head-Zombie_dark_green",
+    "fur_tan": "head-Zombie_fur_tan",
+    "fur_copper": "head-Zombie_fur_copper",
+    "fur_gold": "head-Zombie_fur_gold",
+    "fur_grey": "head-Zombie_fur_grey",
+    "fur_white": "head-Zombie_fur_white"
+  }
 }

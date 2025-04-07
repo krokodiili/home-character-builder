@@ -84,5 +84,42 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "crown_gold": "hat-Crown_crown_gold",
+    "crown_red": "hat-Crown_crown_red",
+    "crown_blue": "hat-Crown_crown_blue",
+    "crown_gray": "hat-Crown_crown_gray",
+    "black": "hat-Crown_black",
+    "blue": "hat-Crown_bluegray",
+    "brown": "hat-Crown_brown",
+    "charcoal": "hat-Crown_charcoal",
+    "forest": "hat-Crown_forest",
+    "gray": "hat-Crown_gray",
+    "green": "hat-Crown_green",
+    "lavender": "hat-Crown_lavender",
+    "leather": "hat-Crown_leather",
+    "maroon": "hat-Crown_maroon",
+    "navy": "hat-Crown_navy",
+    "orange": "hat-Crown_orange",
+    "pink": "hat-Crown_pink",
+    "purple": "hat-Crown_purple",
+    "red": "hat-Crown_red",
+    "rose": "hat-Crown_rose",
+    "sky": "hat-Crown_sky",
+    "slate": "hat-Crown_slate",
+    "tan": "hat-Crown_tan",
+    "teal": "hat-Crown_teal",
+    "walnut": "hat-Crown_walnut",
+    "white": "hat-Crown_white",
+    "yellow": "hat-Crown_yellow",
+    "steel": "hat-Crown_steel",
+    "iron": "hat-Crown_iron",
+    "ceramic": "hat-Crown_ceramic",
+    "brass": "hat-Crown_brass",
+    "copper": "hat-Crown_copper",
+    "bronze": "hat-Crown_bronze",
+    "silver": "hat-Crown_silver",
+    "gold": "hat-Crown_gold"
+  }
 }

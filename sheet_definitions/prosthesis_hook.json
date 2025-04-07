@@ -27,5 +27,8 @@
         "https://opengameart.org/content/lpc-pirates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "hook": "prosthesis_hand-Hook_hand_hook"
+  }
 }

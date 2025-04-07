@@ -72,5 +72,30 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "headcover_rune-Thick_Headband_Rune_black",
+    "blue": "headcover_rune-Thick_Headband_Rune_bluegray",
+    "brown": "headcover_rune-Thick_Headband_Rune_brown",
+    "charcoal": "headcover_rune-Thick_Headband_Rune_charcoal",
+    "forest": "headcover_rune-Thick_Headband_Rune_forest",
+    "gray": "headcover_rune-Thick_Headband_Rune_gray",
+    "green": "headcover_rune-Thick_Headband_Rune_green",
+    "lavender": "headcover_rune-Thick_Headband_Rune_lavender",
+    "leather": "headcover_rune-Thick_Headband_Rune_leather",
+    "maroon": "headcover_rune-Thick_Headband_Rune_maroon",
+    "navy": "headcover_rune-Thick_Headband_Rune_navy",
+    "orange": "headcover_rune-Thick_Headband_Rune_orange",
+    "pink": "headcover_rune-Thick_Headband_Rune_pink",
+    "purple": "headcover_rune-Thick_Headband_Rune_purple",
+    "red": "headcover_rune-Thick_Headband_Rune_red",
+    "rose": "headcover_rune-Thick_Headband_Rune_rose",
+    "sky": "headcover_rune-Thick_Headband_Rune_sky",
+    "slate": "headcover_rune-Thick_Headband_Rune_slate",
+    "tan": "headcover_rune-Thick_Headband_Rune_tan",
+    "teal": "headcover_rune-Thick_Headband_Rune_teal",
+    "walnut": "headcover_rune-Thick_Headband_Rune_walnut",
+    "white": "headcover_rune-Thick_Headband_Rune_white",
+    "yellow": "headcover_rune-Thick_Headband_Rune_yellow"
+  }
 }

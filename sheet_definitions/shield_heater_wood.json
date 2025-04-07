@@ -1,7 +1,9 @@
 {
   "name": "Heater Shield Base",
   "type_name": "shield",
-  "tags": ["heater"],
+  "tags": [
+    "heater"
+  ],
   "layer_1": {
     "zPos": 2,
     "male": "shield/heater/original/wood/bg/",
@@ -60,5 +62,12 @@
         "https://opengameart.org/content/lpc-shields"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "brown": "shield-Heater_Shield_Base_brown",
+    "coffee": "shield-Heater_Shield_Base_coffee",
+    "oak": "shield-Heater_Shield_Base_oak",
+    "tan": "shield-Heater_Shield_Base_tan",
+    "umber": "shield-Heater_Shield_Base_umber"
+  }
 }

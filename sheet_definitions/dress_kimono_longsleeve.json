@@ -1,7 +1,11 @@
 {
   "name": "Kimono Sleeves",
   "type_name": "dress_sleeves",
-  "tags": ["arms", "sleeves", "kimono_long_sleeves"],
+  "tags": [
+    "arms",
+    "sleeves",
+    "kimono_long_sleeves"
+  ],
   "layer_1": {
     "zPos": 31,
     "female": "dress/kimono/sleeves/universal/female/",
@@ -56,5 +60,30 @@
         "https://opengameart.org/content/lpc-kimono-relm"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "dress_sleeves-Kimono_Sleeves_black",
+    "blue": "dress_sleeves-Kimono_Sleeves_bluegray",
+    "brown": "dress_sleeves-Kimono_Sleeves_brown",
+    "charcoal": "dress_sleeves-Kimono_Sleeves_charcoal",
+    "forest": "dress_sleeves-Kimono_Sleeves_forest",
+    "gray": "dress_sleeves-Kimono_Sleeves_gray",
+    "green": "dress_sleeves-Kimono_Sleeves_green",
+    "lavender": "dress_sleeves-Kimono_Sleeves_lavender",
+    "leather": "dress_sleeves-Kimono_Sleeves_leather",
+    "maroon": "dress_sleeves-Kimono_Sleeves_maroon",
+    "navy": "dress_sleeves-Kimono_Sleeves_navy",
+    "orange": "dress_sleeves-Kimono_Sleeves_orange",
+    "pink": "dress_sleeves-Kimono_Sleeves_pink",
+    "purple": "dress_sleeves-Kimono_Sleeves_purple",
+    "red": "dress_sleeves-Kimono_Sleeves_red",
+    "rose": "dress_sleeves-Kimono_Sleeves_rose",
+    "sky": "dress_sleeves-Kimono_Sleeves_sky",
+    "slate": "dress_sleeves-Kimono_Sleeves_slate",
+    "tan": "dress_sleeves-Kimono_Sleeves_tan",
+    "teal": "dress_sleeves-Kimono_Sleeves_teal",
+    "walnut": "dress_sleeves-Kimono_Sleeves_walnut",
+    "white": "dress_sleeves-Kimono_Sleeves_white",
+    "yellow": "dress_sleeves-Kimono_Sleeves_yellow"
+  }
 }

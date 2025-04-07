@@ -1,7 +1,10 @@
 {
   "name": "Wolf female",
   "type_name": "head",
-  "tags": ["animal", "adult"],
+  "tags": [
+    "animal",
+    "adult"
+  ],
   "layer_1": {
     "zPos": 100,
     "male": "head/heads/wolf/female/",
@@ -76,5 +79,26 @@
         "https://opengameart.org/content/lpc-character-bases"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "fur_black": "head-Wolf_female_fur_black",
+    "fur_brown": "head-Wolf_female_fur_brown",
+    "fur_tan": "head-Wolf_female_fur_tan",
+    "fur_copper": "head-Wolf_female_fur_copper",
+    "fur_gold": "head-Wolf_female_fur_gold",
+    "fur_grey": "head-Wolf_female_fur_grey",
+    "fur_white": "head-Wolf_female_fur_white",
+    "light": "head-Wolf_female_light",
+    "amber": "head-Wolf_female_amber",
+    "olive": "head-Wolf_female_olive",
+    "taupe": "head-Wolf_female_taupe",
+    "bronze": "head-Wolf_female_bronze",
+    "brown": "head-Wolf_female_brown",
+    "black": "head-Wolf_female_black",
+    "lavender": "head-Wolf_female_lavender",
+    "blue": "head-Wolf_female_blue",
+    "zombie_green": "head-Wolf_female_zombie_green",
+    "green": "head-Wolf_female_dark_green",
+    "zombie": "head-Wolf_female_zombie"
+  }
 }

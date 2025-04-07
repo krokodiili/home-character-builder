@@ -54,5 +54,30 @@
         "http://opengameart.org/content/lpc-clothing-updates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "clothes-Tunic_black",
+    "blue": "clothes-Tunic_bluegray",
+    "brown": "clothes-Tunic_brown",
+    "charcoal": "clothes-Tunic_charcoal",
+    "forest": "clothes-Tunic_forest",
+    "gray": "clothes-Tunic_gray",
+    "green": "clothes-Tunic_green",
+    "lavender": "clothes-Tunic_lavender",
+    "leather": "clothes-Tunic_leather",
+    "maroon": "clothes-Tunic_maroon",
+    "navy": "clothes-Tunic_navy",
+    "orange": "clothes-Tunic_orange",
+    "pink": "clothes-Tunic_pink",
+    "purple": "clothes-Tunic_purple",
+    "red": "clothes-Tunic_red",
+    "rose": "clothes-Tunic_rose",
+    "sky": "clothes-Tunic_sky",
+    "slate": "clothes-Tunic_slate",
+    "tan": "clothes-Tunic_tan",
+    "teal": "clothes-Tunic_teal",
+    "walnut": "clothes-Tunic_walnut",
+    "white": "clothes-Tunic_white",
+    "yellow": "clothes-Tunic_yellow"
+  }
 }

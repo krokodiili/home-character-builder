@@ -35,5 +35,14 @@
         "https://opengameart.org/content/lpc-clothes-for-children"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "legs-Child_pants_black",
+    "blue": "legs-Child_pants_lightblue",
+    "brown": "legs-Child_pants_brown",
+    "green": "legs-Child_pants_green",
+    "maroon": "legs-Child_pants_maroon",
+    "red": "legs-Child_pants_red",
+    "white": "legs-Child_pants_white"
+  }
 }

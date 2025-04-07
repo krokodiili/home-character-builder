@@ -1,7 +1,10 @@
 {
   "name": "Lizard male",
   "type_name": "head",
-  "tags": ["lizard", "adult"],
+  "tags": [
+    "lizard",
+    "adult"
+  ],
   "layer_1": {
     "zPos": 100,
     "male": "head/heads/lizard/male/",
@@ -65,5 +68,18 @@
         "https://opengameart.org/content/lpc-character-bases"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "head-Lizard_male_light",
+    "amber": "head-Lizard_male_amber",
+    "olive": "head-Lizard_male_olive",
+    "taupe": "head-Lizard_male_taupe",
+    "bronze": "head-Lizard_male_bronze",
+    "brown": "head-Lizard_male_brown",
+    "black": "head-Lizard_male_black",
+    "lavender": "head-Lizard_male_lavender",
+    "blue": "head-Lizard_male_blue",
+    "zombie_green": "head-Lizard_male_zombie_green",
+    "green": "head-Lizard_male_dark_green"
+  }
 }

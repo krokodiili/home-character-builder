@@ -1,7 +1,9 @@
 {
   "name": "Jack O Lantern",
   "type_name": "head",
-  "tags": ["monster"],
+  "tags": [
+    "monster"
+  ],
   "layer_1": {
     "zPos": 100,
     "male": "head/heads/jack/adult/",
@@ -49,5 +51,8 @@
         "https://opengameart.org/content/lpc-folk"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "jack": "head-Jack_O_Lantern_jack"
+  }
 }

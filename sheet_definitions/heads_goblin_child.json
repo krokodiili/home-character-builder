@@ -1,7 +1,10 @@
 {
   "name": "Goblin child",
   "type_name": "head",
-  "tags": ["goblin", "child"],
+  "tags": [
+    "goblin",
+    "child"
+  ],
   "layer_1": {
     "zPos": 100,
     "child": "head/heads/goblin/child/"
@@ -70,5 +73,24 @@
         "https://opengameart.org/content/lpc-folk"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "head-Goblin_child_light",
+    "amber": "head-Goblin_child_amber",
+    "olive": "head-Goblin_child_olive",
+    "taupe": "head-Goblin_child_taupe",
+    "bronze": "head-Goblin_child_bronze",
+    "brown": "head-Goblin_child_fur_brown",
+    "black": "head-Goblin_child_fur_black",
+    "lavender": "head-Goblin_child_lavender",
+    "blue": "head-Goblin_child_blue",
+    "zombie_green": "head-Goblin_child_zombie_green",
+    "green": "head-Goblin_child_dark_green",
+    "zombie": "head-Goblin_child_zombie",
+    "fur_tan": "head-Goblin_child_fur_tan",
+    "fur_copper": "head-Goblin_child_fur_copper",
+    "fur_gold": "head-Goblin_child_fur_gold",
+    "fur_grey": "head-Goblin_child_fur_grey",
+    "fur_white": "head-Goblin_child_fur_white"
+  }
 }

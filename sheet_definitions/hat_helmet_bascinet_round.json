@@ -60,5 +60,15 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "steel": "hat-Round_bascinet_steel",
+    "iron": "hat-Round_bascinet_iron",
+    "ceramic": "hat-Round_bascinet_ceramic",
+    "brass": "hat-Round_bascinet_brass",
+    "copper": "hat-Round_bascinet_copper",
+    "bronze": "hat-Round_bascinet_bronze",
+    "silver": "hat-Round_bascinet_silver",
+    "gold": "hat-Round_bascinet_gold"
+  }
 }

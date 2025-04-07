@@ -1,8 +1,12 @@
 {
   "name": "Angry",
   "type_name": "expression",
-  "tags": ["expression"],
-  "required_tags": ["human"],
+  "tags": [
+    "expression"
+  ],
+  "required_tags": [
+    "human"
+  ],
   "replace_in_path": {
     "head": {
       "Human_male": "male",
@@ -133,5 +137,24 @@
         "https://opengameart.org/content/ulpc-expanded-expressions"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "expression-Angry_light",
+    "amber": "expression-Angry_amber",
+    "olive": "expression-Angry_olive",
+    "taupe": "expression-Angry_taupe",
+    "bronze": "expression-Angry_bronze",
+    "brown": "expression-Angry_fur_brown",
+    "black": "expression-Angry_fur_black",
+    "lavender": "expression-Angry_lavender",
+    "blue": "expression-Angry_blue",
+    "zombie_green": "expression-Angry_zombie_green",
+    "green": "expression-Angry_dark_green",
+    "fur_tan": "expression-Angry_fur_tan",
+    "fur_copper": "expression-Angry_fur_copper",
+    "fur_gold": "expression-Angry_fur_gold",
+    "fur_grey": "expression-Angry_fur_grey",
+    "fur_white": "expression-Angry_fur_white",
+    "zombie": "expression-Angry_zombie"
+  }
 }

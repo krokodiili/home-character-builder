@@ -74,5 +74,24 @@
         "http://opengameart.org/content/lpc-clothing-updates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "ears-Big_ears_light",
+    "amber": "ears-Big_ears_amber",
+    "olive": "ears-Big_ears_olive",
+    "taupe": "ears-Big_ears_taupe",
+    "bronze": "ears-Big_ears_bronze",
+    "brown": "ears-Big_ears_fur_brown",
+    "black": "ears-Big_ears_fur_black",
+    "lavender": "ears-Big_ears_lavender",
+    "blue": "ears-Big_ears_blue",
+    "zombie_green": "ears-Big_ears_zombie_green",
+    "green": "ears-Big_ears_dark_green",
+    "fur_tan": "ears-Big_ears_fur_tan",
+    "fur_copper": "ears-Big_ears_fur_copper",
+    "fur_gold": "ears-Big_ears_fur_gold",
+    "fur_grey": "ears-Big_ears_fur_grey",
+    "fur_white": "ears-Big_ears_fur_white",
+    "zombie": "ears-Big_ears_zombie"
+  }
 }

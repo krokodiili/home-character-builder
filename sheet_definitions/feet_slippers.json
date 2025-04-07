@@ -74,5 +74,30 @@
         "https://opengameart.org/content/lpc-expanded-socks-shoes"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "shoes-Slippers_black",
+    "blue": "shoes-Slippers_bluegray",
+    "brown": "shoes-Slippers_brown",
+    "charcoal": "shoes-Slippers_charcoal",
+    "forest": "shoes-Slippers_forest",
+    "gray": "shoes-Slippers_gray",
+    "green": "shoes-Slippers_green",
+    "lavender": "shoes-Slippers_lavender",
+    "leather": "shoes-Slippers_leather",
+    "maroon": "shoes-Slippers_maroon",
+    "navy": "shoes-Slippers_navy",
+    "orange": "shoes-Slippers_orange",
+    "pink": "shoes-Slippers_pink",
+    "purple": "shoes-Slippers_purple",
+    "red": "shoes-Slippers_red",
+    "rose": "shoes-Slippers_rose",
+    "sky": "shoes-Slippers_sky",
+    "slate": "shoes-Slippers_slate",
+    "tan": "shoes-Slippers_tan",
+    "teal": "shoes-Slippers_teal",
+    "walnut": "shoes-Slippers_walnut",
+    "white": "shoes-Slippers_white",
+    "yellow": "shoes-Slippers_yellow"
+  }
 }

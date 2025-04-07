@@ -70,5 +70,30 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "hat-Bicorne_Athwart_Captain_black",
+    "blue": "hat-Bicorne_Athwart_Captain_bluegray",
+    "brown": "hat-Bicorne_Athwart_Captain_brown",
+    "charcoal": "hat-Bicorne_Athwart_Captain_charcoal",
+    "forest": "hat-Bicorne_Athwart_Captain_forest",
+    "gray": "hat-Bicorne_Athwart_Captain_gray",
+    "green": "hat-Bicorne_Athwart_Captain_green",
+    "lavender": "hat-Bicorne_Athwart_Captain_lavender",
+    "leather": "hat-Bicorne_Athwart_Captain_leather",
+    "maroon": "hat-Bicorne_Athwart_Captain_maroon",
+    "navy": "hat-Bicorne_Athwart_Captain_navy",
+    "orange": "hat-Bicorne_Athwart_Captain_orange",
+    "pink": "hat-Bicorne_Athwart_Captain_pink",
+    "purple": "hat-Bicorne_Athwart_Captain_purple",
+    "red": "hat-Bicorne_Athwart_Captain_red",
+    "rose": "hat-Bicorne_Athwart_Captain_rose",
+    "sky": "hat-Bicorne_Athwart_Captain_sky",
+    "slate": "hat-Bicorne_Athwart_Captain_slate",
+    "tan": "hat-Bicorne_Athwart_Captain_tan",
+    "teal": "hat-Bicorne_Athwart_Captain_teal",
+    "walnut": "hat-Bicorne_Athwart_Captain_walnut",
+    "white": "hat-Bicorne_Athwart_Captain_white",
+    "yellow": "hat-Bicorne_Athwart_Captain_yellow"
+  }
 }

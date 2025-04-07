@@ -1,7 +1,10 @@
 {
   "name": "Wizard Hat Base",
   "type_name": "hat",
-  "tags": ["wizard", "pointed_wizard"],
+  "tags": [
+    "wizard",
+    "pointed_wizard"
+  ],
   "layer_1": {
     "zPos": 130,
     "male": "hat/magic/wizard/base/adult/",
@@ -81,5 +84,36 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "base_black": "hat-Wizard_Hat_Base_base_black",
+    "base_brown": "hat-Wizard_Hat_Base_base_brown",
+    "base_gray": "hat-Wizard_Hat_Base_base_gray",
+    "base_red": "hat-Wizard_Hat_Base_base_red",
+    "base_teal": "hat-Wizard_Hat_Base_base_teal",
+    "base_yellow": "hat-Wizard_Hat_Base_base_yellow",
+    "white": "hat-Wizard_Hat_Base_white",
+    "black": "hat-Wizard_Hat_Base_black",
+    "blue": "hat-Wizard_Hat_Base_bluegray",
+    "brown": "hat-Wizard_Hat_Base_brown",
+    "charcoal": "hat-Wizard_Hat_Base_charcoal",
+    "forest": "hat-Wizard_Hat_Base_forest",
+    "gray": "hat-Wizard_Hat_Base_gray",
+    "green": "hat-Wizard_Hat_Base_green",
+    "lavender": "hat-Wizard_Hat_Base_lavender",
+    "leather": "hat-Wizard_Hat_Base_leather",
+    "maroon": "hat-Wizard_Hat_Base_maroon",
+    "navy": "hat-Wizard_Hat_Base_navy",
+    "orange": "hat-Wizard_Hat_Base_orange",
+    "pink": "hat-Wizard_Hat_Base_pink",
+    "purple": "hat-Wizard_Hat_Base_purple",
+    "red": "hat-Wizard_Hat_Base_red",
+    "rose": "hat-Wizard_Hat_Base_rose",
+    "sky": "hat-Wizard_Hat_Base_sky",
+    "slate": "hat-Wizard_Hat_Base_slate",
+    "tan": "hat-Wizard_Hat_Base_tan",
+    "teal": "hat-Wizard_Hat_Base_teal",
+    "walnut": "hat-Wizard_Hat_Base_walnut",
+    "yellow": "hat-Wizard_Hat_Base_yellow"
+  }
 }

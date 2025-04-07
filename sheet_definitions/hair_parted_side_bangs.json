@@ -75,5 +75,31 @@
         "https://github.com/jrconway3/Universal-LPC-spritesheet/commit/46ddcf05a0e43e7aa6ffd47d350eef0eb529ac24"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-Side_Parted_w/Bangs_blonde",
+    "ash": "hair-Side_Parted_w/Bangs_ash",
+    "sandy": "hair-Side_Parted_w/Bangs_sandy",
+    "platinum": "hair-Side_Parted_w/Bangs_platinum",
+    "strawberry": "hair-Side_Parted_w/Bangs_strawberry",
+    "redhead": "hair-Side_Parted_w/Bangs_redhead",
+    "ginger": "hair-Side_Parted_w/Bangs_ginger",
+    "carrot": "hair-Side_Parted_w/Bangs_carrot",
+    "chestnut": "hair-Side_Parted_w/Bangs_chestnut",
+    "undefined": "hair-Side_Parted_w/Bangs_dark_brown",
+    "black": "hair-Side_Parted_w/Bangs_black",
+    "raven": "hair-Side_Parted_w/Bangs_raven",
+    "gray": "hair-Side_Parted_w/Bangs_gray",
+    "white": "hair-Side_Parted_w/Bangs_white",
+    "red": "hair-Side_Parted_w/Bangs_red",
+    "orange": "hair-Side_Parted_w/Bangs_orange",
+    "gold": "hair-Side_Parted_w/Bangs_gold",
+    "green": "hair-Side_Parted_w/Bangs_green",
+    "blue": "hair-Side_Parted_w/Bangs_blue",
+    "navy": "hair-Side_Parted_w/Bangs_navy",
+    "violet": "hair-Side_Parted_w/Bangs_violet",
+    "purple": "hair-Side_Parted_w/Bangs_purple",
+    "pink": "hair-Side_Parted_w/Bangs_pink",
+    "rose": "hair-Side_Parted_w/Bangs_rose"
+  }
 }

@@ -78,5 +78,30 @@
         "https://opengameart.org/content/lpc-shields"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "shield_pattern-saltire_black",
+    "blue": "shield_pattern-saltire_bluegray",
+    "brown": "shield_pattern-saltire_brown",
+    "charcoal": "shield_pattern-saltire_charcoal",
+    "forest": "shield_pattern-saltire_forest",
+    "gray": "shield_pattern-saltire_gray",
+    "green": "shield_pattern-saltire_green",
+    "lavender": "shield_pattern-saltire_lavender",
+    "leather": "shield_pattern-saltire_leather",
+    "maroon": "shield_pattern-saltire_maroon",
+    "navy": "shield_pattern-saltire_navy",
+    "orange": "shield_pattern-saltire_orange",
+    "pink": "shield_pattern-saltire_pink",
+    "purple": "shield_pattern-saltire_purple",
+    "red": "shield_pattern-saltire_red",
+    "rose": "shield_pattern-saltire_rose",
+    "sky": "shield_pattern-saltire_sky",
+    "slate": "shield_pattern-saltire_slate",
+    "tan": "shield_pattern-saltire_tan",
+    "teal": "shield_pattern-saltire_teal",
+    "walnut": "shield_pattern-saltire_walnut",
+    "white": "shield_pattern-saltire_white",
+    "yellow": "shield_pattern-saltire_yellow"
+  }
 }

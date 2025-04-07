@@ -53,5 +53,31 @@
         "https://opengameart.org/content/lpc-hair"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-Cowlick_tall_blonde",
+    "ash": "hair-Cowlick_tall_ash",
+    "sandy": "hair-Cowlick_tall_sandy",
+    "platinum": "hair-Cowlick_tall_platinum",
+    "strawberry": "hair-Cowlick_tall_strawberry",
+    "redhead": "hair-Cowlick_tall_redhead",
+    "ginger": "hair-Cowlick_tall_ginger",
+    "carrot": "hair-Cowlick_tall_carrot",
+    "chestnut": "hair-Cowlick_tall_chestnut",
+    "undefined": "hair-Cowlick_tall_dark_brown",
+    "black": "hair-Cowlick_tall_black",
+    "raven": "hair-Cowlick_tall_raven",
+    "gray": "hair-Cowlick_tall_gray",
+    "white": "hair-Cowlick_tall_white",
+    "red": "hair-Cowlick_tall_red",
+    "orange": "hair-Cowlick_tall_orange",
+    "gold": "hair-Cowlick_tall_gold",
+    "green": "hair-Cowlick_tall_green",
+    "blue": "hair-Cowlick_tall_blue",
+    "navy": "hair-Cowlick_tall_navy",
+    "violet": "hair-Cowlick_tall_violet",
+    "purple": "hair-Cowlick_tall_purple",
+    "pink": "hair-Cowlick_tall_pink",
+    "rose": "hair-Cowlick_tall_rose"
+  }
 }

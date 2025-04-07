@@ -31,5 +31,13 @@
         "https://opengameart.org/content/lpc-jewelry"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blue": "charm-Pearl_Gem_blue",
+    "green": "charm-Pearl_Gem_green",
+    "orange": "charm-Pearl_Gem_orange",
+    "purple": "charm-Pearl_Gem_purple",
+    "red": "charm-Pearl_Gem_red",
+    "yellow": "charm-Pearl_Gem_yellow"
+  }
 }

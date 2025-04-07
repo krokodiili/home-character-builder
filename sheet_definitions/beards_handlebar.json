@@ -71,5 +71,31 @@
         "https://opengameart.org/content/lpc-expanded-sit-run-jump-more"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "mustache-Handlebar_Mustache_blonde",
+    "ash": "mustache-Handlebar_Mustache_ash",
+    "sandy": "mustache-Handlebar_Mustache_sandy",
+    "platinum": "mustache-Handlebar_Mustache_platinum",
+    "strawberry": "mustache-Handlebar_Mustache_strawberry",
+    "redhead": "mustache-Handlebar_Mustache_redhead",
+    "ginger": "mustache-Handlebar_Mustache_ginger",
+    "carrot": "mustache-Handlebar_Mustache_carrot",
+    "chestnut": "mustache-Handlebar_Mustache_chestnut",
+    "undefined": "mustache-Handlebar_Mustache_dark_brown",
+    "black": "mustache-Handlebar_Mustache_black",
+    "raven": "mustache-Handlebar_Mustache_raven",
+    "gray": "mustache-Handlebar_Mustache_gray",
+    "white": "mustache-Handlebar_Mustache_white",
+    "red": "mustache-Handlebar_Mustache_red",
+    "orange": "mustache-Handlebar_Mustache_orange",
+    "gold": "mustache-Handlebar_Mustache_gold",
+    "green": "mustache-Handlebar_Mustache_green",
+    "blue": "mustache-Handlebar_Mustache_blue",
+    "navy": "mustache-Handlebar_Mustache_navy",
+    "violet": "mustache-Handlebar_Mustache_violet",
+    "purple": "mustache-Handlebar_Mustache_purple",
+    "pink": "mustache-Handlebar_Mustache_pink",
+    "rose": "mustache-Handlebar_Mustache_rose"
+  }
 }

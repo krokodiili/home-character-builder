@@ -55,5 +55,16 @@
         "https://opengameart.org/content/cyclops-and-his-eye"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "cyclops": "eyes-Cyclops_Eyes_cyclops",
+    "blue": "eyes-Cyclops_Eyes_blue",
+    "brown": "eyes-Cyclops_Eyes_brown",
+    "gray": "eyes-Cyclops_Eyes_gray",
+    "green": "eyes-Cyclops_Eyes_green",
+    "orange": "eyes-Cyclops_Eyes_orange",
+    "purple": "eyes-Cyclops_Eyes_purple",
+    "red": "eyes-Cyclops_Eyes_red",
+    "yellow": "eyes-Cyclops_Eyes_yellow"
+  }
 }

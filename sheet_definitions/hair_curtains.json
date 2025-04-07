@@ -55,5 +55,31 @@
         "https://opengameart.org/content/lpc-hair"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-Curtains_blonde",
+    "ash": "hair-Curtains_ash",
+    "sandy": "hair-Curtains_sandy",
+    "platinum": "hair-Curtains_platinum",
+    "strawberry": "hair-Curtains_strawberry",
+    "redhead": "hair-Curtains_redhead",
+    "ginger": "hair-Curtains_ginger",
+    "carrot": "hair-Curtains_carrot",
+    "chestnut": "hair-Curtains_chestnut",
+    "undefined": "hair-Curtains_dark_brown",
+    "black": "hair-Curtains_black",
+    "raven": "hair-Curtains_raven",
+    "gray": "hair-Curtains_gray",
+    "white": "hair-Curtains_white",
+    "red": "hair-Curtains_red",
+    "orange": "hair-Curtains_orange",
+    "gold": "hair-Curtains_gold",
+    "green": "hair-Curtains_green",
+    "blue": "hair-Curtains_blue",
+    "navy": "hair-Curtains_navy",
+    "violet": "hair-Curtains_violet",
+    "purple": "hair-Curtains_purple",
+    "pink": "hair-Curtains_pink",
+    "rose": "hair-Curtains_rose"
+  }
 }

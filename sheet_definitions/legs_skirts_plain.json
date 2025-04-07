@@ -52,5 +52,30 @@
         "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "legs-Plain_skirt_black",
+    "blue": "legs-Plain_skirt_bluegray",
+    "brown": "legs-Plain_skirt_brown",
+    "charcoal": "legs-Plain_skirt_charcoal",
+    "forest": "legs-Plain_skirt_forest",
+    "gray": "legs-Plain_skirt_gray",
+    "green": "legs-Plain_skirt_green",
+    "lavender": "legs-Plain_skirt_lavender",
+    "leather": "legs-Plain_skirt_leather",
+    "maroon": "legs-Plain_skirt_maroon",
+    "navy": "legs-Plain_skirt_navy",
+    "orange": "legs-Plain_skirt_orange",
+    "pink": "legs-Plain_skirt_pink",
+    "purple": "legs-Plain_skirt_purple",
+    "red": "legs-Plain_skirt_red",
+    "rose": "legs-Plain_skirt_rose",
+    "sky": "legs-Plain_skirt_sky",
+    "slate": "legs-Plain_skirt_slate",
+    "tan": "legs-Plain_skirt_tan",
+    "teal": "legs-Plain_skirt_teal",
+    "walnut": "legs-Plain_skirt_walnut",
+    "white": "legs-Plain_skirt_white",
+    "yellow": "legs-Plain_skirt_yellow"
+  }
 }

@@ -79,5 +79,39 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "base": "hat_trim-Bicorne_Athwart_Commodore_Trim_base",
+    "steel": "hat_trim-Bicorne_Athwart_Commodore_Trim_steel",
+    "iron": "hat_trim-Bicorne_Athwart_Commodore_Trim_iron",
+    "ceramic": "hat_trim-Bicorne_Athwart_Commodore_Trim_ceramic",
+    "brass": "hat_trim-Bicorne_Athwart_Commodore_Trim_brass",
+    "copper": "hat_trim-Bicorne_Athwart_Commodore_Trim_copper",
+    "bronze": "hat_trim-Bicorne_Athwart_Commodore_Trim_bronze",
+    "silver": "hat_trim-Bicorne_Athwart_Commodore_Trim_silver",
+    "gold": "hat_trim-Bicorne_Athwart_Commodore_Trim_gold",
+    "black": "hat_trim-Bicorne_Athwart_Commodore_Trim_black",
+    "blue": "hat_trim-Bicorne_Athwart_Commodore_Trim_bluegray",
+    "brown": "hat_trim-Bicorne_Athwart_Commodore_Trim_brown",
+    "charcoal": "hat_trim-Bicorne_Athwart_Commodore_Trim_charcoal",
+    "forest": "hat_trim-Bicorne_Athwart_Commodore_Trim_forest",
+    "gray": "hat_trim-Bicorne_Athwart_Commodore_Trim_gray",
+    "green": "hat_trim-Bicorne_Athwart_Commodore_Trim_green",
+    "lavender": "hat_trim-Bicorne_Athwart_Commodore_Trim_lavender",
+    "leather": "hat_trim-Bicorne_Athwart_Commodore_Trim_leather",
+    "maroon": "hat_trim-Bicorne_Athwart_Commodore_Trim_maroon",
+    "navy": "hat_trim-Bicorne_Athwart_Commodore_Trim_navy",
+    "orange": "hat_trim-Bicorne_Athwart_Commodore_Trim_orange",
+    "pink": "hat_trim-Bicorne_Athwart_Commodore_Trim_pink",
+    "purple": "hat_trim-Bicorne_Athwart_Commodore_Trim_purple",
+    "red": "hat_trim-Bicorne_Athwart_Commodore_Trim_red",
+    "rose": "hat_trim-Bicorne_Athwart_Commodore_Trim_rose",
+    "sky": "hat_trim-Bicorne_Athwart_Commodore_Trim_sky",
+    "slate": "hat_trim-Bicorne_Athwart_Commodore_Trim_slate",
+    "tan": "hat_trim-Bicorne_Athwart_Commodore_Trim_tan",
+    "teal": "hat_trim-Bicorne_Athwart_Commodore_Trim_teal",
+    "walnut": "hat_trim-Bicorne_Athwart_Commodore_Trim_walnut",
+    "white": "hat_trim-Bicorne_Athwart_Commodore_Trim_white",
+    "yellow": "hat_trim-Bicorne_Athwart_Commodore_Trim_yellow"
+  }
 }

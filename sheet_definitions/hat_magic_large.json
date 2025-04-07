@@ -49,5 +49,8 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "brown": "hat-Large_Hat_brown"
+  }
 }

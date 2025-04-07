@@ -1,8 +1,13 @@
 {
   "name": "Sad Alt",
   "type_name": "expression",
-  "tags": ["expression"],
-  "required_tags": ["human", "adult"],
+  "tags": [
+    "expression"
+  ],
+  "required_tags": [
+    "human",
+    "adult"
+  ],
   "layer_1": {
     "zPos": 101,
     "male": "head/faces/global/sad2/",
@@ -74,5 +79,24 @@
         "https://opengameart.org/content/ulpc-expanded-expressions"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "expression-Sad_Alt_light",
+    "amber": "expression-Sad_Alt_amber",
+    "olive": "expression-Sad_Alt_olive",
+    "taupe": "expression-Sad_Alt_taupe",
+    "bronze": "expression-Sad_Alt_bronze",
+    "brown": "expression-Sad_Alt_fur_brown",
+    "black": "expression-Sad_Alt_fur_black",
+    "lavender": "expression-Sad_Alt_lavender",
+    "blue": "expression-Sad_Alt_blue",
+    "zombie_green": "expression-Sad_Alt_zombie_green",
+    "green": "expression-Sad_Alt_dark_green",
+    "fur_tan": "expression-Sad_Alt_fur_tan",
+    "fur_copper": "expression-Sad_Alt_fur_copper",
+    "fur_gold": "expression-Sad_Alt_fur_gold",
+    "fur_grey": "expression-Sad_Alt_fur_grey",
+    "fur_white": "expression-Sad_Alt_fur_white",
+    "zombie": "expression-Sad_Alt_zombie"
+  }
 }

@@ -55,5 +55,31 @@
         "https://opengameart.org/content/3-hairs-for-lpc"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-Wavy_blonde",
+    "ash": "hair-Wavy_ash",
+    "sandy": "hair-Wavy_sandy",
+    "platinum": "hair-Wavy_platinum",
+    "strawberry": "hair-Wavy_strawberry",
+    "redhead": "hair-Wavy_redhead",
+    "ginger": "hair-Wavy_ginger",
+    "carrot": "hair-Wavy_carrot",
+    "chestnut": "hair-Wavy_chestnut",
+    "undefined": "hair-Wavy_dark_brown",
+    "black": "hair-Wavy_black",
+    "raven": "hair-Wavy_raven",
+    "gray": "hair-Wavy_gray",
+    "white": "hair-Wavy_white",
+    "red": "hair-Wavy_red",
+    "orange": "hair-Wavy_orange",
+    "gold": "hair-Wavy_gold",
+    "green": "hair-Wavy_green",
+    "blue": "hair-Wavy_blue",
+    "navy": "hair-Wavy_navy",
+    "violet": "hair-Wavy_violet",
+    "purple": "hair-Wavy_purple",
+    "pink": "hair-Wavy_pink",
+    "rose": "hair-Wavy_rose"
+  }
 }

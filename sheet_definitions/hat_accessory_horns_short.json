@@ -83,5 +83,38 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "steel": "accessory-Short_Horns_steel",
+    "iron": "accessory-Short_Horns_iron",
+    "ceramic": "accessory-Short_Horns_ceramic",
+    "brass": "accessory-Short_Horns_brass",
+    "copper": "accessory-Short_Horns_copper",
+    "bronze": "accessory-Short_Horns_bronze",
+    "silver": "accessory-Short_Horns_silver",
+    "gold": "accessory-Short_Horns_gold",
+    "black": "accessory-Short_Horns_black",
+    "blue": "accessory-Short_Horns_bluegray",
+    "brown": "accessory-Short_Horns_brown",
+    "charcoal": "accessory-Short_Horns_charcoal",
+    "forest": "accessory-Short_Horns_forest",
+    "gray": "accessory-Short_Horns_gray",
+    "green": "accessory-Short_Horns_green",
+    "lavender": "accessory-Short_Horns_lavender",
+    "leather": "accessory-Short_Horns_leather",
+    "maroon": "accessory-Short_Horns_maroon",
+    "navy": "accessory-Short_Horns_navy",
+    "orange": "accessory-Short_Horns_orange",
+    "pink": "accessory-Short_Horns_pink",
+    "purple": "accessory-Short_Horns_purple",
+    "red": "accessory-Short_Horns_red",
+    "rose": "accessory-Short_Horns_rose",
+    "sky": "accessory-Short_Horns_sky",
+    "slate": "accessory-Short_Horns_slate",
+    "tan": "accessory-Short_Horns_tan",
+    "teal": "accessory-Short_Horns_teal",
+    "walnut": "accessory-Short_Horns_walnut",
+    "white": "accessory-Short_Horns_white",
+    "yellow": "accessory-Short_Horns_yellow"
+  }
 }

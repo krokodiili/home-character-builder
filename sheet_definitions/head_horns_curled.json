@@ -104,5 +104,8 @@
         "https://opengameart.org/content/lpc-lizard-headgear"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "horns": "horns-Curled_Horns_metallic_gold"
+  }
 }

@@ -53,5 +53,31 @@
         "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hair-Page_blonde",
+    "ash": "hair-Page_ash",
+    "sandy": "hair-Page_sandy",
+    "platinum": "hair-Page_platinum",
+    "strawberry": "hair-Page_strawberry",
+    "redhead": "hair-Page_redhead",
+    "ginger": "hair-Page_ginger",
+    "carrot": "hair-Page_carrot",
+    "chestnut": "hair-Page_chestnut",
+    "undefined": "hair-Page_dark_brown",
+    "black": "hair-Page_black",
+    "raven": "hair-Page_raven",
+    "gray": "hair-Page_gray",
+    "white": "hair-Page_white",
+    "red": "hair-Page_red",
+    "orange": "hair-Page_orange",
+    "gold": "hair-Page_gold",
+    "green": "hair-Page_green",
+    "blue": "hair-Page_blue",
+    "navy": "hair-Page_navy",
+    "violet": "hair-Page_violet",
+    "purple": "hair-Page_purple",
+    "pink": "hair-Page_pink",
+    "rose": "hair-Page_rose"
+  }
 }

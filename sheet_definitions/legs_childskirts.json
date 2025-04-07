@@ -36,5 +36,15 @@
         "https://opengameart.org/content/lpc-clothes-for-children"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "legs-Child_skirts_black",
+    "blue": "legs-Child_skirts_lightblue",
+    "green": "legs-Child_skirts_green",
+    "lavender": "legs-Child_skirts_lavender",
+    "maroon": "legs-Child_skirts_maroon",
+    "pink": "legs-Child_skirts_pink",
+    "red": "legs-Child_skirts_red",
+    "white": "legs-Child_skirts_white"
+  }
 }

@@ -44,5 +44,26 @@
         "https://opengameart.org/content/lpc-7-womens-shirts"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "vest-Corset_black",
+    "blue": "vest-Corset_blue",
+    "forest": "vest-Corset_forest",
+    "gray": "vest-Corset_gray",
+    "green": "vest-Corset_green",
+    "lavender": "vest-Corset_lavender",
+    "leather": "vest-Corset_leather",
+    "maroon": "vest-Corset_maroon",
+    "navy": "vest-Corset_navy",
+    "orange": "vest-Corset_orange",
+    "pink": "vest-Corset_pink",
+    "purple": "vest-Corset_purple",
+    "red": "vest-Corset_red",
+    "sky": "vest-Corset_sky",
+    "tan": "vest-Corset_tan",
+    "teal": "vest-Corset_teal",
+    "walnut": "vest-Corset_walnut",
+    "white": "vest-Corset_white",
+    "yellow": "vest-Corset_yellow"
+  }
 }

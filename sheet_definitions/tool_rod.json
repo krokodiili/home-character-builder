@@ -44,5 +44,8 @@
         "https://opengameart.org/content/lpc-hand-tools"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "rod": "weapon-Rod_rod"
+  }
 }

@@ -70,5 +70,30 @@
         "https://opengameart.org/content/lpc-expanded-sit-run-jump-more"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "neck-Bowtie_2_black",
+    "blue": "neck-Bowtie_2_bluegray",
+    "brown": "neck-Bowtie_2_brown",
+    "charcoal": "neck-Bowtie_2_charcoal",
+    "forest": "neck-Bowtie_2_forest",
+    "gray": "neck-Bowtie_2_gray",
+    "green": "neck-Bowtie_2_green",
+    "lavender": "neck-Bowtie_2_lavender",
+    "leather": "neck-Bowtie_2_leather",
+    "maroon": "neck-Bowtie_2_maroon",
+    "navy": "neck-Bowtie_2_navy",
+    "orange": "neck-Bowtie_2_orange",
+    "pink": "neck-Bowtie_2_pink",
+    "purple": "neck-Bowtie_2_purple",
+    "red": "neck-Bowtie_2_red",
+    "rose": "neck-Bowtie_2_rose",
+    "sky": "neck-Bowtie_2_sky",
+    "slate": "neck-Bowtie_2_slate",
+    "tan": "neck-Bowtie_2_tan",
+    "teal": "neck-Bowtie_2_teal",
+    "walnut": "neck-Bowtie_2_walnut",
+    "white": "neck-Bowtie_2_white",
+    "yellow": "neck-Bowtie_2_yellow"
+  }
 }

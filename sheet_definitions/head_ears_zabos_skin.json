@@ -70,5 +70,24 @@
         "https://opengameart.org/content/lpc-furry-ears-tails-for-rpg-sprites"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "ears_inner-Side_Cat_Ears_Skintone_light",
+    "amber": "ears_inner-Side_Cat_Ears_Skintone_amber",
+    "olive": "ears_inner-Side_Cat_Ears_Skintone_olive",
+    "taupe": "ears_inner-Side_Cat_Ears_Skintone_taupe",
+    "bronze": "ears_inner-Side_Cat_Ears_Skintone_bronze",
+    "brown": "ears_inner-Side_Cat_Ears_Skintone_fur_brown",
+    "black": "ears_inner-Side_Cat_Ears_Skintone_fur_black",
+    "lavender": "ears_inner-Side_Cat_Ears_Skintone_lavender",
+    "blue": "ears_inner-Side_Cat_Ears_Skintone_blue",
+    "zombie_green": "ears_inner-Side_Cat_Ears_Skintone_zombie_green",
+    "green": "ears_inner-Side_Cat_Ears_Skintone_dark_green",
+    "fur_tan": "ears_inner-Side_Cat_Ears_Skintone_fur_tan",
+    "fur_copper": "ears_inner-Side_Cat_Ears_Skintone_fur_copper",
+    "fur_gold": "ears_inner-Side_Cat_Ears_Skintone_fur_gold",
+    "fur_grey": "ears_inner-Side_Cat_Ears_Skintone_fur_grey",
+    "fur_white": "ears_inner-Side_Cat_Ears_Skintone_fur_white",
+    "zombie": "ears_inner-Side_Cat_Ears_Skintone_zombie"
+  }
 }

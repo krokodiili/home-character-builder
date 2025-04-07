@@ -78,5 +78,17 @@
         "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "belt-Other_belts_black",
+    "bronze": "belt-Other_belts_bronze",
+    "brown": "belt-Other_belts_brown",
+    "gold": "belt-Other_belts_gold",
+    "iron": "belt-Other_belts_iron",
+    "leather": "belt-Other_belts_leather",
+    "silver": "belt-Other_belts_silver",
+    "teal": "belt-Other_belts_teal",
+    "white": "belt-Other_belts_white",
+    "undefined": "belt-Other_belts_formal"
+  }
 }

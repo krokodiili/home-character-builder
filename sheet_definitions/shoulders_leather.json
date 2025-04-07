@@ -52,5 +52,30 @@
         "http://opengameart.org/content/lpc-clothing-updates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "leather": "armour-Leather_leather",
+    "black": "armour-Leather_black",
+    "blue": "armour-Leather_bluegray",
+    "brown": "armour-Leather_brown",
+    "charcoal": "armour-Leather_charcoal",
+    "forest": "armour-Leather_forest",
+    "gray": "armour-Leather_gray",
+    "green": "armour-Leather_green",
+    "lavender": "armour-Leather_lavender",
+    "maroon": "armour-Leather_maroon",
+    "navy": "armour-Leather_navy",
+    "orange": "armour-Leather_orange",
+    "pink": "armour-Leather_pink",
+    "purple": "armour-Leather_purple",
+    "red": "armour-Leather_red",
+    "rose": "armour-Leather_rose",
+    "sky": "armour-Leather_sky",
+    "slate": "armour-Leather_slate",
+    "tan": "armour-Leather_tan",
+    "teal": "armour-Leather_teal",
+    "walnut": "armour-Leather_walnut",
+    "white": "armour-Leather_white",
+    "yellow": "armour-Leather_yellow"
+  }
 }

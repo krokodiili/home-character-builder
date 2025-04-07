@@ -74,5 +74,31 @@
         "https://opengameart.org/content/lpc-expanded-xlong-hair"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "hairextr-Right_XLong_Bang_blonde",
+    "ash": "hairextr-Right_XLong_Bang_ash",
+    "sandy": "hairextr-Right_XLong_Bang_sandy",
+    "platinum": "hairextr-Right_XLong_Bang_platinum",
+    "strawberry": "hairextr-Right_XLong_Bang_strawberry",
+    "redhead": "hairextr-Right_XLong_Bang_redhead",
+    "ginger": "hairextr-Right_XLong_Bang_ginger",
+    "carrot": "hairextr-Right_XLong_Bang_carrot",
+    "chestnut": "hairextr-Right_XLong_Bang_chestnut",
+    "undefined": "hairextr-Right_XLong_Bang_dark_brown",
+    "black": "hairextr-Right_XLong_Bang_black",
+    "raven": "hairextr-Right_XLong_Bang_raven",
+    "gray": "hairextr-Right_XLong_Bang_gray",
+    "white": "hairextr-Right_XLong_Bang_white",
+    "red": "hairextr-Right_XLong_Bang_red",
+    "orange": "hairextr-Right_XLong_Bang_orange",
+    "gold": "hairextr-Right_XLong_Bang_gold",
+    "green": "hairextr-Right_XLong_Bang_green",
+    "blue": "hairextr-Right_XLong_Bang_blue",
+    "navy": "hairextr-Right_XLong_Bang_navy",
+    "violet": "hairextr-Right_XLong_Bang_violet",
+    "purple": "hairextr-Right_XLong_Bang_purple",
+    "pink": "hairextr-Right_XLong_Bang_pink",
+    "rose": "hairextr-Right_XLong_Bang_rose"
+  }
 }

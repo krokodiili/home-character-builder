@@ -1,7 +1,10 @@
 {
   "name": "Wartotaur",
   "type_name": "head",
-  "tags": ["animal", "wartotaur"],
+  "tags": [
+    "animal",
+    "wartotaur"
+  ],
   "layer_1": {
     "zPos": 100,
     "male": "head/heads/wartotaur/adult/",
@@ -73,5 +76,26 @@
         "https://opengameart.org/content/lpc-folk"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "fur_black": "head-Wartotaur_fur_black",
+    "fur_brown": "head-Wartotaur_fur_brown",
+    "fur_tan": "head-Wartotaur_fur_tan",
+    "fur_copper": "head-Wartotaur_fur_copper",
+    "fur_gold": "head-Wartotaur_fur_gold",
+    "fur_grey": "head-Wartotaur_fur_grey",
+    "fur_white": "head-Wartotaur_fur_white",
+    "light": "head-Wartotaur_light",
+    "amber": "head-Wartotaur_amber",
+    "olive": "head-Wartotaur_olive",
+    "taupe": "head-Wartotaur_taupe",
+    "bronze": "head-Wartotaur_bronze",
+    "brown": "head-Wartotaur_brown",
+    "black": "head-Wartotaur_black",
+    "lavender": "head-Wartotaur_lavender",
+    "blue": "head-Wartotaur_blue",
+    "zombie_green": "head-Wartotaur_zombie_green",
+    "green": "head-Wartotaur_dark_green",
+    "zombie": "head-Wartotaur_zombie"
+  }
 }

@@ -93,5 +93,15 @@
         "https://opengameart.org/content/lpc-combat-armor-for-women"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "steel": "armour-Plate_steel",
+    "iron": "armour-Plate_iron",
+    "ceramic": "armour-Plate_ceramic",
+    "brass": "armour-Plate_brass",
+    "copper": "armour-Plate_copper",
+    "bronze": "armour-Plate_bronze",
+    "silver": "armour-Plate_silver",
+    "gold": "armour-Plate_gold"
+  }
 }

@@ -72,5 +72,30 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "accessory-Centurion_Plumage_black",
+    "blue": "accessory-Centurion_Plumage_bluegray",
+    "brown": "accessory-Centurion_Plumage_brown",
+    "charcoal": "accessory-Centurion_Plumage_charcoal",
+    "forest": "accessory-Centurion_Plumage_forest",
+    "gray": "accessory-Centurion_Plumage_gray",
+    "green": "accessory-Centurion_Plumage_green",
+    "lavender": "accessory-Centurion_Plumage_lavender",
+    "leather": "accessory-Centurion_Plumage_leather",
+    "maroon": "accessory-Centurion_Plumage_maroon",
+    "navy": "accessory-Centurion_Plumage_navy",
+    "orange": "accessory-Centurion_Plumage_orange",
+    "pink": "accessory-Centurion_Plumage_pink",
+    "purple": "accessory-Centurion_Plumage_purple",
+    "red": "accessory-Centurion_Plumage_red",
+    "rose": "accessory-Centurion_Plumage_rose",
+    "sky": "accessory-Centurion_Plumage_sky",
+    "slate": "accessory-Centurion_Plumage_slate",
+    "tan": "accessory-Centurion_Plumage_tan",
+    "teal": "accessory-Centurion_Plumage_teal",
+    "walnut": "accessory-Centurion_Plumage_walnut",
+    "white": "accessory-Centurion_Plumage_white",
+    "yellow": "accessory-Centurion_Plumage_yellow"
+  }
 }

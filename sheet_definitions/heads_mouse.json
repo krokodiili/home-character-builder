@@ -1,7 +1,10 @@
 {
   "name": "Mouse",
   "type_name": "head",
-  "tags": ["animal", "adult"],
+  "tags": [
+    "animal",
+    "adult"
+  ],
   "layer_1": {
     "zPos": 100,
     "male": "head/heads/mouse/adult/",
@@ -71,5 +74,25 @@
         "http://opengameart.org/content/lpc-folk"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "fur_black": "head-Mouse_fur_black",
+    "fur_brown": "head-Mouse_fur_brown",
+    "fur_tan": "head-Mouse_fur_tan",
+    "fur_copper": "head-Mouse_fur_copper",
+    "fur_gold": "head-Mouse_fur_gold",
+    "fur_grey": "head-Mouse_fur_grey",
+    "fur_white": "head-Mouse_fur_white",
+    "light": "head-Mouse_light",
+    "amber": "head-Mouse_amber",
+    "olive": "head-Mouse_olive",
+    "taupe": "head-Mouse_taupe",
+    "bronze": "head-Mouse_bronze",
+    "brown": "head-Mouse_brown",
+    "black": "head-Mouse_black",
+    "lavender": "head-Mouse_lavender",
+    "blue": "head-Mouse_blue",
+    "zombie_green": "head-Mouse_zombie_green",
+    "green": "head-Mouse_dark_green"
+  }
 }

@@ -1,7 +1,10 @@
 {
   "name": "Human male gaunt",
   "type_name": "head",
-  "tags": ["human", "adult"],
+  "tags": [
+    "human",
+    "adult"
+  ],
   "layer_1": {
     "zPos": 100,
     "male": "head/heads/human/male_gaunt/",
@@ -72,5 +75,24 @@
         "https://opengameart.org/content/lpc-folk"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "head-Human_male_gaunt_light",
+    "amber": "head-Human_male_gaunt_amber",
+    "olive": "head-Human_male_gaunt_olive",
+    "taupe": "head-Human_male_gaunt_taupe",
+    "bronze": "head-Human_male_gaunt_bronze",
+    "brown": "head-Human_male_gaunt_fur_brown",
+    "black": "head-Human_male_gaunt_fur_black",
+    "lavender": "head-Human_male_gaunt_lavender",
+    "blue": "head-Human_male_gaunt_blue",
+    "zombie_green": "head-Human_male_gaunt_zombie_green",
+    "green": "head-Human_male_gaunt_dark_green",
+    "zombie": "head-Human_male_gaunt_zombie",
+    "fur_tan": "head-Human_male_gaunt_fur_tan",
+    "fur_copper": "head-Human_male_gaunt_fur_copper",
+    "fur_gold": "head-Human_male_gaunt_fur_gold",
+    "fur_grey": "head-Human_male_gaunt_fur_grey",
+    "fur_white": "head-Human_male_gaunt_fur_white"
+  }
 }

@@ -72,5 +72,30 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "hairtie-Hair_Tie_black",
+    "blue": "hairtie-Hair_Tie_bluegray",
+    "brown": "hairtie-Hair_Tie_brown",
+    "charcoal": "hairtie-Hair_Tie_charcoal",
+    "forest": "hairtie-Hair_Tie_forest",
+    "gray": "hairtie-Hair_Tie_gray",
+    "green": "hairtie-Hair_Tie_green",
+    "lavender": "hairtie-Hair_Tie_lavender",
+    "leather": "hairtie-Hair_Tie_leather",
+    "maroon": "hairtie-Hair_Tie_maroon",
+    "navy": "hairtie-Hair_Tie_navy",
+    "orange": "hairtie-Hair_Tie_orange",
+    "pink": "hairtie-Hair_Tie_pink",
+    "purple": "hairtie-Hair_Tie_purple",
+    "red": "hairtie-Hair_Tie_red",
+    "rose": "hairtie-Hair_Tie_rose",
+    "sky": "hairtie-Hair_Tie_sky",
+    "slate": "hairtie-Hair_Tie_slate",
+    "tan": "hairtie-Hair_Tie_tan",
+    "teal": "hairtie-Hair_Tie_teal",
+    "walnut": "hairtie-Hair_Tie_walnut",
+    "white": "hairtie-Hair_Tie_white",
+    "yellow": "hairtie-Hair_Tie_yellow"
+  }
 }

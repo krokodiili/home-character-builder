@@ -72,5 +72,30 @@
         "http://opengameart.org/content/lpc-clothing-updates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "clothes-Scoop_black",
+    "blue": "clothes-Scoop_bluegray",
+    "brown": "clothes-Scoop_brown",
+    "charcoal": "clothes-Scoop_charcoal",
+    "forest": "clothes-Scoop_forest",
+    "gray": "clothes-Scoop_gray",
+    "green": "clothes-Scoop_green",
+    "lavender": "clothes-Scoop_lavender",
+    "leather": "clothes-Scoop_leather",
+    "maroon": "clothes-Scoop_maroon",
+    "navy": "clothes-Scoop_navy",
+    "orange": "clothes-Scoop_orange",
+    "pink": "clothes-Scoop_pink",
+    "purple": "clothes-Scoop_purple",
+    "red": "clothes-Scoop_red",
+    "rose": "clothes-Scoop_rose",
+    "sky": "clothes-Scoop_sky",
+    "slate": "clothes-Scoop_slate",
+    "tan": "clothes-Scoop_tan",
+    "teal": "clothes-Scoop_teal",
+    "walnut": "clothes-Scoop_walnut",
+    "white": "clothes-Scoop_white",
+    "yellow": "clothes-Scoop_yellow"
+  }
 }

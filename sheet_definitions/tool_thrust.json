@@ -40,5 +40,10 @@
         "https://opengameart.org/content/lpc-hand-tools"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "hoe": "weapon-Thrust_hoe",
+    "shovel": "weapon-Thrust_shovel",
+    "watering": "weapon-Thrust_watering"
+  }
 }

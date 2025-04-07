@@ -26,5 +26,11 @@
         "https://opengameart.org/content/female-mage-clothing-set"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "bronze": "buckles-Buckles_bronze",
+    "gold": "buckles-Buckles_gold",
+    "iron": "buckles-Buckles_iron",
+    "silver": "buckles-Buckles_silver"
+  }
 }

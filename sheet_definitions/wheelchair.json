@@ -41,5 +41,12 @@
         "https://opengameart.org/content/lpc-revised-elders"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "wheelchair-Wheelchair_black",
+    "blue": "wheelchair-Wheelchair_blue",
+    "pink": "wheelchair-Wheelchair_pink",
+    "tan": "wheelchair-Wheelchair_tan",
+    "white": "wheelchair-Wheelchair_white"
+  }
 }

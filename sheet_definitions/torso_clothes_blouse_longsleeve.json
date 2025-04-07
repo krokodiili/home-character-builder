@@ -45,5 +45,26 @@
         "https://opengameart.org/content/lpc-7-womens-shirts"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "clothes-Longsleeve_blouse_black",
+    "blue": "clothes-Longsleeve_blouse_blue",
+    "forest": "clothes-Longsleeve_blouse_forest",
+    "gray": "clothes-Longsleeve_blouse_gray",
+    "green": "clothes-Longsleeve_blouse_green",
+    "lavender": "clothes-Longsleeve_blouse_lavender",
+    "leather": "clothes-Longsleeve_blouse_leather",
+    "maroon": "clothes-Longsleeve_blouse_maroon",
+    "navy": "clothes-Longsleeve_blouse_navy",
+    "orange": "clothes-Longsleeve_blouse_orange",
+    "pink": "clothes-Longsleeve_blouse_pink",
+    "purple": "clothes-Longsleeve_blouse_purple",
+    "red": "clothes-Longsleeve_blouse_red",
+    "sky": "clothes-Longsleeve_blouse_sky",
+    "tan": "clothes-Longsleeve_blouse_tan",
+    "teal": "clothes-Longsleeve_blouse_teal",
+    "walnut": "clothes-Longsleeve_blouse_walnut",
+    "white": "clothes-Longsleeve_blouse_white",
+    "yellow": "clothes-Longsleeve_blouse_yellow"
+  }
 }

@@ -1,8 +1,12 @@
 {
   "name": "Monarch Wings Edge",
   "type_name": "wings_edge",
-  "tags": ["wings"],
-  "required_tags": ["monarch"],
+  "tags": [
+    "wings"
+  ],
+  "required_tags": [
+    "monarch"
+  ],
   "layer_1": {
     "zPos": 106,
     "male": "body/wings/monarch/edge/fg/",
@@ -66,5 +70,32 @@
         "https://opengameart.org/content/lpc-fairy-wings"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "amber": "wings_edge-Monarch_Wings_Edge_amber",
+    "black": "wings_edge-Monarch_Wings_Edge_black",
+    "blue": "wings_edge-Monarch_Wings_Edge_bluegray",
+    "bright_green": "wings_edge-Monarch_Wings_Edge_bright_green",
+    "bronze": "wings_edge-Monarch_Wings_Edge_bronze",
+    "brown": "wings_edge-Monarch_Wings_Edge_brown",
+    "ceramic": "wings_edge-Monarch_Wings_Edge_ceramic",
+    "forest": "wings_edge-Monarch_Wings_Edge_forest",
+    "gold": "wings_edge-Monarch_Wings_Edge_gold",
+    "green": "wings_edge-Monarch_Wings_Edge_zombie_green",
+    "iron": "wings_edge-Monarch_Wings_Edge_iron",
+    "lavender": "wings_edge-Monarch_Wings_Edge_lavender",
+    "light": "wings_edge-Monarch_Wings_Edge_light",
+    "maroon": "wings_edge-Monarch_Wings_Edge_maroon",
+    "navy": "wings_edge-Monarch_Wings_Edge_navy",
+    "orange": "wings_edge-Monarch_Wings_Edge_orange",
+    "pink": "wings_edge-Monarch_Wings_Edge_pink",
+    "purple": "wings_edge-Monarch_Wings_Edge_purple",
+    "red": "wings_edge-Monarch_Wings_Edge_red",
+    "rose": "wings_edge-Monarch_Wings_Edge_rose",
+    "silver": "wings_edge-Monarch_Wings_Edge_silver",
+    "sky": "wings_edge-Monarch_Wings_Edge_sky",
+    "teal": "wings_edge-Monarch_Wings_Edge_teal",
+    "white": "wings_edge-Monarch_Wings_Edge_white",
+    "yellow": "wings_edge-Monarch_Wings_Edge_yellow"
+  }
 }

@@ -70,5 +70,31 @@
         "https://opengameart.org/content/lpc-expanded-xlong-hair"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "updo-High_Bun_blonde",
+    "ash": "updo-High_Bun_ash",
+    "sandy": "updo-High_Bun_sandy",
+    "platinum": "updo-High_Bun_platinum",
+    "strawberry": "updo-High_Bun_strawberry",
+    "redhead": "updo-High_Bun_redhead",
+    "ginger": "updo-High_Bun_ginger",
+    "carrot": "updo-High_Bun_carrot",
+    "chestnut": "updo-High_Bun_chestnut",
+    "undefined": "updo-High_Bun_dark_brown",
+    "black": "updo-High_Bun_black",
+    "raven": "updo-High_Bun_raven",
+    "gray": "updo-High_Bun_gray",
+    "white": "updo-High_Bun_white",
+    "red": "updo-High_Bun_red",
+    "orange": "updo-High_Bun_orange",
+    "gold": "updo-High_Bun_gold",
+    "green": "updo-High_Bun_green",
+    "blue": "updo-High_Bun_blue",
+    "navy": "updo-High_Bun_navy",
+    "violet": "updo-High_Bun_violet",
+    "purple": "updo-High_Bun_purple",
+    "pink": "updo-High_Bun_pink",
+    "rose": "updo-High_Bun_rose"
+  }
 }

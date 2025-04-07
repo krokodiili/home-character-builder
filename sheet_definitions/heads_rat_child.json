@@ -1,7 +1,10 @@
 {
   "name": "Rat child",
   "type_name": "head",
-  "tags": ["animal", "child"],
+  "tags": [
+    "animal",
+    "child"
+  ],
   "layer_1": {
     "zPos": 100,
     "child": "head/heads/rat/child/"
@@ -68,5 +71,26 @@
         "http://opengameart.org/content/lpc-folk"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "fur_black": "head-Rat_child_fur_black",
+    "fur_brown": "head-Rat_child_fur_brown",
+    "fur_tan": "head-Rat_child_fur_tan",
+    "fur_copper": "head-Rat_child_fur_copper",
+    "fur_gold": "head-Rat_child_fur_gold",
+    "fur_grey": "head-Rat_child_fur_grey",
+    "fur_white": "head-Rat_child_fur_white",
+    "light": "head-Rat_child_light",
+    "amber": "head-Rat_child_amber",
+    "olive": "head-Rat_child_olive",
+    "taupe": "head-Rat_child_taupe",
+    "bronze": "head-Rat_child_bronze",
+    "brown": "head-Rat_child_brown",
+    "black": "head-Rat_child_black",
+    "lavender": "head-Rat_child_lavender",
+    "blue": "head-Rat_child_blue",
+    "zombie_green": "head-Rat_child_zombie_green",
+    "green": "head-Rat_child_dark_green",
+    "zombie": "head-Rat_child_zombie"
+  }
 }

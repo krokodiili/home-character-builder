@@ -1,7 +1,10 @@
 {
   "name": "Pig child",
   "type_name": "head",
-  "tags": ["animal", "child"],
+  "tags": [
+    "animal",
+    "child"
+  ],
   "layer_1": {
     "zPos": 100,
     "child": "head/heads/pig/child/"
@@ -67,5 +70,24 @@
         "http://opengameart.org/content/lpc-folk"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "head-Pig_child_light",
+    "amber": "head-Pig_child_amber",
+    "olive": "head-Pig_child_olive",
+    "taupe": "head-Pig_child_taupe",
+    "bronze": "head-Pig_child_bronze",
+    "brown": "head-Pig_child_fur_brown",
+    "black": "head-Pig_child_fur_black",
+    "lavender": "head-Pig_child_lavender",
+    "blue": "head-Pig_child_blue",
+    "zombie_green": "head-Pig_child_zombie_green",
+    "green": "head-Pig_child_dark_green",
+    "fur_tan": "head-Pig_child_fur_tan",
+    "fur_copper": "head-Pig_child_fur_copper",
+    "fur_gold": "head-Pig_child_fur_gold",
+    "fur_grey": "head-Pig_child_fur_grey",
+    "fur_white": "head-Pig_child_fur_white",
+    "zombie": "head-Pig_child_zombie"
+  }
 }

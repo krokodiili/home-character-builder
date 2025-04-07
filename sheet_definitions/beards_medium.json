@@ -71,5 +71,31 @@
         "https://opengameart.org/content/lpc-expanded-sit-run-jump-more"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "beard-Medium_Beard_blonde",
+    "ash": "beard-Medium_Beard_ash",
+    "sandy": "beard-Medium_Beard_sandy",
+    "platinum": "beard-Medium_Beard_platinum",
+    "strawberry": "beard-Medium_Beard_strawberry",
+    "redhead": "beard-Medium_Beard_redhead",
+    "ginger": "beard-Medium_Beard_ginger",
+    "carrot": "beard-Medium_Beard_carrot",
+    "chestnut": "beard-Medium_Beard_chestnut",
+    "undefined": "beard-Medium_Beard_dark_brown",
+    "black": "beard-Medium_Beard_black",
+    "raven": "beard-Medium_Beard_raven",
+    "gray": "beard-Medium_Beard_gray",
+    "white": "beard-Medium_Beard_white",
+    "red": "beard-Medium_Beard_red",
+    "orange": "beard-Medium_Beard_orange",
+    "gold": "beard-Medium_Beard_gold",
+    "green": "beard-Medium_Beard_green",
+    "blue": "beard-Medium_Beard_blue",
+    "navy": "beard-Medium_Beard_navy",
+    "violet": "beard-Medium_Beard_violet",
+    "purple": "beard-Medium_Beard_purple",
+    "pink": "beard-Medium_Beard_pink",
+    "rose": "beard-Medium_Beard_rose"
+  }
 }

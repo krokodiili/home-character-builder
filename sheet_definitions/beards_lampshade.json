@@ -71,5 +71,31 @@
         "https://opengameart.org/content/lpc-expanded-sit-run-jump-more"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "blonde": "mustache-Lampshade_Mustache_blonde",
+    "ash": "mustache-Lampshade_Mustache_ash",
+    "sandy": "mustache-Lampshade_Mustache_sandy",
+    "platinum": "mustache-Lampshade_Mustache_platinum",
+    "strawberry": "mustache-Lampshade_Mustache_strawberry",
+    "redhead": "mustache-Lampshade_Mustache_redhead",
+    "ginger": "mustache-Lampshade_Mustache_ginger",
+    "carrot": "mustache-Lampshade_Mustache_carrot",
+    "chestnut": "mustache-Lampshade_Mustache_chestnut",
+    "undefined": "mustache-Lampshade_Mustache_dark_brown",
+    "black": "mustache-Lampshade_Mustache_black",
+    "raven": "mustache-Lampshade_Mustache_raven",
+    "gray": "mustache-Lampshade_Mustache_gray",
+    "white": "mustache-Lampshade_Mustache_white",
+    "red": "mustache-Lampshade_Mustache_red",
+    "orange": "mustache-Lampshade_Mustache_orange",
+    "gold": "mustache-Lampshade_Mustache_gold",
+    "green": "mustache-Lampshade_Mustache_green",
+    "blue": "mustache-Lampshade_Mustache_blue",
+    "navy": "mustache-Lampshade_Mustache_navy",
+    "violet": "mustache-Lampshade_Mustache_violet",
+    "purple": "mustache-Lampshade_Mustache_purple",
+    "pink": "mustache-Lampshade_Mustache_pink",
+    "rose": "mustache-Lampshade_Mustache_rose"
+  }
 }

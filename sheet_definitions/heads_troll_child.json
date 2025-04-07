@@ -1,7 +1,10 @@
 {
   "name": "Troll child",
   "type_name": "head",
-  "tags": ["troll", "child"],
+  "tags": [
+    "troll",
+    "child"
+  ],
   "layer_1": {
     "zPos": 100,
     "child": "head/heads/troll/child/"
@@ -68,5 +71,24 @@
         "https://opengameart.org/content/lpc-folk"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "head-Troll_child_light",
+    "amber": "head-Troll_child_amber",
+    "olive": "head-Troll_child_olive",
+    "taupe": "head-Troll_child_taupe",
+    "bronze": "head-Troll_child_bronze",
+    "brown": "head-Troll_child_fur_brown",
+    "black": "head-Troll_child_fur_black",
+    "lavender": "head-Troll_child_lavender",
+    "blue": "head-Troll_child_blue",
+    "zombie_green": "head-Troll_child_zombie_green",
+    "green": "head-Troll_child_dark_green",
+    "zombie": "head-Troll_child_zombie",
+    "fur_tan": "head-Troll_child_fur_tan",
+    "fur_copper": "head-Troll_child_fur_copper",
+    "fur_gold": "head-Troll_child_fur_gold",
+    "fur_grey": "head-Troll_child_fur_grey",
+    "fur_white": "head-Troll_child_fur_white"
+  }
 }

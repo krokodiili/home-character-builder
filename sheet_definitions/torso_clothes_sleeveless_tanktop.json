@@ -78,5 +78,30 @@
         "http://opengameart.org/content/lpc-clothing-updates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "clothes-Tanktop_black",
+    "blue": "clothes-Tanktop_bluegray",
+    "brown": "clothes-Tanktop_brown",
+    "charcoal": "clothes-Tanktop_charcoal",
+    "forest": "clothes-Tanktop_forest",
+    "gray": "clothes-Tanktop_gray",
+    "green": "clothes-Tanktop_green",
+    "lavender": "clothes-Tanktop_lavender",
+    "leather": "clothes-Tanktop_leather",
+    "maroon": "clothes-Tanktop_maroon",
+    "navy": "clothes-Tanktop_navy",
+    "orange": "clothes-Tanktop_orange",
+    "pink": "clothes-Tanktop_pink",
+    "purple": "clothes-Tanktop_purple",
+    "red": "clothes-Tanktop_red",
+    "rose": "clothes-Tanktop_rose",
+    "sky": "clothes-Tanktop_sky",
+    "slate": "clothes-Tanktop_slate",
+    "tan": "clothes-Tanktop_tan",
+    "teal": "clothes-Tanktop_teal",
+    "walnut": "clothes-Tanktop_walnut",
+    "white": "clothes-Tanktop_white",
+    "yellow": "clothes-Tanktop_yellow"
+  }
 }

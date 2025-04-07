@@ -53,5 +53,30 @@
         "http://opengameart.org/content/lpc-clothing-updates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "apron-Overskirt_black",
+    "blue": "apron-Overskirt_bluegray",
+    "brown": "apron-Overskirt_brown",
+    "charcoal": "apron-Overskirt_charcoal",
+    "forest": "apron-Overskirt_forest",
+    "gray": "apron-Overskirt_gray",
+    "green": "apron-Overskirt_green",
+    "lavender": "apron-Overskirt_lavender",
+    "leather": "apron-Overskirt_leather",
+    "maroon": "apron-Overskirt_maroon",
+    "navy": "apron-Overskirt_navy",
+    "orange": "apron-Overskirt_orange",
+    "pink": "apron-Overskirt_pink",
+    "purple": "apron-Overskirt_purple",
+    "red": "apron-Overskirt_red",
+    "rose": "apron-Overskirt_rose",
+    "sky": "apron-Overskirt_sky",
+    "slate": "apron-Overskirt_slate",
+    "tan": "apron-Overskirt_tan",
+    "teal": "apron-Overskirt_teal",
+    "walnut": "apron-Overskirt_walnut",
+    "white": "apron-Overskirt_white",
+    "yellow": "apron-Overskirt_yellow"
+  }
 }

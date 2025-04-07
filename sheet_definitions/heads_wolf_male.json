@@ -1,7 +1,10 @@
 {
   "name": "Wolf male",
   "type_name": "head",
-  "tags": ["animal", "adult"],
+  "tags": [
+    "animal",
+    "adult"
+  ],
   "layer_1": {
     "zPos": 100,
     "male": "head/heads/wolf/male/",
@@ -76,5 +79,26 @@
         "https://opengameart.org/content/lpc-character-bases"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "fur_black": "head-Wolf_male_fur_black",
+    "fur_brown": "head-Wolf_male_fur_brown",
+    "fur_tan": "head-Wolf_male_fur_tan",
+    "fur_copper": "head-Wolf_male_fur_copper",
+    "fur_gold": "head-Wolf_male_fur_gold",
+    "fur_grey": "head-Wolf_male_fur_grey",
+    "fur_white": "head-Wolf_male_fur_white",
+    "light": "head-Wolf_male_light",
+    "amber": "head-Wolf_male_amber",
+    "olive": "head-Wolf_male_olive",
+    "taupe": "head-Wolf_male_taupe",
+    "bronze": "head-Wolf_male_bronze",
+    "brown": "head-Wolf_male_brown",
+    "black": "head-Wolf_male_black",
+    "lavender": "head-Wolf_male_lavender",
+    "blue": "head-Wolf_male_blue",
+    "zombie_green": "head-Wolf_male_zombie_green",
+    "green": "head-Wolf_male_dark_green",
+    "zombie": "head-Wolf_male_zombie"
+  }
 }

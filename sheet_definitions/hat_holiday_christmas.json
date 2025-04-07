@@ -1,7 +1,10 @@
 {
   "name": "Christmas Hat",
   "type_name": "hat",
-  "tags": ["santa", "santa_hat"],
+  "tags": [
+    "santa",
+    "santa_hat"
+  ],
   "layer_1": {
     "zPos": 130,
     "female": "hat/holiday/christmas/adult/",
@@ -72,5 +75,30 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "red": "hat-Christmas_Hat_red",
+    "black": "hat-Christmas_Hat_black",
+    "blue": "hat-Christmas_Hat_bluegray",
+    "brown": "hat-Christmas_Hat_brown",
+    "charcoal": "hat-Christmas_Hat_charcoal",
+    "forest": "hat-Christmas_Hat_forest",
+    "gray": "hat-Christmas_Hat_gray",
+    "green": "hat-Christmas_Hat_green",
+    "lavender": "hat-Christmas_Hat_lavender",
+    "leather": "hat-Christmas_Hat_leather",
+    "maroon": "hat-Christmas_Hat_maroon",
+    "navy": "hat-Christmas_Hat_navy",
+    "orange": "hat-Christmas_Hat_orange",
+    "pink": "hat-Christmas_Hat_pink",
+    "purple": "hat-Christmas_Hat_purple",
+    "rose": "hat-Christmas_Hat_rose",
+    "sky": "hat-Christmas_Hat_sky",
+    "slate": "hat-Christmas_Hat_slate",
+    "tan": "hat-Christmas_Hat_tan",
+    "teal": "hat-Christmas_Hat_teal",
+    "walnut": "hat-Christmas_Hat_walnut",
+    "white": "hat-Christmas_Hat_white",
+    "yellow": "hat-Christmas_Hat_yellow"
+  }
 }

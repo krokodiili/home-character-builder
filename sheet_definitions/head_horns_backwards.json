@@ -113,5 +113,8 @@
         "https://opengameart.org/content/lpc-lizard-headgear"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "horns": "horns-Backwards_Horns_metallic_gold"
+  }
 }

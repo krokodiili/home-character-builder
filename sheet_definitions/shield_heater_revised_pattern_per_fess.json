@@ -79,5 +79,30 @@
         "https://opengameart.org/content/lpc-shields"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "shield_pattern-revised_per_fess_black",
+    "blue": "shield_pattern-revised_per_fess_bluegray",
+    "brown": "shield_pattern-revised_per_fess_brown",
+    "charcoal": "shield_pattern-revised_per_fess_charcoal",
+    "forest": "shield_pattern-revised_per_fess_forest",
+    "gray": "shield_pattern-revised_per_fess_gray",
+    "green": "shield_pattern-revised_per_fess_green",
+    "lavender": "shield_pattern-revised_per_fess_lavender",
+    "leather": "shield_pattern-revised_per_fess_leather",
+    "maroon": "shield_pattern-revised_per_fess_maroon",
+    "navy": "shield_pattern-revised_per_fess_navy",
+    "orange": "shield_pattern-revised_per_fess_orange",
+    "pink": "shield_pattern-revised_per_fess_pink",
+    "purple": "shield_pattern-revised_per_fess_purple",
+    "red": "shield_pattern-revised_per_fess_red",
+    "rose": "shield_pattern-revised_per_fess_rose",
+    "sky": "shield_pattern-revised_per_fess_sky",
+    "slate": "shield_pattern-revised_per_fess_slate",
+    "tan": "shield_pattern-revised_per_fess_tan",
+    "teal": "shield_pattern-revised_per_fess_teal",
+    "walnut": "shield_pattern-revised_per_fess_walnut",
+    "white": "shield_pattern-revised_per_fess_white",
+    "yellow": "shield_pattern-revised_per_fess_yellow"
+  }
 }

@@ -71,5 +71,30 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "headcover-Tied_Headband_black",
+    "blue": "headcover-Tied_Headband_bluegray",
+    "brown": "headcover-Tied_Headband_brown",
+    "charcoal": "headcover-Tied_Headband_charcoal",
+    "forest": "headcover-Tied_Headband_forest",
+    "gray": "headcover-Tied_Headband_gray",
+    "green": "headcover-Tied_Headband_green",
+    "lavender": "headcover-Tied_Headband_lavender",
+    "leather": "headcover-Tied_Headband_leather",
+    "maroon": "headcover-Tied_Headband_maroon",
+    "navy": "headcover-Tied_Headband_navy",
+    "orange": "headcover-Tied_Headband_orange",
+    "pink": "headcover-Tied_Headband_pink",
+    "purple": "headcover-Tied_Headband_purple",
+    "red": "headcover-Tied_Headband_red",
+    "rose": "headcover-Tied_Headband_rose",
+    "sky": "headcover-Tied_Headband_sky",
+    "slate": "headcover-Tied_Headband_slate",
+    "tan": "headcover-Tied_Headband_tan",
+    "teal": "headcover-Tied_Headband_teal",
+    "walnut": "headcover-Tied_Headband_walnut",
+    "white": "headcover-Tied_Headband_white",
+    "yellow": "headcover-Tied_Headband_yellow"
+  }
 }

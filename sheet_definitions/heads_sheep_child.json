@@ -1,7 +1,10 @@
 {
   "name": "Sheep child",
   "type_name": "head",
-  "tags": ["animal", "child"],
+  "tags": [
+    "animal",
+    "child"
+  ],
   "layer_1": {
     "zPos": 100,
     "child": "head/heads/sheep/child/"
@@ -67,5 +70,26 @@
         "http://opengameart.org/content/lpc-folk"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "fur_black": "head-Sheep_child_fur_black",
+    "fur_brown": "head-Sheep_child_fur_brown",
+    "fur_tan": "head-Sheep_child_fur_tan",
+    "fur_copper": "head-Sheep_child_fur_copper",
+    "fur_gold": "head-Sheep_child_fur_gold",
+    "fur_grey": "head-Sheep_child_fur_grey",
+    "fur_white": "head-Sheep_child_fur_white",
+    "light": "head-Sheep_child_light",
+    "amber": "head-Sheep_child_amber",
+    "olive": "head-Sheep_child_olive",
+    "taupe": "head-Sheep_child_taupe",
+    "bronze": "head-Sheep_child_bronze",
+    "brown": "head-Sheep_child_brown",
+    "black": "head-Sheep_child_black",
+    "lavender": "head-Sheep_child_lavender",
+    "blue": "head-Sheep_child_blue",
+    "zombie_green": "head-Sheep_child_zombie_green",
+    "green": "head-Sheep_child_dark_green",
+    "zombie": "head-Sheep_child_zombie"
+  }
 }

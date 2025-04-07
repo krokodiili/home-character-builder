@@ -1,7 +1,10 @@
 {
   "name": "Lizard female",
   "type_name": "head",
-  "tags": ["lizard", "adult"],
+  "tags": [
+    "lizard",
+    "adult"
+  ],
   "layer_1": {
     "zPos": 100,
     "male": "head/heads/lizard/female/",
@@ -65,5 +68,18 @@
         "https://opengameart.org/content/lpc-character-bases"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "head-Lizard_female_light",
+    "amber": "head-Lizard_female_amber",
+    "olive": "head-Lizard_female_olive",
+    "taupe": "head-Lizard_female_taupe",
+    "bronze": "head-Lizard_female_bronze",
+    "brown": "head-Lizard_female_brown",
+    "black": "head-Lizard_female_black",
+    "lavender": "head-Lizard_female_lavender",
+    "blue": "head-Lizard_female_blue",
+    "zombie_green": "head-Lizard_female_zombie_green",
+    "green": "head-Lizard_female_dark_green"
+  }
 }

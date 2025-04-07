@@ -114,5 +114,30 @@
         "https://opengameart.org/content/more-lpc-clothes-and-hair"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "legs-Pantaloons_black",
+    "blue": "legs-Pantaloons_bluegray",
+    "brown": "legs-Pantaloons_brown",
+    "charcoal": "legs-Pantaloons_charcoal",
+    "forest": "legs-Pantaloons_forest",
+    "gray": "legs-Pantaloons_gray",
+    "green": "legs-Pantaloons_green",
+    "lavender": "legs-Pantaloons_lavender",
+    "leather": "legs-Pantaloons_leather",
+    "maroon": "legs-Pantaloons_maroon",
+    "navy": "legs-Pantaloons_navy",
+    "orange": "legs-Pantaloons_orange",
+    "pink": "legs-Pantaloons_pink",
+    "purple": "legs-Pantaloons_purple",
+    "red": "legs-Pantaloons_red",
+    "rose": "legs-Pantaloons_rose",
+    "sky": "legs-Pantaloons_sky",
+    "slate": "legs-Pantaloons_slate",
+    "tan": "legs-Pantaloons_tan",
+    "teal": "legs-Pantaloons_teal",
+    "walnut": "legs-Pantaloons_walnut",
+    "white": "legs-Pantaloons_white",
+    "yellow": "legs-Pantaloons_yellow"
+  }
 }

@@ -72,5 +72,19 @@
         "https://opengameart.org/content/lpc-extended-weapon-animations"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "medium": "weapon-Trident_medium",
+    "light": "weapon-Trident_light",
+    "red": "weapon-Trident_red",
+    "dark": "weapon-Trident_dark",
+    "brass": "weapon-Trident_brass",
+    "bronze": "weapon-Trident_bronze",
+    "ceramic": "weapon-Trident_ceramic",
+    "copper": "weapon-Trident_copper",
+    "gold": "weapon-Trident_gold",
+    "iron": "weapon-Trident_iron",
+    "silver": "weapon-Trident_silver",
+    "steel": "weapon-Trident_steel"
+  }
 }

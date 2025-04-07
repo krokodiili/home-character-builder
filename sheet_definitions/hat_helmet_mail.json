@@ -57,5 +57,15 @@
         "https://opengameart.org/content/lpc-expanded-hats-facial-helmets"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "steel": "bandana-Mail_steel",
+    "iron": "bandana-Mail_iron",
+    "ceramic": "bandana-Mail_ceramic",
+    "brass": "bandana-Mail_brass",
+    "copper": "bandana-Mail_copper",
+    "bronze": "bandana-Mail_bronze",
+    "silver": "bandana-Mail_silver",
+    "gold": "bandana-Mail_gold"
+  }
 }

@@ -1,7 +1,10 @@
 {
   "name": "Orc male",
   "type_name": "head",
-  "tags": ["orc", "adult"],
+  "tags": [
+    "orc",
+    "adult"
+  ],
   "layer_1": {
     "zPos": 100,
     "male": "head/heads/orc/male/",
@@ -76,5 +79,24 @@
         "https://opengameart.org/content/lpc-character-bases"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "light": "head-Orc_male_light",
+    "amber": "head-Orc_male_amber",
+    "olive": "head-Orc_male_olive",
+    "taupe": "head-Orc_male_taupe",
+    "bronze": "head-Orc_male_bronze",
+    "brown": "head-Orc_male_fur_brown",
+    "black": "head-Orc_male_fur_black",
+    "lavender": "head-Orc_male_lavender",
+    "blue": "head-Orc_male_blue",
+    "zombie_green": "head-Orc_male_zombie_green",
+    "green": "head-Orc_male_dark_green",
+    "zombie": "head-Orc_male_zombie",
+    "fur_tan": "head-Orc_male_fur_tan",
+    "fur_copper": "head-Orc_male_fur_copper",
+    "fur_gold": "head-Orc_male_fur_gold",
+    "fur_grey": "head-Orc_male_fur_grey",
+    "fur_white": "head-Orc_male_fur_white"
+  }
 }

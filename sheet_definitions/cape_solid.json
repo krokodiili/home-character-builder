@@ -1,7 +1,10 @@
 {
   "name": "Solid",
   "type_name": "cape",
-  "tags": ["back", "cape"],
+  "tags": [
+    "back",
+    "cape"
+  ],
   "layer_1": {
     "zPos": 85,
     "male": "cape/solid/female/",
@@ -80,5 +83,30 @@
         "https://opengameart.org/content/lpc-roman-armor"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "cape-Solid_black",
+    "blue": "cape-Solid_bluegray",
+    "brown": "cape-Solid_brown",
+    "charcoal": "cape-Solid_charcoal",
+    "forest": "cape-Solid_forest",
+    "gray": "cape-Solid_gray",
+    "green": "cape-Solid_green",
+    "lavender": "cape-Solid_lavender",
+    "leather": "cape-Solid_leather",
+    "maroon": "cape-Solid_maroon",
+    "navy": "cape-Solid_navy",
+    "orange": "cape-Solid_orange",
+    "pink": "cape-Solid_pink",
+    "purple": "cape-Solid_purple",
+    "red": "cape-Solid_red",
+    "rose": "cape-Solid_rose",
+    "sky": "cape-Solid_sky",
+    "slate": "cape-Solid_slate",
+    "tan": "cape-Solid_tan",
+    "teal": "cape-Solid_teal",
+    "walnut": "cape-Solid_walnut",
+    "white": "cape-Solid_white",
+    "yellow": "cape-Solid_yellow"
+  }
 }

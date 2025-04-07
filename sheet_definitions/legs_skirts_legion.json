@@ -54,5 +54,30 @@
         "http://opengameart.org/content/lpc-clothing-updates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "black": "legs-Legion_skirt_black",
+    "blue": "legs-Legion_skirt_bluegray",
+    "brown": "legs-Legion_skirt_brown",
+    "charcoal": "legs-Legion_skirt_charcoal",
+    "forest": "legs-Legion_skirt_forest",
+    "gray": "legs-Legion_skirt_gray",
+    "green": "legs-Legion_skirt_green",
+    "lavender": "legs-Legion_skirt_lavender",
+    "leather": "legs-Legion_skirt_leather",
+    "maroon": "legs-Legion_skirt_maroon",
+    "navy": "legs-Legion_skirt_navy",
+    "orange": "legs-Legion_skirt_orange",
+    "pink": "legs-Legion_skirt_pink",
+    "purple": "legs-Legion_skirt_purple",
+    "red": "legs-Legion_skirt_red",
+    "rose": "legs-Legion_skirt_rose",
+    "sky": "legs-Legion_skirt_sky",
+    "slate": "legs-Legion_skirt_slate",
+    "tan": "legs-Legion_skirt_tan",
+    "teal": "legs-Legion_skirt_teal",
+    "walnut": "legs-Legion_skirt_walnut",
+    "white": "legs-Legion_skirt_white",
+    "yellow": "legs-Legion_skirt_yellow"
+  }
 }

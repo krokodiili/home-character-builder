@@ -28,5 +28,14 @@
         "https://opengameart.org/content/lpc-pirates"
       ]
     }
-  ]
+  ],
+  "ids": {
+    "bronze": "jacket_trim-Frock_coat_lace_bronze",
+    "gold": "jacket_trim-Frock_coat_lace_gold",
+    "silver": "jacket_trim-Frock_coat_lace_silver",
+    "red": "jacket_trim-Frock_coat_lace_red",
+    "blue": "jacket_trim-Frock_coat_lace_blue",
+    "teal": "jacket_trim-Frock_coat_lace_teal",
+    "yellow": "jacket_trim-Frock_coat_lace_yellow"
+  }
 }
